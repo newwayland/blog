@@ -1,4 +1,4 @@
-baseURL = "https://new-wayland.com/blog"
+baseURL = "https://new-wayland.com/blog/"
 title = "New Wayland"
 theme = "ghostwriter"
 languageCode = "en-gb"
