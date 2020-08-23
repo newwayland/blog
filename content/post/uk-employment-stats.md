@@ -1,0 +1,11 @@
+---
+
+title: "UK Employment Stats"
+date: 2020-07-16T10:32:06+01:00
+description: "UK people without work that want it"
+tags: [statistics, uk]
+
+---
+
+![UK: People Wanting Work](https://docs.google.com/spreadsheets/d/e/2PACX-1vSYYhNmWpm2NCQ9a90R8eZx_KqC-oI3EKjLUa72kOTLeAn7SBwhsQLVUcrud-J6smfMta7PenshKwNN/pubchart?oid=1&format=image)
+
