@@ -4,7 +4,6 @@ title: "Revealed: The Simple Change That Breaks Mainstream Macro"
 date: 2020-07-28T11:11:43+01:00
 description: "Price competition breaks peer reviewed mainstream agent model"
 tags: [models, mmt, mainstream, abm]
-draft: true
 
 ---
 
