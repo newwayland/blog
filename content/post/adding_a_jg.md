@@ -7,7 +7,7 @@ tags: [mmt, jg, models]
 
 ---
 
-I've added a branch to the Baseline Model code to support the Job
+I've added a branch to the [Baseline Model][3] code to support the Job
 Guarantee and [written up a summary and the detailed algorithm changes
 required][1].
 
@@ -41,3 +41,4 @@ post is too long to contain.
 
 [1]: https://github.com/newwayland/baseline-economy/blob/jg/notes/jg-rules.md
 [2]: https://new-wayland.com/blog/how-the-jg-controls-inflation/
+[3]: https://new-wayland.com/blog/revealed-the-simple-change-that-breaks-mainstream-macro/
