@@ -23,7 +23,7 @@ In addition Firm 101 has adaptations to the economy it is running in:
 
 - labour hours are transformed into the same single, stockable, tradeable good
 in the economy as all other hours are
-- the good has a fixed price
+- the good is sold at a fixed price
 - the good competes with private sector output at that price
 - sale of the good at the fixed price is the only taxation mechanism
 - the productivity of Firm 101 is much lower than a private firm
