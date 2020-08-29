@@ -30,7 +30,7 @@ And the problem is fixed. Full employment from day one, no poverty, wages and pr
 [5]: {{< relref "how-the-JG-controls-inflation.md" >}}
 [6]: https://amzn.to/2G61Ii1
 
-This trace has a few of interesting artefacts in it that are worthy of note.
+This trace has a few interesting artefacts in it that are worthy of note.
 
 1. The wage slowly increases but the price of goods falls. Competition
 does its job and the real wage share increases over time.
