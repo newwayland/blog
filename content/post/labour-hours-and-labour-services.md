@@ -21,9 +21,9 @@ Keeping these relationships in balance is a joint function of market and regulat
 
 In a buyers market for labour, the employee is unable to resist employer changes. So you get increasing encroachment onto the rest of the employee’s life. If they are without a job, then they become subject to zero-hours contracts and the ‘gig’ economy all of which ration out paid work interspersed with unemployment. They are forced to travel further, are on-call 24/7, required to answer emails on a device, working from home is not an option, or are simply kept at the office by peer pressure outside their contracted hours. The result is a reduction in the effective hourly wage received, right down to zero in the case of interns.
 
-An employer may be able to retain cheaper labour, but it’s not all plain sailing. There is the rise of the parasite economy that uses cheap labour to undermine firms that want to pay and treat their staff properly. The reduction in labour costs drives down the capital/labour ratio so that capital is always ‘too expensive’ even if it being practically given away. You get a savings glut with nothing worth investing in, and a drain in productivity improvements. The chase to the bottom has two sides.
+An employer may be able to retain cheaper labour, but it’s not all plain sailing. There is the rise of the [parasite economy](https://prospect.org/labor/confronting-parasite-economy/) that uses cheap labour to undermine firms that want to pay and treat their staff properly. The reduction in labour costs drives down the capital/labour ratio so that capital is always ‘too expensive’ even if it being practically given away. You get a savings glut with nothing worth investing in, and a drain in productivity improvements. The chase to the bottom has two sides.
 #### What does this mean for the Job Guarantee?
-The Job Guarantee is based upon the principal perhaps best expressed by the late, great Muhammad Ali
+The Job Guarantee is based upon the principal perhaps [best expressed by the late, great Muhammad Ali](https://www.brainyquote.com/quotes/muhammad_ali_136676)
 > Service to others is the rent you pay for your room here on earth.
 
 And that leads to the following concepts:
@@ -59,7 +59,7 @@ People are often very bad at determining what they are good at. Their friends an
 
 This is why the Job Guarantee approach has to have an active process for producing sufficient jobs. Stuff to do that people want to do and that others are happy to see them do has to be actively created. It will not arise spontaneously in any manner that is socially sustainable.
 #### Why unemployment occurs
-The unemployed arise because ‘laissez faire’ is unable to ensure full employment at stable prices. The economy ends up with a list of vacancies and a list of unemployed where nothing matches. In a working economy with a functional minimum wage, none of the unemployed are capable of fulfilling any of the vacancies and few individuals, if any, can be transformed by training even if it was commercially viable. You have a structural matching problem that will persist, however long the beatings continue.
+The unemployed arise because ‘laissez faire’ is [unable to ensure full employment at stable prices][3]. The economy ends up with a list of vacancies and a list of unemployed where nothing matches. In a working economy with a functional minimum wage, none of the unemployed are capable of fulfilling any of the vacancies and few individuals, if any, can be transformed by training even if it was commercially viable. You have a structural matching problem that will persist, however long the beatings continue.
 
 Classical economics gives this state a name, the NAIRU, and then tries to brand it as ‘full employment’. It isn’t — the clue being in the ‘RU’ bit of NAIRU which stands for ‘Rate of Unemployment’. And the rate is about 1 in 20 people. For every 20 dogs, there can only ever be 19 bones.
 
@@ -103,3 +103,5 @@ The Job Guarantee actively assists people to be the best they can and produce th
 ---
 
 *In memory of Issa. Rest easy little one*.
+
+[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro.md" >}}
