@@ -110,8 +110,8 @@ income of the non-government sector.
 And that's why, despite mountains of QE, not a lot has happened. First
 you have to overcome a £14.5 billion drain in income. 
 
-Now when you see somebody talking about "money printing" you can now
-smile quietly to yourself and think...
+Now when you see somebody talking about "money printing" you can smile
+quietly to yourself and think...
 
 ![I do not think it means what you think it means](images/i-do-not-think-it-means.jpg)
 
