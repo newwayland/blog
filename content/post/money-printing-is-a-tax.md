@@ -115,8 +115,14 @@ smile quietly to yourself and think...
 
 ![I do not think it means what you think it means](images/i-do-not-think-it-means.jpg)
 
+---
+
+For a US explanation, see [Scott Fullwiler's paper][5] "When the Interest
+Rate on the National Debt Is a Policy Variable (and “Printing Money”
+Does Not Apply)"
 
 [1]: https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2020/boe-2020.pdf
 [2]: https://www.bankofengland.co.uk/-/media/boe/files/paper/2020/consultation-on-the-future-of-the-uks-wholesale-cash-distribution-model.pdf
 [3]: https://www.investopedia.com/ask/answers/041615/what-difference-between-repurchase-agreement-and-reverse-repurchase-agreement.asp
 [4]: https://www.bankofengland.co.uk/-/media/boe/files/asset-purchase-facility/2020/annual-report-2020.pdf
+[5]: https://doi.org/10.1111/pbaf.12249
