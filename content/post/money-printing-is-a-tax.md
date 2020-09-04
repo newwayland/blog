@@ -107,7 +107,7 @@ and replaced with lower income earning assets, with the difference paid
 over to HM Treasury.  It's **just another form of tax** reducing the
 income of the non-government sector.
 
-And that's why, despite mountains of QE not a lot has happened. First
+And that's why, despite mountains of QE, not a lot has happened. First
 you have to overcome a £14.5 billion drain in income. 
 
 Now when you see somebody talking about "money printing" you can now
