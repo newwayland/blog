@@ -31,7 +31,7 @@ That gives a null hypothesis to fire at. And so far nobody has a list of people 
 
 So I thought [I'd find out where I was](https://www.vitamindtest.org.uk) - particularly as I ended up on antibiotics for the first time last November for a chest infection that wouldn't go away.
 
-I live [above the 55th parallel](https://en.wikipedia.org/wiki/55th_parallel_north) and I have [type II skin](https://en.wikipedia.org/wiki/Fitzpatrick_scale) - a genetic adaptation for this latitude. But of course I live a modern life largely in front of a computer during the week, although I get out as much as I can (averaging 3700 steps over the last year). BMI is 22.5 at the moment which is reasonable for my age.
+I live [above the 55th parallel](https://en.wikipedia.org/wiki/55th_parallel_north) and I have [type II skin](https://en.wikipedia.org/wiki/Fitzpatrick_scale) - a genetic adaptation for this latitude. But of course I live a modern life largely in front of a computer during the week, although I get out as much as I can (averaging 3700 steps per day over the last year). BMI is 22.5 at the moment which is reasonable for my age.
 
 My results came back:
 
