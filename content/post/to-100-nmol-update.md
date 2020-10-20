@@ -31,7 +31,7 @@ Activity levels have reduced a little - down to an average of 3500 steps per day
 
 ## Results
 
-The updated results 
+The updated results [from the lab](https://www.vitamindtest.org.uk) are:
 
 ```
 Total Vitamin D : 88.1 nmol/L
