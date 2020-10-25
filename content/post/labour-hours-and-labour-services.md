@@ -1,7 +1,7 @@
 ---
 
 title: "Labour Hours and Labour Services"
-date: 2020-08-30T14:54:10+01:00
+date: 2017-01-29T14:54:10Z
 description: "Employment is about buying the former and generating the latter. How does that relate to the Job Guarantee?"
 tags: [archive, mmt, jg]
 
