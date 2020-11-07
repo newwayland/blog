@@ -9,7 +9,7 @@ tags: [mmt, comment]
 ![Win](https://upload.wikimedia.org/wikipedia/commons/2/26/Canada2010WinterOlympicsOTcelebration.jpg)
 With his article [Sadly, it's a complete myth that Britain can't afford
 further lockdowns][1] another British neoliberal commentator admits
-defeat in the face of the unassailble facts and logic of MMT. There will be a mopping up
+defeat in the face of the unassailable facts and logic of MMT. There will be a mopping up
 operations and some people will refuse to believe that the bond vigilantes
 will not be returning to earth like some latter day
 Deus ex Machina, to set things as the ought to be. Increasingly, though, they are looking like the cranks they are.
