@@ -44,7 +44,7 @@ many more billions of Gilts do we have to sell at near-zero redemption
 yields? Surely by now, it should be clear that the old mental model is
 just a laughable anachronism.
 
-Perhaps the mental blockage is thPerhaps the mental blockage is the
+Perhaps the mental blockage is the
 horrible realisation that an awful lot of private sector activity adds
 about as much real value to the economy as a government furlough payment.
 
