@@ -1,13 +1,13 @@
 ---
 
 title: "Anatomy of an FX Transaction"
-date: 2020-12-27T06:46:54Z
+date: 2020-12-27T07:26:54Z
 description: "How exactly does an FX transaction works in a floating currency rate environment? Read on to find out"
 tags: [FX, mmt]
 
 ---
 
-![Tenners](images/norway-lion.jpeg)
+![Lion](images/norway-lion.jpeg)
 An FX transaction between floating rate currencies is actually two contracts. One is Bank A putting Bank B in credit with Currency A, and the other is Bank B putting Bank A in credit with Currency B. These contracts are assets of the banks, which can then be discounted into the currency the bank operates in. That creates the matching liabilities, which are deposits and which can then be used to pay people in the other currency area.
 
 We can use this process to model how the currencies flow from the point of view of a net exporter in a free floating currency rate environment.
