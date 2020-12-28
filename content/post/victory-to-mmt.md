@@ -1,7 +1,7 @@
 ---
 
 title: "Victory to MMT"
-description: "Another neoliberal throws in the towel in the face of unassailable facts and logic"
+summary: "Another neoliberal throws in the towel in the face of unassailable facts and logic"
 date: 2020-11-07T06:26:43Z
 tags: [mmt, comment]
 

@@ -2,7 +2,7 @@
 
 title: "UK Employment Stats"
 date: 2020-07-16T10:32:06+01:00
-description: "UK people without work that want it"
+summary: "UK people without work that want it"
 tags: [statistics, uk]
 
 ---

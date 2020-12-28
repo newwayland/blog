@@ -2,7 +2,7 @@
 
 title: "Look Ma No Tax: From Zero to Full Employment"
 date: 2020-09-01T06:47:21+01:00
-description: "Demonstrating how the Job Guarantee precisely offsets the drain to savings"
+summary: "Demonstrating how the Job Guarantee precisely offsets the drain to savings"
 tags: [mmt, jg, models]
 
 ---

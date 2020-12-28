@@ -1,7 +1,7 @@
 ---
 
 title: "How the Job Guarantee Fixes Mainstream Macro"
-description: "Adding a Job Guarantee to the peer reviewed mainstream agent model"
+summary: "Adding a Job Guarantee to the peer reviewed mainstream agent model"
 date: 2020-08-29T12:17:56+01:00
 tags: [models, mmt, mainstream, abm, jg]
 

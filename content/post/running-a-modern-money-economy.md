@@ -1,6 +1,6 @@
 ---
 title: "Running a Modern Money Economy"
-description: "Putting it all together"
+summary: "Putting it all together"
 date: 2017-05-16T18:12:23+01:00
 tags: [archive, mmt]
 

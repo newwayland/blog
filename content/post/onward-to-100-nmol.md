@@ -2,7 +2,7 @@
 
 title: "Onward to 100 nmol/L"
 date: 2020-08-15T16:09:21+01:00
-description: "Vitamin D and Covid 19 personal experiment"
+summary: "Vitamin D and Covid 19 personal experiment"
 tags: [covid19, personal]
 
 ---

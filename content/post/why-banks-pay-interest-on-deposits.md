@@ -1,7 +1,7 @@
 ---
 
 title: "Why Banks Pay Interest on Deposits"
-description: "How the central bank setting interest rates above zero forces banks to pay interest on deposits"
+summary: "How the central bank setting interest rates above zero forces banks to pay interest on deposits"
 date: 2020-11-08T03:41:06Z
 tags: [mmt, banks]
 

@@ -2,7 +2,7 @@
 
 title: "Adding a JG to the Baseline Model"
 date: 2020-08-28T09:33:39+01:00
-description: "Algorithm changes required to the Baseline Model to support a Job Guarantee"
+summary: "Algorithm changes required to the Baseline Model to support a Job Guarantee"
 tags: [mmt, jg, models]
 
 ---

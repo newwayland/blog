@@ -2,7 +2,7 @@
 
 title: "Onward To 100 Nmol/L: Update"
 date: 2020-10-20T06:46:09+01:00
-description: "Vitamin D personal experiment - update after initial 8 week supplementation"
+summary: "Vitamin D personal experiment - update after initial 8 week supplementation"
 tags: [covid19, personal]
 
 ---

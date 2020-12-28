@@ -2,7 +2,7 @@
 
 title: "Money Printing Is a Tax"
 date: 2020-09-04T15:54:36+01:00
-description: "The phrase 'money printing' is shorthand for 'I don't know what I'm talking about'"
+summary: "The phrase 'money printing' is shorthand for 'I don't know what I'm talking about'"
 tags: [mmt, banking]
 
 ---

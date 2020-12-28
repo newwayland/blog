@@ -1,7 +1,7 @@
 ---
 
 title: "The UK Job Guarantee — how it gets paid"
-description: "Why the UK tax and benefits infrastructure is ready to implement a full Job Guarantee for all."
+summary: "Why the UK tax and benefits infrastructure is ready to implement a full Job Guarantee for all."
 date: 2020-08-30T15:09:10+01:00
 tags: [mmt, jg, uk]
 

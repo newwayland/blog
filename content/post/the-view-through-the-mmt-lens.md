@@ -2,7 +2,7 @@
 
 title: "The View Through the MMT Lens"
 date: 2020-07-26T11:04:43+01:00
-description: "Hierarchical structure of banking as described by Modern Money Theory"
+summary: "Hierarchical structure of banking as described by Modern Money Theory"
 tags: [mmt, banking]
 
 ---

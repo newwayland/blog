@@ -2,7 +2,7 @@
 
 title: "Why Economists Can't See MMT"
 date: 2020-08-08T07:42:53+01:00
-description: "The MMT Balance Sheet View in a nutshell"
+summary: "The MMT Balance Sheet View in a nutshell"
 tags: [mmt, balancesheet, banking]
 
 ---

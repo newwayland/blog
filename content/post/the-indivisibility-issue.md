@@ -2,7 +2,7 @@
 
 title: "The Indivisibility Issue"
 date: 2020-08-09T09:25:21+01:00
-description: "Modern money shows how wage values can drop below goods values"
+summary: "Modern money shows how wage values can drop below goods values"
 tags: [mmt, models, mosler]
 
 ---

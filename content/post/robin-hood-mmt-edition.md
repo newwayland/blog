@@ -1,7 +1,7 @@
 ---
 title: "Robin Hood: MMT Edition"
 date: 2020-07-03T09:15:21+01:00
-description: "Updated Robin Hood Script for an Modern Money Theory World"
+summary: "Updated Robin Hood Script for an Modern Money Theory World"
 tags: [mmt]
 
 ---

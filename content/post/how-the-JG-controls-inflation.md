@@ -2,7 +2,7 @@
 
 title: "How the JG Controls Inflation"
 date: 2020-07-30T16:02:12+01:00
-description: "The Job Guarantee ensures price stability and fullemployment"
+summary: "The Job Guarantee ensures price stability and fullemployment"
 tags: [mmt, jobguarantee]
 
 ---

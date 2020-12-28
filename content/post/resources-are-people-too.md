@@ -2,7 +2,7 @@
 
 title: "Resources Are People Too"
 date: 2020-11-20T17:04:05Z
-description: "The Resources you are looking for are in the Unemployment Queue"
+summary: "The Resources you are looking for are in the Unemployment Queue"
 tags: [mmt, artices]
 
 ---

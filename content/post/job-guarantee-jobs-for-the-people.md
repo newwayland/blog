@@ -1,6 +1,6 @@
 ---
 title: "Job Guarantee: Jobs for the People"
-description: "How the Job Guarantee solves the matching problem"
+summary: "How the Job Guarantee solves the matching problem"
 date: 2016-12-03T19:07:44Z
 tags: [mmt, jg, archive]
 

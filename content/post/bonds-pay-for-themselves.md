@@ -2,7 +2,7 @@
 
 title: "Bonds Pay for Themselves"
 date: 2020-07-17T13:35:11+01:00
-description: "Why there is no need to raise taxes just because more government bonds have been issued"
+summary: "Why there is no need to raise taxes just because more government bonds have been issued"
 hasMath: true
 tag: [mmt, bonds]
 
