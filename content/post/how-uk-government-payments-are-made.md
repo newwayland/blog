@@ -1,7 +1,7 @@
 ---
 
 title: "How Money is Created in the UK"
-description: "Money is created in the UK by order of HM Treasury. Here's how it works"
+summary: "Money is created in the UK by order of HM Treasury. Here's how it works"
 date: 2020-12-26T09:00:00Z
 tags: [mmt, uk-accounting-study, payments]
 

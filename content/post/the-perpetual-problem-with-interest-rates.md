@@ -3,6 +3,7 @@
 title: "The Perpetual Problem With Interest Rates"
 date: 2020-12-28T14:54:46Z
 summary: "How can you be worried about interest rises when you're issuing fixed interest rate securities? Isn't that sort of the point of fixing the interest rate?"
+tags: [mmt, interest rates]
 
 ---
 
