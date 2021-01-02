@@ -39,14 +39,14 @@ On a morning the Consolidated Fund account at the Bank of England starts with a 
    </td>
    <td rowspan="2" >From PMG Supply
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
    <td rowspan="2" >To BoE
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
   </tr>
@@ -57,14 +57,14 @@ On a morning the Consolidated Fund account at the Bank of England starts with a 
    </td>
    <td rowspan="2" >From CF
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
    <td rowspan="2" >To PMG Supply
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
   </tr>
@@ -75,14 +75,14 @@ On a morning the Consolidated Fund account at the Bank of England starts with a 
    </td>
    <td rowspan="2" >From BoE
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
    <td rowspan="2" >To CF
    </td>
-   <td rowspan="2" ><span style="text-align: right">
-+20</span>
+   <td rowspan="2"  style="text-align: right">
++20
 
    </td>
   </tr>

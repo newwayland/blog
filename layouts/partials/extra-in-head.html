@@ -8,4 +8,7 @@
 {{ else }}
   <link rel="canonical" href="{{ .Permalink }}" />
 {{ end }}
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
 <base href="{{ .Site.BaseURL }}">

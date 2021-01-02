@@ -5,11 +5,13 @@ languageCode = "en-gb"
 copyright = "New Wayland"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
+disableKinds = ["taxonomy", "term"]
 
 [Author]
     name = "NeilW"
 
 [Params]
+    custom_css = ["css/custom.css"]
     mainSections = ["post"]
     opengraph = true
     dateFormat = "_2 Jan 2006 15:04 -0700"
@@ -25,3 +27,4 @@ pygmentsCodeFences = true
 
 [Permalinks]
     post = "/:filename/"
+
