@@ -3,6 +3,7 @@ title: "Planning for Tax Rises"
 date: 2021-01-28T06:58:23Z
 summary: "Everybody wants to see tax rises, except the British economy. How can we do both?"
 tags: [mmt, tax, budget]
+
 ---
 
 ![HM Treasury](images/treasury.jpg)
