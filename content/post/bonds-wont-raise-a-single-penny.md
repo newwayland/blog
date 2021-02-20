@@ -1,5 +1,5 @@
 ---
-title: "Starmer's Bonds Wont Raise a Single Extra Penny"
+title: "Starmer's Bonds Won't Raise a Single Extra Penny"
 date: 2021-02-18T13:30:26Z
 summary: "Bonds have already been sold to hoover up the money. So selling more bonds will just hoover up the previous bonds. Why pretend otherwise?"
 tags: [mmt, politics]
