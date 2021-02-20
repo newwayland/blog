@@ -16,7 +16,7 @@ The study proves conclusively that the source of ‘moneyness’ in the UK is th
 
 The Bank of England is just a bank and operates in the same manner as any other bank (to the extent that it [requires capital injections from HM Treasury](https://www.bankofengland.co.uk/-/media/boe/files/letter/2018/chancellor-letter-210618.pdf) to maintain its loss adjusting buffers).  A bank that is and remains, both legally and structurally, subsidiary and subservient to HM Treasury in all ways. Its primary task is to discount liabilities imposed upon it by HM Treasury into bank liabilities. It does that by order of HM Treasury, has done since at least the 19th century, and continues to do so today. The Bank has no legal authority to refuse those orders.
 
-On a morning the Consolidated Fund account at the Bank of England starts with a zero balance. The first order of business is to authorise and transfer sufficient funds from the Consolidated Fund to the Paymaster General Supply Account(s) ready to clear BACS payments initiated three days earlier. The journal for that looks like this
+On a morning the Consolidated Fund account at the Bank of England starts with a zero balance. The first order of business is to authorise and transfer sufficient funds from the Consolidated Fund Account to the Paymaster General Drawing Account(s) ready to clear BACS payments initiated three days earlier. The journal for that looks like this
 
 {{< rawhtml >}}
 <table>
@@ -35,71 +35,83 @@ On a morning the Consolidated Fund account at the Bank of England starts with a 
    </td>
   </tr>
   <tr>
-   <td rowspan="2" ><strong>Consolidated Fund (CF)</strong>
+   <td><strong>CF</strong>
    </td>
-   <td rowspan="2" >From PMG Supply
+   <td>CF Account at BoE
    </td>
-   <td rowspan="2"  style="text-align: right">
-+20
+   <td style="text-align: right">
+-10
 
    </td>
-   <td rowspan="2" >To BoE
+   <td>Supply Funding for GBS
    </td>
-   <td rowspan="2"  style="text-align: right">
-+20
-
-   </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-   <td rowspan="2" ><strong>Bank of England (BoE)</strong>
-   </td>
-   <td rowspan="2" >From CF
-   </td>
-   <td rowspan="2"  style="text-align: right">
-+20
-
-   </td>
-   <td rowspan="2" >To PMG Supply
-   </td>
-   <td rowspan="2"  style="text-align: right">
-+20
+   <td style="text-align: right">
+-10
 
    </td>
   </tr>
   <tr>
-  </tr>
-  <tr>
-   <td rowspan="2" ><strong>PMG Supply</strong>
+   <td rowspan="2" ><strong>GBS</strong>
    </td>
-   <td rowspan="2" >From BoE
+   <td>Supply Funding
    </td>
-   <td rowspan="2"  style="text-align: right">
-+20
+   <td style="text-align: right">
+-10
 
    </td>
-   <td rowspan="2" >To CF
+   <td>
    </td>
-   <td rowspan="2"  style="text-align: right">
-+20
-
+   <td>
    </td>
   </tr>
   <tr>
+   <td>PMG Drawing at BoE
+   </td>
+   <td style="text-align: right">
++10
+
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2" ><strong>Bank of England</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Consolidated Fund
+   </td>
+   <td style="text-align: right">
+-10
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>PMG Drawing
+   </td>
+   <td style="text-align: right">
++10
+
+   </td>
   </tr>
 </table>
 {{< /rawhtml >}}
 
-Government has a special BACS grade designed just for government payments (BACS Grade 3, or government grade - as distinct from the other two ‘Consumer grade’ and ‘Bank grade’). This allows the HM Treasury to use a different account at the Bank of England as the source of payment, as distinct from the account where the debit will be applied. That ‘Nostro’ account is the Paymaster General Supply Account. (Nostro/Vostro processes are ancient banking mechanisms arising in Italy during the Renaissance).
+Within the Government Banking Service, the internal bank within the Exchequer, a mirror transaction occurs moving the same amount of money from the Supply funding account to the record of the Drawing Account within GBS. The Supply Funding account is the source of Parliamentary funds and that matching transaction is what transforms 'Exchequer Credits' into 'Sterling' - by force of law. 
 
-The result is that the Consolidated Fund account at the Bank of England is debited and the PMG Supply account is credited with whatever amount is required and the BACS transfer takes place - drawing from the PMG Supply account to pay everybody that is scheduled to be paid by the government today.
+Government has a special BACS grade designed just for government payments (BACS Grade 3, or government grade - as distinct from the other two ‘Consumer grade’ and ‘Bank grade’). This allows the HM Treasury to use a different account at the Bank of England as the source of payment, as distinct from the account where the debit will be applied. That ‘Nostro’ account is the Paymaster General Drawing Account. (Nostro/Vostro processes are ancient banking mechanisms arising in Italy during the Renaissance).
 
-Now you would think that means the Consolidated Fund runs an overdraft, and in one sense you’d be right. However in the UK that doesn’t quite apply because [the law states the following](https://www.legislation.gov.uk/ukpga/Vict/29-30/39/section/11): 
+The result is that the Consolidated Fund account at the Bank of England is debited and the Drawing account is credited with whatever amount is required and the BACS transfer takes place - using the Drawing account to pay everybody that is scheduled to be paid by the government today.
 
-> All moneys paid into the Bank of England on account of the Exchequer shall be considered by the Governor and Company of the said Bank as forming one general fund in its books; and all orders directed by the Treasury to the Bank for issues out of credits to be granted by the Comptroller and Auditor General, as herein-after provided for the public service, shall be satisfied out of such general fund
-
-Which means that the Bank has to treat all accounts of the Exchequer as one. If you had a current account and a savings account, the bank would charge overdraft fees if you went overdrawn on the current account - regardless of what you had in the savings account. The Bank of England can’t do that to HM Treasury as the law forbids it.
+The Consolidated Fund runs an intra-day overdraft which is offset by other accounts held by HM Treasury. 
 
 So what is the offsetting account? This is the job of the Debt Management Account (DMA) run by the Debt Management Office (DMO). The task of the DMO is to drain money from the banking system to offset the injections that are coming from the rest of HM Treasury. And it does this by exchanging gilts and Treasury bills for the excess money HM Treasury is constantly adding to the bank system. 
 
@@ -112,3 +124,5 @@ Although the DMO has a very good idea of what payments will be going out on a pa
 Since this uncertainty may lead to the DMA becoming overdrawn, and it is a KPI of DMO to avoid that, the DMA maintains a variable positive balance overnight as a buffer against this cash flow forecast uncertainty. 
 
 So where does this buffer come from? Surely it is borrowed in the market? Well when you analyse the processes and net them off, as we have done in the study, you find that it is an identical mechanism to a capital injection by HM Treasury. It is entirely illusionary. There to make the numbers look good and allow a net movement around ~+£1bn rather than zero. The non-government sector actually has no less money overall.
+
+*Updated 20-Feb-2021 to include the Government Banking Service*
