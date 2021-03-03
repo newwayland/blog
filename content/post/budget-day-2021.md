@@ -17,7 +17,7 @@ capacity for the Government to purchase.
 
 ## The Functional View
 
-Many, if not most, people believe that The Budget is where the Government lays out its spending plans. It isn't. That is the [Supply and Estimates][2] and the [Vote on Account][1] process. Those papers we published on the 22-February and will lead eventually to a [Supply and Appropriation Act.][4]
+Many, if not most, people believe that The Budget is where the Government lays out its spending plans. It isn't. That is the [Supply and Estimates][2] and the [Vote on Account][1] process. Those papers were published on the 22-February and will lead eventually to a [Supply and Appropriation Act.][4]
 
 That you haven't heard of them, let alone any media coverage of them, tells you everything that is wrong with the budgeting process in the UK. It is those spending plans that determine the impact Government has on the economy. Every single increased price in those plans should be quizzed by parliament as to why it is necessary. Yet the whole thing will almost certainly go through ["on the nod".][3]
 
