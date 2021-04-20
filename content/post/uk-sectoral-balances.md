@@ -2,7 +2,7 @@
 
 title: "UK Sectoral Balances"
 date: 2021-04-20T09:35:59+01:00
-summary: "Sectoral Finacial Balances for the UK as a % of GDP, smoothed over a year"
+summary: "Sectoral Financial Balances for the UK as a % of GDP, smoothed over a year"
 tags: [statistics, uk]
 
 ---
