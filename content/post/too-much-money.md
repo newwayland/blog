@@ -6,7 +6,7 @@ tags: [money, mmt]
 
 ---
 
-The Inflationistas are revolting. Their ratio beliefs have been violated and in paroxisms of anguish they bring forth their incantations:
+The Inflationistas are revolting. Their ratio beliefs have been violated and in paroxysms of anguish they bring forth their incantations:
 
 > as any student of economics should know, inflation is caused by too much money chasing too few goods and services. Nonetheless, there was not a single reference to the rapid growth of the money supply (or anything related) in the Bank’s latest statement.
 
@@ -51,6 +51,6 @@ as increased imports and a widening trade deficit.
 
 None of these things require a shortness of breath and an increased
 pulse rate. They are a natural consequence of the correct understanding of
-monetary system.
+the monetary system.
 
 One using the lens of Modern Money.
