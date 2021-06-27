@@ -1,0 +1,1 @@
+<iframe src="{{ .Get 0 }}?embedded=true" allowfullscreen scrolling="no" style=" width: 100%; height: {{ if len .Params | eq 2 }}{{ .Get 1 }}{{ else }}5000{{ end }}px;  overflow: hidden;" frameborder="0"></iframe>
