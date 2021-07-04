@@ -38,7 +38,7 @@ st = a
 
 which proves that the amount of tax collected `st` must (eventually) match the initial spending injection `a`. Unsurprisingly if you are using percentages against a bigger number, you get a bigger number out the end. Taxes increase as spending increase because that's how percentages work (duh!).
 
-Now of course there won't be an infinite number of transactions induced. Currency units are a finite size and once you get below a amount they become useless. Certainly below one, but it may be higher depending upon how your currency unit is valued (In the UK, pounds are still useful. Pennies not so much). By playing with the geometric progression formula and using some not very advanced algebra you can come up with an equation to show how many transactions that will take.
+Now of course there won't be an infinite number of transactions induced. Currency units are a finite size and once you get below a particular amount they become useless. Certainly below one, but it may be higher depending upon how your currency unit is valued (In the UK, pounds are still useful. Pennies not so much). By playing with the geometric progression formula and using some not very advanced algebra you can come up with an equation to show how many transactions that will take.
 
 ````
 n = (log(t)-log(a)+log(d))/log(1-t)
