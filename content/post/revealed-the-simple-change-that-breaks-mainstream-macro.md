@@ -7,7 +7,7 @@ tags: [models, mmt, mainstream, abm]
 
 ---
 
-As regular visitors to the [New Wayland Discord Forum](https://discord.gg/ESGqEsv) will know, I've been working on [replicating a mainstream Baseline Model](https://github.com/newwayland/baseline-economy) (Lengnick, Matthias. (2013). Agent-based macroeconomics: A baseline model. Journal of Economic Behavior & Organization. 86.10.1016/j.jebo.2012.12.021). There are [quite a few issues](https://github.com/newwayland/baseline-economy/blob/master/notes/issues.md) with it technically but it is a good starting point. 
+As regular visitors to the [New Wayland Discord Forum](https://discord.gg/JN6HKUd) will know, I've been working on [replicating a mainstream Baseline Model](https://github.com/newwayland/baseline-economy) (Lengnick, Matthias. (2013). Agent-based macroeconomics: A baseline model. Journal of Economic Behavior & Organization. 86.10.1016/j.jebo.2012.12.021). There are [quite a few issues](https://github.com/newwayland/baseline-economy/blob/master/notes/issues.md) with it technically but it is a good starting point.
 
 This is a model that strips away any part of reality that get in the way of demonstrating the mainstream outcome. It has one commodity, there are no banks, money is exogenous, wages are flexible - particularly downwards, etc, etc. The paper states "Finally, we demonstrated that the equilibrium is a robust result of the ACE economy for all markets. It does only break down, if either price or wage adjustment is turned off completely."
 
@@ -25,7 +25,7 @@ I don't know about you but I don't go to a shop randomly. I go to the one where 
 So let's make that change to this robust model. It's a single line change from
 
 ```python
-    # Put the preferred suppliers in a random order 
+    # Put the preferred suppliers in a random order
     self.model.random.shuffle(self.preferred_suppliers)
 ```
 
@@ -36,16 +36,16 @@ to
     self.preferred_suppliers.sort(key=attrgetter("goods_price"))
 ```
 
-so rather than randomly visiting a supplier to see if they can fill our goods demand we go to the supplier with the cheapest price first and then the next cheapest and so on. 
+so rather than randomly visiting a supplier to see if they can fill our goods demand we go to the supplier with the cheapest price first and then the next cheapest and so on.
 
 Let's see what the results are
 
 [(Price Shopping Model)](http://price-shopping.model.new-wayland.com)
 ![Price Sensitive Output](images/ace-output-price-shopping.png)
 
-Oh dear. 
+Oh dear.
 
-If this model is to be believed, full employment/price stability and price competition appear to be incompatible in the mainstream world. 
+If this model is to be believed, full employment/price stability and price competition appear to be incompatible in the mainstream world.
 
 [^1]: Model parameters: Household Starting Money 3200, Firm Starting Money 0, Initial Goods Price 27, Initial Daily Wage Rate 70
 

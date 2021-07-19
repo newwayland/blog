@@ -47,7 +47,7 @@ isn't anything more to buy. Firms are too busy maintaining market share
 against competitors.
 
 Discuss this and any other post over on the [New Wayland Discord
-Forum](https://discord.gg/ESGqEsv)
+Forum](https://discord.gg/JN6HKUd)
 
 [^1]: Model parameters: Household Starting Money 3200, Firm Starting
 Money 0, Initial Goods Price 27, Initial Daily Wage Rate 70, JG Wage 50,
