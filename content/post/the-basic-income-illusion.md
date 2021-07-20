@@ -5,8 +5,6 @@ summary: Basic income is a monetary illusion. Here's how the trick is done and w
 tags: [mmt, jobguarantee]
 
 ---
-### The Basic Income Illusion
-
 The Basic Income idea has some great marketing behind it and superficially appears to solve problems. Unfortunately the tricks used to promote it come straight out of the propaganda textbooks — attributing miracles to the policy when they are not justified.
 
 The main trick is to compare an income guarantee to the broken system we have at the moment. The result is a miraculous increase in output. But that has nothing to do with the merits of Basic Income. It is just what would happen with any system of increased spending activity that knocks our monetary production systems out of the persistent slumps they always find themselves in under ‘laissez faire’ conditions.
