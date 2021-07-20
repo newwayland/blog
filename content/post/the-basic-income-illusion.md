@@ -2,7 +2,7 @@
 title: "The Basic Income Illusion"
 date: 2021-07-20T08:23:35+01:00
 summary: Basic income is a monetary illusion. Here's how the trick is done and why it always fails.
-draft: true
+tags: [mmt, jobguarantee]
 
 ---
 ### The Basic Income Illusion
