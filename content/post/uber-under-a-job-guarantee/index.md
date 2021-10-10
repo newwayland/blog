@@ -7,7 +7,7 @@ tags: [mmt, jg]
 
 ---
 
-![Taxi Cabs](images/taxi-cabs.jpg)
+{{<figure src="taxi-cabs.jpg" alt="Taxi Cabs">}}
 After a [six-year-long battle through all the courts in the land][1], two people have finally [won the right][5] - to the minimum wage. Nothing exemplifies the failure of the job market in the UK more than this, on all sides.
 
 The rise of Uber and their ilk represent a challenge to the way job markets are arranged in modern democracies and how work is viewed. Innovation must be allowed to proceed so that processes can be improved, however people still have to work to live. Yet, if this entire sad saga has shown anything, it’s that the present system isn’t serving either side very well at all. 

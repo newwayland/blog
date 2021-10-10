@@ -7,7 +7,7 @@ tags: [mmt, archive, imf, currency]
 
 ---
 
-![Denis Healey](images/imageskl.jpg)
+{{<figure src="imageskl.jpg" alt="Denis Healey">}}
 
 The 1976 IMF debacle in the UK was a defining moment when the promotion
 of full employment ended. Fundamentally though it was a political mistake

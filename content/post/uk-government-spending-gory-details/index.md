@@ -6,7 +6,7 @@ tags: [mmt, payments]
 
 ---
 
-![Drawing on Supply](images/drawing-on-supply.png)
+{{<figure src="drawing-on-supply.png" alt="Drawing on Supply">}}
 
 It’s taken a great deal of work to get there, but now we have an approach that models the UK government financing system sufficiently accurately that it could be run on actual banking equipment.
 

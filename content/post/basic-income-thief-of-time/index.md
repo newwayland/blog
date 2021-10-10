@@ -7,14 +7,14 @@ tags: [mmt, jg, archive]
 
 ---
 
-![Thief of Time](images/thief.jpeg)
+{{<figure src="thief.jpeg" alt="Thief of Time">}}
 
 The Basic Income idea has some great marketing behind it and superficially appears to solve problems. Unfortunately the tricks used to promote it come straight out of the propaganda textbooks — attributing miracles to the policy when they are not justified.
 
 The main trick is to compare an income guarantee to the broken system we have at the moment. The result is a miraculous increase in output. But that has nothing to do with the merits of Basic Income. It is just what would happen with any system of increased spending activity that knocks our monetary production systems out of the persistent slumps they always finds themselves in under ‘laissez faire’ conditions.
 
 It’s only when you compare Basic Income with other managed economy schemes that the issues with it come to light.
-![Job Guarantee vs Basic Income](images/jg-vs-bi.gif)
+{{<figure src="jg-vs-bi.gif" alt="Job Guarantee vs Basic Income">}}
 The graphic represents a basic income scheme that is monetarily equivalent to a Job Guarantee. In UK terms that is a payment of £375 per week representing a £10 per hour living wage along the lines [calculated by the Living Wage Foundation](http://www.livingwage.org.uk/what-living-wage-annual-salary)
 
 The rest of the economy will respond to the monetary stimulus and increase its output to its structural maximum, which for the purposes of this article we will assume is identical for both schemes. Whatever distributional outcome is required can be created in the Rest of the Economy via redistributive taxation, and the amount of stuff (goods and services) delivered to Participants is the same.
@@ -67,7 +67,7 @@ Leisure is work you pay to do. Work is leisure you get paid to do.
 Basic Income attempts to pay people under what should probably be called the L’oreal Principle (“because you’re worth it”). They want to be paid first and then perhaps do something later if they feel like it. That is a complete reversal of the principle of contribution. Everywhere else you have to be of service to others and put them in your debt first, before you receive anything of real value in return.
 
 Yet there is no need to overturn the entire structure of the current economy. If those people who really believe in the L’oreal Principle want to put it in place under a Job Guarantee system then they can do so. Just endow a charity to give money to people. If the recipients then decide to work for others (perhaps working for the charity) they will receive the Job Guarantee wage which will then, in effect, end up being the advance payment for the following period rather than an arrears payment for the previous one. Like this:
-![Job Guarantee and Charity Payment](images/jg-vs-charity.png)
+{{<figure src="jg-vs-charity.png" alt="Job Guarantee and Charity Payment">}}
 
 So there only needs to be one initial payment per person from the charity, which can easily be funded by believers in the principle — and tax deductible too. Any costs of excess extraction or free riding are then borne by those who believe in the concept rather than being imposed upon society in general. Those who desire to get paid twice are supported by those who believe they should have that right — in financial and real terms.
 

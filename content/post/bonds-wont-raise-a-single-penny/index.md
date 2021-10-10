@@ -6,7 +6,7 @@ tags: [mmt, politics]
 
 ---
 
-![HM Treasury](images/treasury.jpg)
+{{<figure src="treasury.jpg" alt="HM Treasury">}}
 You can always rely upon the modern Labour Party to be dishonest with the population. Since the days of Callaghan they have abandoned being straight with the people and prefer instead to push pernicious myths - because they believe ordinary individuals are too stupid to notice. 
 
 We’re not. 

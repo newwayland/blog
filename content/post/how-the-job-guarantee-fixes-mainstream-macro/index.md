@@ -12,14 +12,14 @@ some price competition][2] to the mix. Here's another run with the same
 parameters[^1]
 
 [(Price Shopping Model)](http://price-shopping.model.new-wayland.com)
-![Price Sensitive Output](images/price-shopping-2008.png)
+{{<figure src="price-shopping-2008.png" alt="Price Sensitive Output">}}
 
 Yup, still very broken. 
 
 Let's [add a Job Guarantee][4] to this model and see [how it controls][5] the economy
 
 [(Job Guarantee Model)](http://jg.model.new-wayland.com)
-![Job Guarantee Output](images/job-guarantee-2008.png)
+{{<figure src="job-guarantee-2008.png" alt="Job Guarantee Output">}}
 
 And the problem is fixed. Full employment from day one, no poverty, wages and prices stabilised. All exactly [by the book.][6]
 

@@ -7,7 +7,7 @@ tags: [mmt, banking]
 
 ---
 
-![The presses at work](images/Money-3.png)
+{{<figure src="Money-3.png" alt="The presses at work">}}
 
 It's always entertaining whenever somebody tries to critique MMT using the
 term "money printing".  There is no greater tell that the person hasn't
@@ -113,7 +113,7 @@ you have to overcome a £14.5 billion drain in income.
 Now when you see somebody talking about "money printing" you can smile
 quietly to yourself and think...
 
-![I do not think it means what you think it means](images/i-do-not-think-it-means.jpg)
+{{<figure src="i-do-not-think-it-means.jpg" alt="I do not think it means what you think it means">}}
 
 ---
 

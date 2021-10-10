@@ -6,7 +6,7 @@ tags: [mmt, tax, budget]
 
 ---
 
-![HM Treasury](images/treasury.jpg)
+{{<figure src="treasury.jpg" alt="HM Treasury">}}
 
 One of the characteristics of political and diplomatic skill is to let people believe you have heard them and will be addressing their concerns, regardless of whether those concerns make any logical sense. The trick is to first agree with them, and then slightly pivot to where you want to be. 
 

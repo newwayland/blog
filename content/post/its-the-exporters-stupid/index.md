@@ -7,7 +7,7 @@ tags: [mmt, external sector, archive]
 
 ---
 
-![Container Ship](images/container-ship.jpg)
+{{<figure src="container-ship.jpg" alt="Container Ship">}}
 A [very good article here](http://www.bondeconomics.com/2014/02/why-rich-countries-should-float-their.html) that comes closer than most to what I consider the crunch issue.
 
 The key point is that if a currency moves down so that imports become 'more expensive', then the 'inflation' that goes off is a distributional response that tries to eliminate some of those imports so that the exchange demands equalise. **That also eliminates somebody else's exports.**

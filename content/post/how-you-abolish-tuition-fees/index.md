@@ -7,7 +7,7 @@ tags: [archive, mmt, tuition fees]
 
 ---
 
-![Tuition Fees](images/tuition-fees.jpg)
+{{<figure src="tuition-fees.jpg" alt="Tuition Fees">}}
 
 There [was yet another article in the New Statesman](https://web.archive.org/web/20170117171636/http://www.newstatesman.com/politics/staggers/2016/07/how-jeremy-corbyn-can-realistically-abolish-student-tuition-fees) today detailing a compicated sleight of hand fudge as a way out of the student tuition fees mess.
 

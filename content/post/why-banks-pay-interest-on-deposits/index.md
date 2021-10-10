@@ -19,7 +19,7 @@ chooses not to pay interest on the deposit to maximise its profit on the loan.
 
 The intial position looks like this:
 
-![Initial loan](images/initial-loan.png)
+{{<figure src="initial-loan.png" alt="Initial loan">}}
 
 Now let's introduce some competition in the form of Bank B. Bank B thinks
 it can make money by selling insurance and gimmicks to customers, so it
@@ -28,7 +28,7 @@ offers 3% on deposits which causes person C to move their account to Bank B.
 Now for money to move between banks, the destination bank ends up 
 as the depositor in the source bank. This is the position after clearing:
 
-![Initial loan](images/after-clearing.png)
+{{<figure src="after-clearing.png" alt="Initial loan">}}
 
 This transfer process is called inter-bank lending or [is part of
 wholesale deposits][1] depending upon the context of the discussions.
@@ -51,7 +51,7 @@ from the central bank at the penalty rate (i.e > 5%).
 
 If it were to happen the position would look like this:
 
-![initial loan](images/central-bank-cleared.png)
+{{<figure src="central-bank-cleared.png" alt="initial loan">}}
 
 To avoid this happening, bank A is forced to pay interest on its deposits
 at an amount so that bank B will deposit with them rather than the central bank (ie

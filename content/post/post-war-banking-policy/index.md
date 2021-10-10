@@ -7,7 +7,7 @@ tags: [banking, mmt, archive]
 
 ---
 
-![Post War Banking](images/post-war-banking.jpg)
+{{<figure src="post-war-banking.jpg" alt="Post War Banking">}}
 
 I keep having to find these quotes, so I'll post them here for posterity.
 

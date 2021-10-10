@@ -7,7 +7,7 @@ tags: [mmt, jg, uk]
 
 ---
 
-![Fist Full of Tenners](images/tenners.jpeg)
+{{<figure src="tenners.jpeg" alt="Fist Full of Tenners">}}
 
 ### How PAYE, RTI and Universal Credit&nbsp;work
 The UK tax authorities runs a wage calculation and tax deduction system (Pay as you Earn — PAYE) that requires every employer to run a PAYE scheme. Every pay period (usually weekly or monthly) each employer, reports employee wages to the tax authorities, calculates the Income Tax and National Insurance deductions, and pays over the deductions directly to HMRC — the UK’s tax collection authority.

@@ -15,13 +15,13 @@ It's always fascinated me why those classically trained in economics struggle wi
 
 If a classically trained economist engages with accounting at all, they seem to do it using, what can best be described as, a General Ledger View, that seems to represent a consolidation of the entire banking system. They would appear to see a government furlough pay payment something like this.
 
-![General Ledger View](images/banking-general-ledger.png)
+{{<figure src="banking-general-ledger.png" alt="General Ledger View">}}
 
 All the debits and credits add up and the payment moves from the Treasury to the deposit holder as expected. It's a transactional abstract overview of the process, and valid as far as it goes. 
 
 MMT, on the other hand, takes an institutional approach to its analysis and places the accounting within the institutional context. It also uses T-accounts rather than a general ledger which better sits with the balance sheet viewpoint it tends to take. Once you add the institutions and the balance sheet accounts to the transaction you get this view.
 
-![Institutional View](images/banking-t-accounts.png)
+{{<figure src="banking-t-accounts.png" alt="Institutional View">}}
 
 And this reveals what everybody in finance and banking understands. When government makes payments, banks get extra assets. And the banks play with those assets on the financial markets - including bidding for government bonds with them on their own behalf in addition to the customer bids **using what is essentially the same amount of money**.
 

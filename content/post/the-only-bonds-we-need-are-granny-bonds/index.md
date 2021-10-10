@@ -6,7 +6,7 @@ tags: [mmt, bonds]
 
 ---
 
-![Old Age Pensions](images/national-saving-certificates.jpg)
+{{<figure src="national-saving-certificates.jpg" alt="Old Age Pensions">}}
 
 As noted previously, [investment bonds cannot raise any money for the central government.][1] Neither can bonds raise any money for local authorities or devolved governments.
 

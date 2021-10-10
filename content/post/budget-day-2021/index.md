@@ -6,7 +6,7 @@ tags: [mmt, budget]
 
 ---
 
-![Gladstone Knew How Book Debt Worked](images/budget-box.jpg)
+{{<figure src="budget-box.jpg" alt="Gladstone Knew How Book Debt Worked">}}
 It's Budget day here in the UK when the Government sets out its tax-raising plans for the forthcoming financial year.
 
 Every commentator likes to present their alternative vision, and this one is

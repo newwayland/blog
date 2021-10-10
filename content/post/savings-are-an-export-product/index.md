@@ -7,9 +7,9 @@ tags: [archive, mmt, exports]
 
 ---
 
-![Savings](images/savings.jpg)
+{{<figure src="savings.jpg" alt="Savings">}}
 It’s fascinating how the mainstream, and quite a few traditional Post Keynesians, struggle with foreign. The problem is the mental model they have been trained to analyse.
-![How the world looks to economists](images/economists-row-view.png)
+{{<figure src="economists-row-view.png" alt="How the world looks to economists">}}
 By focussing on a country, with fixed borders and a consolidated ‘Rest of World’, they appear to miss the subtleties in play that become apparent when you look at the issue from a different point of view.
 
 The classic one is believing that foreign is quite different from domestic. It really isn’t that different at all.

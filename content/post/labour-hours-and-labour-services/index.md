@@ -7,7 +7,7 @@ tags: [archive, mmt, jg]
 
 ---
 
-![8 Hours](images/8-hours.jpeg)
+{{<figure src="8-hours.jpeg" alt="8 Hours">}}
 
 One of the fundamental problems in Job Design is understanding and dealing with the difference between Labour Hours and Labour Services.
 

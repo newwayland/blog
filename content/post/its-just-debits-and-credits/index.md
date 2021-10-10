@@ -6,7 +6,7 @@ tags: [mmt, stock-flow]
 
 ---
 
-![ledger](images/ledger.jpg)
+{{<figure src="ledger.jpg" alt="ledger">}}
 When using bookkeeping tools to do stock/flow analysis, it’s important to remember that we are just doing debits and credits and summing them up into stocks of debits and credits. We are using the tools of journals and balance sheets to do economic analysis.
 
 And that’s it. If you have experience of using these tools in other contexts beware of letting other matters from those contexts drift in. Chances are they don’t apply, or at least not in the way you think.

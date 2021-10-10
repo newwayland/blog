@@ -7,7 +7,7 @@ tags: [mmt, uk-accounting-study, payments]
 
 ---
 
-![Tenners](images/tenners.jpeg)
+{{<figure src="tenners.jpeg" alt="Tenners">}}
 For the past few months I’ve been working with Andrew Berkeley and Richard Tye helping them complete [“An Accounting Model of the UK Exchequer” which has been published online by GIMMS as a working document](https://gimms.org.uk/2020/12/26/accounting-model-uk-exchequer/).
 
 The study is a tour-de-force of research and history by Andrew and Richard, and I’m very grateful to have been invited in to assist with the accounting and systemic analysis of the structures that lie at the heart of the UK monetary system and add my little bit to the document. However I do stand on the shoulders of giants. 

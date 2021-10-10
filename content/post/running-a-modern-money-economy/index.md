@@ -6,7 +6,7 @@ tags: [archive, mmt]
 
 ---
 
-![Robots at work](images/robots.jpg)
+{{<figure src="robots.jpg" alt="Robots at work">}}
 
 Modern Monetary Theory (MMT) is a description of the existing monetary system and its interaction with the production mechanisms. It takes a unique viewpoint that highlights opportunities that remain out of sight to traditional methods.
 
@@ -24,7 +24,7 @@ Well, firstly, you implement a Job Guarantee which injects additional spending i
 “Precisely the right amount” means that it is withdrawn progressively and spatially as private economic activity increases. People hired away from the Job Guarantee start being paid with private funds, not public funds, so you get a swap of spending power, rather than an increase.
 
 Over the cycle people come on and off the Job Guarantee which grows and shrinks government spending automatically. All without any politicians or central bank ‘experts’ making any discretionary changes. The result looks something like this over the cycle
-![Economic Cycle](images/economic-cycle.gif)
+{{<figure src="economic-cycle.gif" alt="Economic Cycle">}}
 The Job Guarantee job is just a job like any other. It generates GDP with labour that nobody else currently wants to use. The private sector no longer has to go into areas it doesn’t really belong, or want to go, in a misguided attempt to try and “create jobs”. It can be left to do its thing of **eliminating jobs with innovation and automation via capital investment**. That drives up productivity and leads to an **increased standard of living** for all.
 
 In fact, the private sector can be encouraged down the route. Controlling labour supply makes labour expensive which shifts the capital/labour ratio towards using more capital. You can ensure competition is intense because you’re no longer terrified about firms going bust or moving abroad; the Job Guarantee ensures there are always jobs in a locality that people can take. You don’t need the jobs of the private sector; they are a nice to have. This is the correct approach to take, because the private sector actually creates jobs as a side effect of its main task of destroying them with capital investment (hence capitalism, not jobism).

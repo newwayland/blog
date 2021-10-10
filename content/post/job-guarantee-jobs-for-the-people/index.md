@@ -6,7 +6,7 @@ tags: [mmt, jg, archive]
 
 ---
 
-![Job Guarantee](images/job-guarantee.png)
+{{<figure src="job-guarantee.png" alt="Job Guarantee">}}
 
 
 In the normal job selection process, first a job is created and then the matching system looks for people to match to that job. Once you get to the margins you end up with jobs that cannot be filled and people that cannot get jobs.

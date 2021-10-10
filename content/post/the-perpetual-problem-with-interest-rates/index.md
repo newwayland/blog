@@ -7,7 +7,7 @@ tags: [mmt, interest rates]
 
 ---
 
-![With this lever I can rule the world Bwaaaaahhhaaah!](images/lever.jpg)
+{{<figure src="lever.jpg" alt="With this lever I can rule the world Bwaaaaahhhaaah!">}}
 The single interest rate lever is supposed to be [Pavlovian in its stimulus/response](https://www.bloomberg.com/opinion/articles/2019-03-01/paul-krugman-s-four-questions-about-mmt). When the rate goes down that means “spend”. When it goes up it means “don’t spend”. That’s the belief, which fiscal policy is supposed to follow along behind like a faithful hound.
 
 What’s amusing is that this response process doesn’t appear to take into account expectations. 

@@ -26,7 +26,7 @@ parameters of the [Job Guarantee Model][1] with some interesting results.
 Here's a trace where the JG goods price is dropped to zero - essentially
 removing all forms of taxation from the model.
 
-![JG with no taxation](images/jg-from-zero-22-1-0-22.png)
+{{<figure src="jg-from-zero-22-1-0-22.png" alt="JG with no taxation">}}
 
 No inflation. In fact we get wage growth against a stable goods price
 as productivity is redistributed to the wage share and away from
@@ -45,7 +45,7 @@ for productivity improvements would normally come from - to fill the gap.
 Contrast that trace with one where the Job Guarantee charges a
 'competitive price' for its output.
 
-![JG with price charges](images/jg-from-zero-22-1-21-22.png)
+{{<figure src="jg-from-zero-22-1-21-22.png" alt="JG with price charges">}}
 
 Here there is much more dislocation in the economy. Firms try to cut
 wage costs. Savings and profits are squeezed. And we get a deflating
@@ -62,7 +62,7 @@ You get a similar effect if you charge a punitive price for JG
 output. This causes somewhat lower dislocation to the
 business sector at the cost of higher poverty during the bootstrap phase.
 
-![JG with punitive charges](images/jg-from-zero-22-1-44-22.png)
+{{<figure src="jg-from-zero-22-1-44-22.png" alt="JG with punitive charges">}}
 
 
 
