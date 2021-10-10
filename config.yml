@@ -1,0 +1,36 @@
+baseURL: 'https://new-wayland.com/blog/'
+title: New Wayland
+theme: PaperMod
+languageCode: en-gb
+copyright: New Wayland
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disableKinds:
+  - taxonomy
+  - term
+params:
+  socialIcons: # optional
+    - name: 'Discord'
+      link: 'https://discord.gg/JN6HKUd'
+    - name: 'Github'
+      link: 'https://github.com/newwayland'
+  ShowShareButtons: true
+  ShowReadingTime: true
+  author: NeilW
+  custom_css:
+    - css/custom.css
+  mainSections:
+    - post
+  opengraph: true
+  dateFormat: '_2 Jan 2006 15:04 -0700'
+  intro: true
+  headline: New Wayland Blog
+  description: Welcome to the Future
+  github: 'https://github.com/newwayland'
+  reddit: 'https://www.reddit.com/user/aldursys'
+  email: modernmoneymatters@protonmail.com
+  discord: 'https://discord.gg/JN6HKUd'
+  shareGooglePlus: false
+  shareLinkedIn: true
+permalinks:
+  post: '/:filename/'

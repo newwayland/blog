@@ -6,7 +6,7 @@ tags: [wages]
 
 ---
 
-![Henry Ford](images/henry-ford-bio-hero-1440x369-d.jpg)
+{{<figure src="henry-ford-bio-hero-1440x369-d.jpg" alt="Henry Ford">}}
 
 Here is that well known pinko commie Henry Ford on the nature of wages from his autobiography:
 
