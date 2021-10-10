@@ -9,28 +9,22 @@ disableKinds:
   - taxonomy
   - term
 params:
+  env: production
   socialIcons: # optional
-    - name: 'Discord'
+    - name: 'discord'
       link: 'https://discord.gg/JN6HKUd'
-    - name: 'Github'
+    - name: 'github'
       link: 'https://github.com/newwayland'
+    - name: 'email'
+      link: 'mailto:modernmoneymatters@protonmail.com'
   ShowShareButtons: true
   ShowReadingTime: true
+  ShowPostNavLinks: true
   author: NeilW
-  custom_css:
-    - css/custom.css
-  mainSections:
-    - post
   opengraph: true
   dateFormat: '_2 Jan 2006 15:04 -0700'
   intro: true
   headline: New Wayland Blog
   description: Welcome to the Future
-  github: 'https://github.com/newwayland'
-  reddit: 'https://www.reddit.com/user/aldursys'
-  email: modernmoneymatters@protonmail.com
-  discord: 'https://discord.gg/JN6HKUd'
-  shareGooglePlus: false
-  shareLinkedIn: true
 permalinks:
   post: '/:filename/'

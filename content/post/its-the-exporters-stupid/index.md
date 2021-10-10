@@ -2,7 +2,7 @@
 
 title: "It's the Exporters Stupid"
 date: 2020-11-25T04:07:33Z
-description "Always remember: Exporters need to export or they don't eat"
+summary: "Running an external surplus requires exporters to export. The right to export more than you import has a price. What does that mean on the other side of the trade?"
 tags: [mmt, external sector, archive]
 
 ---
@@ -36,4 +36,4 @@ So let's stop looking at this problem from the wrong end.
 
 It's the exporters stupid.
 
-*First published - 24 Feb 2014*
+*First published 24 Feb 2014. Quoted in Randall Wray's [Modern Money Theory](https://amzn.to/2T9SZCq), pp289*
