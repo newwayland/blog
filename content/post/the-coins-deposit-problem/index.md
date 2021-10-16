@@ -24,8 +24,8 @@ the Fed offer for these two tokens, and why?
 ## What is a bank?
 
 At its core a bank is a fairly simple operation. It takes
-something physical of value and offer an amount of its own liabilities
-in return for that thing of value. So a mortgage, despite common belief,
+something physical of value and creates an amount of its own liabilities
+in return. So a mortgage, despite common belief,
 isn't a loan; it's the charge over the property. That is what the
 bank has created as a financial derivative of a property and which the
 bank owns as security for the liabilities it has issued against that
