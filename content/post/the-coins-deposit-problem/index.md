@@ -1,6 +1,7 @@
 ---
 title: "The Coin's Deposit Problem"
 date: 2021-10-16T08:15:38+01:00
+tags: ['mmt', 'us', 'trillion dollar coin']
 summary: "Minting The Coin is one thing; Depositing The Coin entirely another"
 ---
 
@@ -63,7 +64,7 @@ that issued it.
 Here in the UK coins are minted by the Royal Mint on the orders of HM
 Treasury. These are sold directly to the bank coin clearing system in
 return for transfer of bank reserves to HM Treasury. However HM Treasury stands ready
-to repay those coins on demand. There is a contigent liability listed in the Consolidated Fund accounts.
+to repay those coins on demand. There is a contigent liability listed in the [Consolidated Fund accounts](https://www.gov.uk/government/publications/consolidated-fund-account-2020-to-2021).
 
 {{<figure src="contingent-liability.png" alt="Contingent liability for coins">}}
 
@@ -119,4 +120,4 @@ down the line](https://www.irs.gov/payments/pay-your-taxes-with-cash). So
 if banks start seeing your notes and coins as a bit suspect, it is still
 worth full value for credit against US tax bills. Exactly as MMT explains.
 
-(1). Coin redemption is a standing service and is repayable from the Consolidated Fund under s13 Exchequer and Audit Department Act 1866. 
+(1). Coin redemption is a standing service and is repayable from the Consolidated Fund under [s13 Exchequer and Audit Department Act 1866](https://www.legislation.gov.uk/ukpga/Vict/29-30/39/section/13). 
