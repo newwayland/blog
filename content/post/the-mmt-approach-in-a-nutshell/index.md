@@ -3,7 +3,7 @@
 title: "The MMT Approach in a Nutshell"
 date: 2020-07-20T08:46:41+01:00
 summary: "An overview of the Modern Money Theory viewpoint"
-tags: [mmt, nutshell]
+tags: [mmt, overview]
 
 ---
 
