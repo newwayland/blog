@@ -2,7 +2,7 @@
 title: "MMT Economists on Taxation"
 date: 2021-07-31T17:01:59+01:00
 summary: "A set of reference taxation quotes from MMT economists"
-tags: [MMT, taxation]
+tags: [MMT, taxation, references]
 
 ---
 Mosler has written and spoken many times about the dead loss costs of transaction taxes and the way they inhibit transactions (Mosler 2013):
