@@ -2,7 +2,7 @@
 title: "Ford on Wages"
 date: 2021-05-08T13:06:32+01:00
 summary: "Quotes from Henry Ford's autobiography on the nature of wages"
-tags: [wages]
+tags: [wages, references]
 
 ---
 
