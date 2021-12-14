@@ -1,7 +1,7 @@
 ---
 
 title: "UK Employment Stats"
-date: 2021-11-18T07:15:28+00:00
+date: 2021-12-14T14:49:20+00:00
 summary: "The number of people in the UK without work that want it"
 tags: [statistics, uk]
 
