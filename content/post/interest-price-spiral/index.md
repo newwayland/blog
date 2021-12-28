@@ -40,7 +40,7 @@ Why? Because the price of goods and services has gone up and people have to spen
 ## Which Leads to an Interest/Price Spiral
 Just as rising prices allegedly leads to higher income due to higher wage demands which then confirms and embeds those higher prices, raising interest rates leads to rising prices, which leads to higher income due to interest paid which confirms and embeds those higher prices. It is precisely the same positive feedback process.
 
-If the first leads to doom, then clearly so does the second.
+If a wage/price spiral leads to doom, then clearly so does an interest/price spiral.
 ## Yesterday’s Ideas with Yesterday’s Solutions
 Old generals, who remain in charge long past their sell-by date, always end up fighting the last war rather than the present one. Here we are again in a situation that requires a fresh approach and a fresh view yet all that is rolled out is the demand suppression cavalry to face down a supply-side enemy equipped with machine guns.
 
