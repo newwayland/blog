@@ -36,7 +36,7 @@ Interest is income for banks, with which they pay their suppliers - bankers and 
 
 Why? Because the price of goods and services has gone up and people have to spend the income they earn on their savings, and likely draw upon their savings as well to pay the new prices. **Savings are more likely to be drawn down than added to in a high inflation/high interest rate** environment simply to maintain access to needed goods and services.
 
-*The Myth* expects people who haven’t the wage income to meet daily needs due to increasing prices to suddenly start spending less and saving more - solely because interest rates have changed. Yet when you look at it from the MMT point of view, it is clear, both institutionally and systemically, that it is an extremely unlikely proposition.
+*The Myth* expects people, faced with increasing prices and who haven’t the wage income to meet daily needs, to suddenly start spending less and saving more, solely because interest rates have changed. Yet, when you look at it from the MMT point of view, it is clear, both institutionally and systemically, that it is an extremely unlikely proposition.
 ## Which Leads to an Interest/Price Spiral
 Just as rising prices allegedly leads to higher income due to higher wage demands which then confirms and embeds those higher prices, raising interest rates leads to rising prices, which leads to higher income due to interest paid which confirms and embeds those higher prices. It is precisely the same positive feedback process.
 
