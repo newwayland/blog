@@ -6,6 +6,7 @@ tags: [mmt, uk-accounting-study]
 
 ---
 
+{{<figure src="matrix.jpg" alt="The Matrix">}}
 Although it is a terrible film, it is nice to see a new Matrix movie hit the theatres, because it means I can use my favourite consulting anecdote again without getting blank stares from anybody under the age of 30.
 
 Some time late last century I was working on a particularly thorny issue a client had. I’d followed my usual approach, listening to people tell me how things worked, watching how things operated, and, in particular, finding out what people believed to be the case. Plus, of course, agreeing a solid fee. The fee is important, because it is the way you get a client to agree to your report and remedy. If they don’t agree with you, then they have just thrown a lot of money in the bin.
@@ -17,13 +18,14 @@ As I was shaking the client’s hand, readying to leave, he said:
 
 If something is broken within my sphere of expertise I can usually fix it, often by doing something that was believed impossible. If that appears like magic to others, then it just adds to the mystique. What a career in this game has taught me, though, is what is obvious to me generally isn’t to others. That makes progress difficult, particularly in cases where there is no solid fee to grease the wheels of change.
 
-So we finally come to the topic of this blog. I received an email containing “a detailed refutation” of [An Accounting Model of the UK Exchequer.][1] It is nothing of the sort. Andrew has already gone into detail over the copious mistakes in the article and posted them as a comment. We shall see if they appear. For me, it is a declaration by a denizen of The Matrix that certain things are impossible because they don’t believe them. As should be clear by now I like to do impossible things before breakfast (see the posting time of this blog!). Let’s stop a few bullets.
+With that in mind we finally come to the topic of this blog. I received an email containing “a detailed refutation” of [An Accounting Model of the UK Exchequer.][1] It is nothing of the sort. Andrew has already gone into detail with the numerous technical mistakes made and posted them as a comment. We shall see if they appear. For me, it is a declaration by a denizen of The Matrix that certain things are impossible because they don’t believe them. As should be clear by now I like to do impossible things before breakfast (see the posting time of this blog!). So let’s stop a few bullets.
 
 The root of the issue appears in a couple of axiomatic statements:
 * “Overdrafts have to be paid off”
 * “A £1,000 government bond does not become a gilt until a lender buys it for £1,000”
 
 Here we see the core of the belief. Banks have power over man. These two items are stated without reference, or legal force. They are to be believed and never questioned.
+
 Therefore once I get the reins to HM Treasury I will do the following:
 
 Scrap the [Full Funding Rule][4], stop the issue of Gilts and Treasury Bills and disband the Debt Management Office. This is under Schedule 5A s2(1)(b) of the National Loans Act 1968 which provides that the Treasury can “generally manage the [Debt Management Account] in the way the Treasury consider the most efficient”.
