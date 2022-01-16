@@ -7,7 +7,7 @@ tags: [covid19, personal]
 
 ---
 
-[Back in August]({{< relref "onward-to-100-nmol.md" >}}) I mentioned I was doing an experiment to see what effect taking Vitamin D supplements would have on my serum Vitamin D levels.
+[Back in August]({{< relref "onward-to-100-nmol" >}}) I mentioned I was doing an experiment to see what effect taking Vitamin D supplements would have on my serum Vitamin D levels.
 
 The test was over 8 weeks and I now have the results. 
 
@@ -44,5 +44,5 @@ which is an increase of 55.2 nmol/L over last time and in the allegedly useful r
 
 From now on I'll be switching to the maintenance dose of 2000 IU per day recommended in the paper and I'll run that until next year before testing again to see if that is sufficient to maintain Vitamin D levels over the winter period.
 
-[2]: https://www.mdpi.com/2072-6643/12/7/2097/htm
+[2]: https://wwwpi.com/2072-6643/12/7/2097/htm
 [3]: https://www.boots.com/boots-high-strength-vitamin-d-180-tablets-10274992

@@ -78,4 +78,4 @@ Both fiscal and monetary dominance have failed us. Time for a Functional Revolut
 [2]: https://www.gov.uk/government/publications/supplementary-estimates-2020-21
 [3]: https://bills.parliament.uk/bills/2760
 [4]: https://guidetoprocedure.parliament.uk/articles/s718SrCb/supply-and-appropriation-bills
-[5]: {{< relref "the-only-bonds-we-need-are-granny-bonds.md" >}}
+[5]: {{< relref "the-only-bonds-we-need-are-granny-bonds" >}}

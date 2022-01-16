@@ -6,10 +6,10 @@ tags: [covid19, personal]
 
 ---
 
-[Back in August]({{< relref "onward-to-100-nmol.md" >}}) I
+[Back in August]({{< relref "onward-to-100-nmol" >}}) I
 started an experiment to see what Vitamin D supplements would do
 to my serum levels. After [boosting them for 8 weeks]({{< relref
-"to-100-nmol-update.md" >}}) I switched to a maintenance dose over
+"to-100-nmol-update" >}}) I switched to a maintenance dose over
 the winter. 
 
 ## Process followed

@@ -89,7 +89,7 @@ From this, government sets the policy for spending and taxation at a level that 
 
 **Government keeps the Job Guarantee anchor working by making discretionary policy tight enough to maintain a functional buffer.**
 
-Because Job Guarantee jobs are just living wage jobs you don’t need to get people ‘off the Job Guarantee and into work’. They are already in work [doing things people see as useful]({{< relref "labour-hours-and-labour-services.md" >}}) and delivering valuable output. Therefore you can adjust policy more slowly based upon data from the Job Guarantee as to how liquid the buffer is in different parts of the country.
+Because Job Guarantee jobs are just living wage jobs you don’t need to get people ‘off the Job Guarantee and into work’. They are already in work [doing things people see as useful]({{< relref "labour-hours-and-labour-services" >}}) and delivering valuable output. Therefore you can adjust policy more slowly based upon data from the Job Guarantee as to how liquid the buffer is in different parts of the country.
 
 Politicians are almost certainly useless at driving an economy. In fact the only people worse than politicians are central bankers and their lackey economists. Politicians are at least partially grounded in reality because they have to get elected.
 

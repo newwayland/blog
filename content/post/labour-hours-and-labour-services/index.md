@@ -104,4 +104,4 @@ The Job Guarantee actively assists people to be the best they can and produce th
 
 *In memory of Issa. Rest easy little one*.
 
-[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro.md" >}}
+[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro" >}}

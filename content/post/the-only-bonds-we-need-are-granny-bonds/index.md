@@ -73,5 +73,5 @@ It turns out that discretionary monetary policy has the same systemic flaws as d
 
 Being unelected doesn’t stop them from getting it wrong. It just stops them being held to account by those who suffer at their hands, as those on the persistent involuntary unemployment buffer can attest.
 
-[1]: {{< relref "bonds-wont-raise-a-single-penny.md" >}}
+[1]: {{< relref "bonds-wont-raise-a-single-penny" >}}
 [3]: http://moslereconomics.com/wp-content/uploads/2018/04/The-Natural-Rate-of-Interest-is-Zero.pdf

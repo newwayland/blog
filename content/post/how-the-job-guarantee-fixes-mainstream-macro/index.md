@@ -25,9 +25,9 @@ And the problem is fixed. Full employment from day one, no poverty, wages and pr
 
 [1]: https://doi.org/10.1016/j.jebo.2012.12.021
 [2]: https://github.com/newwayland/baseline-economy/tree/price-shopping
-[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro.md" >}}
-[4]: {{< relref "adding_a_jg.md" >}}
-[5]: {{< relref "how-the-JG-controls-inflation.md" >}}
+[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro" >}}
+[4]: {{< relref "adding_a_jg" >}}
+[5]: {{< relref "how-the-JG-controls-inflation" >}}
 [6]: https://amzn.to/2G61Ii1
 
 This trace has a few interesting artefacts in it that are worthy of note.
