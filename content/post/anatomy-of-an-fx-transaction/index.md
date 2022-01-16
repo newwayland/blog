@@ -3,7 +3,7 @@
 title: "Anatomy of an FX Transaction"
 date: 2020-12-27T07:26:54Z
 summary: "How exactly does an FX transaction works in a floating currency rate environment? Read on to find out"
-tags: [FX, mmt]
+tags: [FX, mmt, mmt-basics]
 
 ---
 

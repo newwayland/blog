@@ -2,7 +2,7 @@
 title: "The Interest/Price Spiral"
 date: 2021-12-28T12:32:13Z
 summary: "Raising interest rates in an attempt to control inflation is a myth that could, instead, lead to a price spiral"
-tags: [mmt, inflation, interest rates]
+tags: [mmt, inflation, interest rates, mmt-basics]
 
 ---
 

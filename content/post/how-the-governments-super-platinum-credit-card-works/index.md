@@ -18,15 +18,15 @@ If you imagine that a government does all its spending on its credit card, then 
 
 There are differences. A monetarily sovereign government can get the best credit card deal in the world. It is a super-platinum credit card with the following benefits:
 
-## It has no spending limit
+### It has no spending limit
 
 Some individuals can get "no pre-set spending limit" cards, so it’s hardly surprising that a sovereign government with its own currency and full tax-raising powers has one.
 
-## It can repay itself
+### It can repay itself
 
 The government issues its own credit card, which means it can settle the credit card bill and any interest charges with the same credit card. If you could settle your credit card bill with a credit card, you'd never require a balance in your bank account either. 
 
-## It has the best cashback deal in existence
+### It has the best cashback deal in existence
 
 The cashback deal is truly spectacular. You might get a measly percentage when you spend money at the shop. When the government spends at the shop, it gets a percentage of the spending and another percentage when the shop pays its staff. After that, when the staff buy beer at the pub, the government takes another chunk. And so on, until the initial government spending turns entirely into cashback.
 
@@ -40,7 +40,7 @@ With this deal in place, the only time there will be a balance on the credit car
 
 What we know as "the national debt" is just the balance on the credit card, and the change in the balance is "the deficit." The cause, on the other hand, has not changed: people are saving.
 
-## If only I had one of those...
+### If only I had one of those...
 
 Now just think what you could do if you had one of these cards:
 
@@ -48,7 +48,7 @@ Now just think what you could do if you had one of these cards:
 - you'd never have to fund your spending.
 - you’d never worry about the balance because you wouldn't have to pay it off, it doesn’t affect your credit limit, and you know you’ll get cashback to cover it anyway when people get around to spending their savings.
 
-## So what's the catch?
+### So what's the catch?
 
 With great power comes great responsibility.
 
@@ -67,7 +67,7 @@ You could encourage the use of more machines to produce real things more cheaply
 And you might be bold and provide a job offer to everybody so they can always contribute to society and live free from poverty. Ending unemployment and poverty once and for all is surely a worthy goal, particularly when you can do it with the mere wave of a credit card.
 
 
-## But I haven't got one of these cards
+### But I haven't got one of these cards
 
 No, you don't, but your government does[^2]. You might like to ask them "what's in their wallet" and why they're not using their plastic more effectively.
 
