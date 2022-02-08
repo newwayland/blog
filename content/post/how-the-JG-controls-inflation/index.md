@@ -1,9 +1,9 @@
 ---
 
-title: "How the JG Controls Inflation"
+title: "How the Job Guarantee (JG) Controls Inflation"
 date: 2020-07-30T16:02:12+01:00
-summary: "The Job Guarantee ensures price stability and fullemployment"
-tags: [mmt, jobguarantee]
+summary: "The MMT analysis shows that inflation is controlled by a buffer stock. That can either be an buffer stock of unemployed people, or a buffer stock of employed people. Here we explain why an employed buffer stock, the Job Guarantee, is superior."
+tags: [mmt, jobguarantee, buffer stock]
 
 ---
 
