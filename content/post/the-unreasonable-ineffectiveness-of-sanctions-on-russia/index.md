@@ -17,17 +17,17 @@ Let me try to explain why sanctions on Russia are unlikely to have the desired e
 
 ## Russia doesn’t need our money
 
-Russia has its own currency - the ruble. That means when Vlad needs to buy a tank he orders the Russian Central Bank to debit the Russian Treasury account at the central bank and transfer that to the supplier of the tank. And that’s all he needs to do - forever and for as much as he wants to do that.
+Russia has its own currency - the ruble. That means when Vlad needs to buy a tank he orders the Russian Central Bank to debit the Russian Treasury account at the central bank and transfer that to the supplier of the tank. That’s all he needs to do - forever and for as much as he wants to do that.
 
 That causes an overdraft at the central bank which is an asset of the central bank, and that balances the new reserve liability created for the commercial bank of the tank supplier. That reserve liability at the central bank is an asset of the commercial bank, who then credits a new bank deposit for the tank supplier. The balance sheets of the central bank, and the commercial bank expand.
 
-The tank supplier will accept rubles for its tanks because it needs to pay its workers in rubles. And the reason for that is because Vlad imposes taxes in rubles on both the tank supplier and the workers, which if not paid earns them a spell in a Russian Gulag. That’s all the ‘confidence’ Russia needs to impose on its people for them to accept rubles - a confident assertion, backed by force, that they will be jailed if they don’t pony up the relevant amount of rubles when they are demanded.
+The tank supplier will accept rubles for its tanks because it needs to pay its workers in rubles. The reason for that is because Vlad imposes taxes in rubles on both the tank supplier and the workers, which if not paid earns them a spell in a Russian Gulag. That’s all the ‘confidence’ Russia needs to impose on its people for them to accept rubles - a confident assertion, backed by force, that they will be jailed if they don’t pony up the relevant amount of rubles when they are demanded.
 
 Those taxes are collected. Bank deposits are debited, and bank reserves transferred to the Treasury, which eliminates the overdraft asset and the balancing reserves at the central bank. The central bank balance sheet shrinks back down along with the commercial bank.
 
 There is no need for interest payments. No need for ‘borrowing’. There is nobody who can say no. It all just happens and is perfectly self-sustaining throughout the entire area where Vlad can impose his taxes.
 
-By this mechanism, Russia has command over all the physical resources it needs within its border and tracan transfer them to the service of the state as required.
+By this mechanism, Russia has command over all the physical resources available within its border and can transfer them to the service of the state as required.
 
 
 ## Russia is a sovereign state
@@ -47,11 +47,11 @@ What’s important to note is that this doesn’t just apply to Russia. It appli
 
 In the ‘seen to be doing something stakes’, nothing tops the utter nonsense spoken about central bank ‘international reserves’ and the SWIFT transaction system.
 
-Let me explain what ‘international reserves’ do. If you’ve been abroad to lots of places you’ll end up with a drawer full of foreign small change. In my drawer I’ve some Korean Won, Japanese Yen, Polish Zloty, Bermuda cents and Gibraltar pennies alongside the usual US and Euro cents. And that’s where they sit - unused except to entertain small children with funny looking coins - because they are useless in the United Kingdom. Yet technically they form part of my assets.
+Let me explain what ‘international reserves’ do. If you’ve been abroad to lots of places you’ll end up with a drawer full of foreign small change. In my drawer I’ve some Korean Won, Japanese Yen, Polish Zloty, Bermuda cents and Gibraltar pennies alongside the usual US and Euro cents. That’s where they sit - unused except to entertain small children with funny looking coins - because they are useless in the United Kingdom. Yet technically they form part of my assets.
 
 “International reserves” are really a drawer full of loose foreign change. They are of no real use in a country and can be completely ignored or written off to no operational effect. They end up on the balance sheet of a central bank because export entities within a nation want the currency of the nation to undertake local transactions - like paying their local workers. So they swap their foreign earnings for local currency.
 
-Since that creates an FX risk for commercial operations, an excess of foreign currency in export surplus nations tends to bubble up until it ends up under the control of some state entity - often the central bank. And there it sits - because not spending it tends to hold down the currency exchange rate which favours exports.
+Since that creates an FX risk for commercial operations, an excess of foreign currency in export surplus nations tends to bubble up until it ends up under the control of some state entity - often the central bank. There it sits - because not spending it tends to hold down the currency exchange rate which favours exports.
 
 Since the only strategic reason to export is to obtain imports, why should Russia continue to export anything if it is getting nothing material in return?
 
