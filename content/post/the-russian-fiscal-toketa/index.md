@@ -3,7 +3,7 @@ title: "The Russian Fiscal Toketa"
 date: 2022-03-07T21:17:29Z
 summary: "Russia has easily countered the attempts at financial sanctions, resulting in some interesting outcomes that further confirm the view taken by Modern Monetary Theory"
 tags: [mmt, russia, central bank]
-draft: true
+
 ---
 
 {{< figure src="central-bank-of-russia.jpg" alt="Central Bank of Russia" >}}
