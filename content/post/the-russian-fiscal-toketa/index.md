@@ -29,6 +29,6 @@ There are several interesting effects of this mechanism
 
 What we have here is the demonstration of the sovereign power behind a currency that cleverly neutralises the fiscal effects of freezing the foreign currency reserves of the Russian Federation.
 
-I think we can call ‘Toketa’ in this attempt to pin the Russian financial system down. Exactly as you would expect from a black belt in Judo.
+Exactly as you would expect from a black belt in Judo.
 
-If only there was a Dojo where you could learn how these currency things work.
+I think we can call ‘Toketa’ in this attempt to pin the Russian financial system down. If only there was a Dojo where you could learn how these currency things work.
