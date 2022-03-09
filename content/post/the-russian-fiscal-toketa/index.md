@@ -32,3 +32,7 @@ What we have here is the demonstration of the sovereign power behind a currency 
 Exactly as you would expect from a black belt in Judo.
 
 I think we can call ‘Toketa’ in this attempt to pin the Russian financial system down. If only there was a Dojo where you could learn how these currency things work.
+
+* * *
+
+_Chat about this and any other MMT topics with the growing [New Wayland community](https://discord.gg/JN6HKUd)_
