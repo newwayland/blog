@@ -2,7 +2,7 @@
 title: "The Unreasonable Ineffectiveness of Sanctions on Russia"
 date: 2022-02-28T08:14:00Z
 summary: "Electronic impulses on computers only stop tanks in Call of Duty. War is not a game, and stopping it will require rather more than attempts at financial alchemy"
-tags: [mmt, sanctions, russia, ruble, rouble] 
+tags: [mmt, sanctions, russia, ruble, rouble, external sector, exports, imports] 
 
 ---
 
