@@ -3,7 +3,7 @@
 title: "UK Borrowed Foreign Currency from the IMF in 1976"
 summary: "The much vaunted IMF crisis in the UK was because the government violated an MMT golden rule: government must not borrow in a foreign currency"
 date: 2021-01-29T09:50:31Z
-tags: [mmt, archive, imf, currency]
+tags: [mmt, archive, imf, currency, external sector, exports, imports]
 
 ---
 
