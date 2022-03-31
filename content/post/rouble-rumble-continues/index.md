@@ -34,7 +34,7 @@ explaining what is really going on.
 
 I linked in [my previous blog]({{< relref "rouble-gas-payments-false-flag">}}) to a talk by [Mark van Culijk on the intracacies of interbank payment](https://media.ccc.de/v/33c3-8315-a_world_without_blockchain). The [slides are available too](https://fahrplan.events.ccc.de/congress/2016/Fahrplan/system/event_attachments/attachments/000/003/125/original/Mark_van_Cuijk_-_A_world_without_blockchain.pdf). In there he has a slide showing how international payments work.
 
-{{< figure src="correspondent-banking" alt="Correspondent Banking example">}}
+{{< figure src="correspondent-banking.png" alt="Correspondent Banking example">}}
 
 The [gory details and the issues with international transfers have been detailed by Swift in a paper](https://swiftinstitute.org/wp-content/uploads/2018/10/SIWP-2017-001-The-Future-of-Correspondent-Banking_FINALv2.pdf), and there is a [more accessible description of the correspondent process from Wise.](https://wise.com/gb/blog/how-do-banks-move-your-money) Both are worth a read depending upon how deep you want to go into the interbank messaging protocols.
 
