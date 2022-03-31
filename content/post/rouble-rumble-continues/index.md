@@ -30,7 +30,7 @@ Putin has got himself back on the front page in the West by loudly
 declaring that what was happening in March will continue to happen into
 the future - although the names on a few accounts may have changed to
 protect the guilty. It's really astonishing. I've seen nothing in the press
-explaining what is really going on.
+explaining what is really going on.  It's possibly the best April Fools joke ever.
 
 I linked in [my previous blog]({{< relref "rouble-gas-payments-false-flag">}}) to a talk by [Mark van Culijk on the intracacies of interbank payment](https://media.ccc.de/v/33c3-8315-a_world_without_blockchain). The [slides are available too](https://fahrplan.events.ccc.de/congress/2016/Fahrplan/system/event_attachments/attachments/000/003/125/original/Mark_van_Cuijk_-_A_world_without_blockchain.pdf). In there he has a slide showing how international payments work.
 
