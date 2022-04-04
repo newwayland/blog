@@ -5,9 +5,7 @@ summary: "How the new payment process for gas in Russia will work, including how
 tags: [mmt, russia, central bank, exports, imports, external sector, NCC]
 
 ---
-
-{{< figure src="central-bank-of-russia.jpg" alt="Central Bank of Russia" >}}
-
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazprom_HQ_1.jpg" alt="Gazprom HQ 1">}}
 
 At the end of March [we finally got the details](https://www.lse.co.uk/fx/news/putins-decree-on-russian-gas-purchases-in-roubles-4mr38tmr39pjjes.html) of how Russia will require foreign buyers of gas to make payment.
 
