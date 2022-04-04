@@ -37,7 +37,7 @@ We start with the initial payment from the EU gas buyer into their K account at 
 
 {{< figure src="table-1.png" >}}
 
-After that Gazprombank puts the EUR in the K accounts on the Moscow Exchange for auction, likely using the T+0 (EURRUB_TOD) [facility of the exchange](https://www.moex.com/en/markets/currency/). This may continue to go via JP Morgan, but it is more likely that NCC will maintain a correspondent account in EUR directly at Gazprombank, cutting out the risky middleman and a needless TARGET2 transfer. Within Gazprombank this results in the balances of the EUR K-accounts being transferred to the credit of NCC, and NCC creating EUR-denominated settlement 'chips' within its settlement system. Here we assume all the EUR balance is transferred and the auction position is fully pre-funded.
+After that Gazprombank puts transfers the EUR from the K accounts onto the Moscow Exchange for auction, likely using the T+0 (EURRUB_TOD) [facility of the exchange](https://www.moex.com/en/markets/currency/). This may continue to go via JP Morgan, but it is more likely that NCC will maintain a correspondent account in EUR directly at Gazprombank, cutting out the risky middleman and a needless TARGET2 transfer. Within Gazprombank this results in the balances of the EUR K-accounts being transferred to the credit of NCC, and NCC creating EUR-denominated settlement 'chips' within its settlement system. Here we assume all the EUR balance is transferred and the auction position is fully pre-funded.
 
 {{< figure src="table-2.png" >}}
 
