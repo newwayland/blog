@@ -65,7 +65,7 @@ In all international trades the buyer pays with the currency they have and the s
 
 So what's the surprising conclusion. First a history lesson. During the cold war, following the invasion of Hungary, the Russians abandoned their US dollar deposits directly in American Banks and opened an account with a British Bank, the Narodny Bank, that happened to have Russian ownership. The British Bank then held the USD deposit directly with the US bank and the Russians held accounts with Narodny Bank denominated in USD. Since these things could only circulate in Europe they became known as 'Eurodollars'. A major role in the Eurodollar market was played by the Midland Bank, which is now part of HSBC who, you will note from above, remains the GBP correspondent bank for the NCC.
 
-Note the final position in the balance sheet above. Gazprombank holds the actual deposit at the ECB, the NCC holds a correspondent position at Gazprombank, and the Bank of Russia holds its EUR liquidity in casino chips at the NCC - able to supply EUR to whoever needs them on the Moscow Exchange.
+Note the final position in the balance sheet. Gazprombank holds the actual deposit at the ECB, the NCC holds a correspondent position at Gazprombank, and the Bank of Russia holds its EUR liquidity in casino chips at the NCC - able to supply EUR to whoever needs them on the Moscow Exchange.
 
 Say hello to the RuskiEuro.
 * * *
