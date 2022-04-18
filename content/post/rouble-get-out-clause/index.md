@@ -2,7 +2,7 @@
 title: "The Russian Rouble Get Out Clause"
 date: 2022-04-18T10:37:35+01:00
 summary: "Since 2018 Russia has had an alternative payment clause in its Eurobond contracts that allows it to pay principal and interest in Roubles"
-tags: [russia, rouble, eurobonds]
+tags: [russia, rouble, eurobonds, bonds, sanctions]
 
 ---
 
