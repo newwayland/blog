@@ -6,7 +6,7 @@ tags: [mmt, models]
 
 ---
 
-{{<figure srv="simcb.png" alt="Sim CB screenshot">}}
+{{<figure src="simcb.png" alt="Sim CB screenshot">}}
 
 Benoit Essiambre has created a [new economic simulation
 game](https://benoitessiambre.com/macro.html) that allows you to play at
