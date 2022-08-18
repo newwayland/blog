@@ -145,3 +145,7 @@ Strap in. It's going to be a wild ride.
 the confiscation is from the pension funds of people currently in work
 who will then end up with smaller private pensions in the future. A
 favourite trick of Gordon Brown acolytes.
+
+* * *
+
+_Chat about this and any other MMT topics on Discord with the growing [New Wayland community](https://discord.com). New members can click this [invite link](https://discord.gg/JN6HKUd) which will add the server to your Discord account_
