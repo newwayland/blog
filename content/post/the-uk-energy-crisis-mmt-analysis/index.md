@@ -64,7 +64,7 @@ work because it will very likely cause the value of Sterling to collapse.
 Unless they also try to strengthen Sterling at the same time by tariffing
 or banning other imports to create export exchange space.
 
-5. Putting up interest rates to try and export more Sterling savings
+5. Putting up interest rates to try and [export more Sterling savings]({{< relref "savings-are-an-export-product" >}})
 would fast-track the UK to Turkey or Zimbabwe status.  In an economy
 suffering from a supply shortage putting up the price of investment is
 frankly insane.  There's no more stupid policy than a Faustian pact with
