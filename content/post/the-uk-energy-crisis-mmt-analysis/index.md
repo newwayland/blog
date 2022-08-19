@@ -58,13 +58,19 @@ earning a cut for creating the money.
 because money isn't scarce, gas is. Gas production firms don't have a
 secret supply of gas either. If they did they'd be selling it at these
 sky-high prices.
+  
+4. General business tax cuts won't work because money isn't scarce, gas is.
+Prices are kept down by competition between firms. If prices are rising, then
+there isn't enough spare supply capacity for competition to work. Therefore tax cuts will 
+likely flow to owners in higher profits, not customers in lower prices.
+Whatever does flow to customers will very likely just drive up the wholesale cost of gas further. 
 
-4. Government buying gas at Spot and selling at a lower fixed price won't
+5. Government buying gas at Spot and selling at a lower fixed price won't
 work because it will very likely cause the value of Sterling to collapse.
 Unless they also try to strengthen Sterling at the same time by tariffing
 or banning other imports to create export exchange space.
 
-5. Putting up interest rates to try and [export more Sterling savings]({{< relref "savings-are-an-export-product" >}})
+6. Putting up interest rates to try and [export more Sterling savings]({{< relref "savings-are-an-export-product" >}})
 would fast-track the UK to Turkey or Zimbabwe status.  In an economy
 suffering from a supply shortage putting up the price of investment is
 frankly insane.  There's no more stupid policy than a Faustian pact with
