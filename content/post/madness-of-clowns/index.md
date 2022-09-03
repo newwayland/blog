@@ -25,7 +25,7 @@ And this lead naturally [to the obvious conclusion I highlighted in March][2]
 
 This is the insight you gain when you understand how sovereign currencies work.
 
-Which is why my head in the desk in despair when I read that the G7 are trying to [impose a price cap on Russian Oil][3] to "significantly reduce Russia’s main source of funding for its illegal war". 
+Which is why my head hit the desk in despair when I read that the G7 are trying to [impose a price cap on Russian Oil][3] to "significantly reduce Russia’s main source of funding for its illegal war". 
 
 **It won't** because it isn't the source of funding.
 
