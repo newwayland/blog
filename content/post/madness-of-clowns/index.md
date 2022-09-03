@@ -37,7 +37,7 @@ From the point of view of a nation, the purpose of exports is to obtain imports.
 
 The first move is already in place. The second is undoubtedly incoming.
 
-We can see from the price of electricity in Europe that, in a supply constrained environment, the price is set by the swing producer - in this case gas turbine generated electricity using LNG gas. The constrained supply of LNG natural gas sets the price.  
+We can see from the price of electricity in Europe that, in a supply constrained environment, the price is set by the swing producer - in this case gas turbine generated electricity using LNG. The constrained supply of LNG sets the price.  
 
 Oil is the same. The swing producer is usually Saudi Arabia as they can turn their oil wells up and down relatively easily due to their particular geology. However the Saudi spare capacity is neither infinite, nor necessarily available to replace Russian Oil. OPEC+ is a cartel and Russia is a member. If we're not careful then Russia will become the swing producer and will then set the price. If the West refuses to pay that price we'll end up with an Oil crisis to add to the Gas crisis.
 
