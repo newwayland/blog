@@ -6,7 +6,7 @@ tags: [mmt, sanctions, russia, rouble, external sector, exports, imports]
 
 ---
 
-{{<figure src="five-rubles.jpg" alt="Five Rubles">}}
+{{<figure src="five-roubles.jpg" alt="Five roubles">}}
 
 Nothing is more depressing to a supporter of Western democracy and values than the response of our pygmy leaders to Vlad the Mad(TM) trampling all over Ukraine.
 
@@ -17,11 +17,11 @@ Let me try to explain why sanctions on Russia are unlikely to have the desired e
 
 ## Russia doesn’t need our money
 
-Russia has its own currency - the ruble. That means when Vlad needs to buy a tank he orders the Russian Central Bank to debit the Russian Treasury account at the central bank and transfer that to the supplier of the tank. That’s all he needs to do - forever and for as much as he wants to do that.
+Russia has its own currency - the rouble. That means when Vlad needs to buy a tank he orders the Russian Central Bank to debit the Russian Treasury account at the central bank and transfer that to the supplier of the tank. That’s all he needs to do - forever and for as much as he wants to do that.
 
 That causes an overdraft at the central bank which is an asset of the central bank, and that balances the new reserve liability created for the commercial bank of the tank supplier. That reserve liability at the central bank is an asset of the commercial bank, who then credits a new bank deposit for the tank supplier. The balance sheets of the central bank, and the commercial bank expand.
 
-The tank supplier will accept rubles for its tanks because it needs to pay its workers in rubles. The reason for that is because Vlad imposes taxes in rubles on both the tank supplier and the workers, which if not paid earns them a spell in a Russian Gulag. That’s all the ‘confidence’ Russia needs to impose on its people for them to accept rubles - a confident assertion, backed by force, that they will be jailed if they don’t pony up the relevant amount of rubles when they are demanded.
+The tank supplier will accept roubles for its tanks because it needs to pay its workers in roubles. The reason for that is because Vlad imposes taxes in roubles on both the tank supplier and the workers, which if not paid earns them a spell in a Russian Gulag. That’s all the ‘confidence’ Russia needs to impose on its people for them to accept roubles - a confident assertion, backed by force, that they will be jailed if they don’t pony up the relevant amount of roubles when they are demanded.
 
 Those taxes are collected. Bank deposits are debited, and bank reserves transferred to the Treasury, which eliminates the overdraft asset and the balancing reserves at the central bank. The central bank balance sheet shrinks back down along with the commercial bank.
 
@@ -32,7 +32,7 @@ By this mechanism, Russia has command over all the physical resources available 
 
 ## Russia is a sovereign state
 
-Should the tank supplier decide not to take rubles, then the tank supplier will be commandeered by the state, and the leaders deposed - replaced by somebody who will take rubles.
+Should the tank supplier decide not to take roubles, then the tank supplier will be commandeered by the state, and the leaders deposed - replaced by somebody who will take roubles.
 
 Should somebody at the central bank decide not to honour Vlad’s payment order, they will be replaced by somebody who will.
 
@@ -65,9 +65,9 @@ The whole idea of ‘creating inflation’ in Russia is far more likely to creat
 
 SWIFT is a fancy WhatsApp group for banks that allows banks to message each other when they want to move money from one account to another. What happens when you are booted out of a WhatsApp group? You create another one and talk via that. Or you use Signal, or Matrix or perhaps even have a phone call.
 
-If nobody is selling anything to Russians, then why would Russians need to settle in anything other than rubles - which SWIFT cannot affect?
+If nobody is selling anything to Russians, then why would Russians need to settle in anything other than roubles - which SWIFT cannot affect?
 
-Trying to drive the ruble down just makes Russian exports even more of a bargain and incentivises ways of getting around the blockage. Since a decent team of developers could knock out a SWIFT replacement for the major transaction types in about a fortnight using RabbitMQ and an adequate supply of the finest Russian beer I doubt the Russians are going to be overly bothered by the inconvenience. After all, the external value of your currency is of little concern if you’re not sourcing required items outside your borders. Russia is not Turkey, nor is it Iran. It is an industrial power house with a vast land area full of natural resources and an energetic people that prefers to train engineers and scientists over advertising executives, and that happens to have the fourth largest armed force on the planet.
+Trying to drive the rouble down just makes Russian exports even more of a bargain and incentivises ways of getting around the blockage. Since a decent team of developers could knock out a SWIFT replacement for the major transaction types in about a fortnight using RabbitMQ and an adequate supply of the finest Russian beer I doubt the Russians are going to be overly bothered by the inconvenience. After all, the external value of your currency is of little concern if you’re not sourcing required items outside your borders. Russia is not Turkey, nor is it Iran. It is an industrial power house with a vast land area full of natural resources and an energetic people that prefers to train engineers and scientists over advertising executives, and that happens to have the fourth largest armed force on the planet.
 
 Russians may want the stuff the West can supply, but they don’t need it. Where does West’s demand for Gas and Wheat sit on that divide?
 
@@ -91,15 +91,15 @@ The Wool and Corn Exchanges of the world believed they would last forever. Now, 
 
 ## The Saving Grace
 
-Sanctions are based upon a belief about Russia and a belief about money: that Russia is utterly dependent upon imports to survive, that rubles need ‘confidence’ and ‘interest payments’ to be accepted, that freezing ‘international reserves’ will cause bank runs, that inflation will run rampant.
+Sanctions are based upon a belief about Russia and a belief about money: that Russia is utterly dependent upon imports to survive, that roubles need ‘confidence’ and ‘interest payments’ to be accepted, that freezing ‘international reserves’ will cause bank runs, that inflation will run rampant.
 
-In reality, Russia is self-sufficient in what it needs, rubles are accepted because there are tax payments to pay, interest is utterly irrelevant and can be zero to eliminate inadvertent demand injection, and freezing ‘international reserves’ will just result in dollar and euro denominated deposits in Russian banks being frozen in the same way, if not entirely confiscated under emergency tax legislation. After all, keeping your assets in foreign denominations isn’t the act of a patriot and is likely somebody who would oppose Putin’s regime. Taxing away their money seems like a good way to reduce their power - after all that’s what the “tax the rich” people keep saying in the West
+In reality, Russia is self-sufficient in what it needs, roubles are accepted because there are tax payments to pay, interest is utterly irrelevant and can be zero to eliminate inadvertent demand injection, and freezing ‘international reserves’ will just result in dollar and euro denominated deposits in Russian banks being frozen in the same way, if not entirely confiscated under emergency tax legislation. After all, keeping your assets in foreign denominations isn’t the act of a patriot and is likely somebody who would oppose Putin’s regime. Taxing away their money seems like a good way to reduce their power - after all that’s what the “tax the rich” people keep saying in the West
 
 In 1940 JM Keynes [published a pamphlet](https://archive.org/details/in.ernet.dli.2015.499597/page/n63/mode/2up) called “How to pay for the war” where he explains how equipment for a war is produced and distributed and what the population must do to enable it. In it is the following: “In a totalitarian state the problem of the distribution of sacrifice does not exist. That is one of its initial advantages for war”.
 
-Putin’s Russia can easily counter sanctions. It can put taxes up - payable in rubles to ensure demand matches supply. It can freeze savings in foreign currencies at its banks. It can lower interest rates to eliminate [the Interest/Price spiral]({{< relref "interest-price-spiral" >}}). It can demand that its exports are settled in rubles or simply stop exporting - since there is no longer anything on the other side worth importing. It can redeploy workers from the export industry to the production of substitute products and services. It can physically ration goods and services amongst the population.
+Putin’s Russia can easily counter sanctions. It can put taxes up - payable in roubles to ensure demand matches supply. It can freeze savings in foreign currencies at its banks. It can lower interest rates to eliminate [the Interest/Price spiral]({{< relref "interest-price-spiral" >}}). It can demand that its exports are settled in roubles or simply stop exporting - since there is no longer anything on the other side worth importing. It can redeploy workers from the export industry to the production of substitute products and services. It can physically ration goods and services amongst the population.
 
-Putin [is a conservative statist](https://www.bibliotecapleyades.net/sociopolitica/sociopol_russia22.htm). All we can hope is that the ‘sound finance’ nonsense is solidly in his mind in the same way as the other dubious notions he has laid out at length over the last few weeks, and that he will make the same mistakes with money as Erdogan and other totalitarian leaders. If he has read “How to pay for the war” and truly understood it, and particularly if he has gained insights into the power he has with the ruble that flows from understanding Modern Monetary Theory, then it will be the West blinking wondering what happened, not Russia.
+Putin [is a conservative statist](https://www.bibliotecapleyades.net/sociopolitica/sociopol_russia22.htm). All we can hope is that the ‘sound finance’ nonsense is solidly in his mind in the same way as the other dubious notions he has laid out at length over the last few weeks, and that he will make the same mistakes with money as Erdogan and other totalitarian leaders. If he has read “How to pay for the war” and truly understood it, and particularly if he has gained insights into the power he has with the rouble that flows from understanding Modern Monetary Theory, then it will be the West blinking wondering what happened, not Russia.
 
 Like all alchemy, financial alchemy works like the hypnotism of the stage magician - an illusion that only captures those with weak gullible minds. Pushing Russia back is going to require a rather more physical approach, which is something our effete elite appear incapable of understanding.
 
