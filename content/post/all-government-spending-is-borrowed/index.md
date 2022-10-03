@@ -59,6 +59,8 @@ Any interest or fees paid by the government to a third party is a deliberate pol
 
 Cui Bono?
 
+{{<joindiscord>}}
+
 [1]: https://new-wayland.com/blog/how-uk-government-payments-are-made/
 [2]: https://new-wayland.com/blog/uk-government-spending-gory-details/
 [3]: https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf
