@@ -121,6 +121,8 @@ zero-rated borrowing with borrowing paying a much higher interest rate.
 
 Why? Don’t know.
 
+{{<joindiscord>}}
+
 [1]: https://archive.ph/GpAyE 
 [2]: {{<relref "all-government-spending-is-borrowed">}}
 
