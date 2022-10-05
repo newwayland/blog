@@ -2,7 +2,7 @@
 title: "The Job Guarantee - More Money, Less Tax"
 date: 2022-01-16T10:17:04Z
 summary: "A Job Guarantee is a straightforward concept. It is the government's offer of a job to everyone who wants one, at the living wage, working for the public good."
-tags: [mmt, mmt-basics, job-guarantee]
+tags: [mmt, mmt-basics, jobguarantee]
 
 ---
 
