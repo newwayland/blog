@@ -54,9 +54,9 @@ Because Gilts pay an income and are negotiable, they add to the total income ava
 
 When the Bank of England withdrew Gilts from the market via QE, leaving in place the alternative Bank Reserves, the price of other assets went up.
 
-Since more income is paid on Gilts than on the alternative bank
-reserves, the price of private assets is lower than it otherwise
-would be without this state-backed intervention in the market for money.
+When Gilts are issued other private assets fall to a lower price than
+they otherwise would be. This is because more income is paid on Gilts
+than on the alternative bank reserves,
 
 That may sound like a great idea, but high prices attract
 competition and more production of assets, which then lowers prices
