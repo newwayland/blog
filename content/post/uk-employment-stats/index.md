@@ -11,4 +11,4 @@ tags: [statistics, uk]
 
 Source: [Office of National Statistics](https://www.ons.gov.uk)
 
-Chat about this and any other MMT topics with the growing [New Wayland community](https://discord.gg/JN6HKUd)
+{{<joindiscord>}}
