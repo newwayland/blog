@@ -24,10 +24,11 @@ The only difference is that the floating interest rate on the bank deposit is li
 
 And that’s the real reason asset managers object to ‘printing money’. ‘Printing bonds’ provides them with a higher ‘basic income’, all at the taxpayer’s expense.
 
-Upton Sinclair’s famous observation strikes again. 
+[Upton Sinclair’s famous observation][2] strikes again. 
 
 {{<joindiscord>}}
 
 [^1]: Along with an amount of money equivalent to the tax collected which, after circulation, will turn up as tax again because the propensity to spend in the currency area hasn't changed either.
 
 [1]: https://www.telegraph.co.uk/business/2023/05/25/could-a-1-trillion-platinum-coin-solve-the-us-debt-ceiling/
+[2]: https://www.azquotes.com/picture-quotes/quote-it-is-difficult-to-get-a-man-to-understand-something-when-his-salary-depends-upon-his-upton-sinclair-27-30-36.jpg
