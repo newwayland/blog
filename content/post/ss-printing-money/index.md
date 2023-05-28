@@ -1,5 +1,5 @@
 ---
-title: 'Sophistry or Sibboleth? - "Printing Money"'
+title: 'Sophistry or Shibboleth? - "Printing Money"'
 date: 2023-05-28T10:21:40+01:00
 summary: "Here's the real reason 'asset managers' object to 'printing money'"
 
