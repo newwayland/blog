@@ -63,7 +63,7 @@ Then Bill moves onto the theory behind the MMT view
 > 
 > This last consideration is important in understanding why we might consider the dynamics of interest rate rises in the US (which is the basis of Warren’s conjectures) to be different to elsewhere.
 
-We have to remember that in the US long term fixed rate mortgages dominate. In the UK shorter term fixe rate mortgages dominate. However in Australia variable rate mortgages are still the norm. That changes the dynamics, as Bill explains:
+We have to remember that in the US long term fixed rate mortgages dominate. In the UK shorter term fixed rate mortgages dominate. However in Australia variable rate mortgages are still the norm. That changes the dynamics, as Bill explains:
 
 > If you consider those differences, then we can see why the conduct of the Federal Reserve Bank at present is not likely to generate recession.
 > 
