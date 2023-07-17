@@ -19,7 +19,7 @@ In aggregate, they can’t get rid of these deposits.
 Banks can only move them to other banks.
 
 You can only buy UK government debt with reserves.[^2]
-Buying government debt is the only alternative for the banking system to holding reserve deposits.
+Buying government debt is the only alternative for the financial system to holding reserve deposits.
 
 The Bank of England pays interest on reserves at the Bank Rate.
 Banks forecast how the Bank Rate will fluctuate over time and how much money they will make.
@@ -28,8 +28,8 @@ They will buy UK government debt if they believe it will make them more money.
 Therefore, simple competition between the two alternatives determines the price of UK government debt. 
 
 If the Bank dropped interest rates to zero, stating it would stay there permanently, then the price of UK government debt would rapidly follow.
-This much we know from the evidence from Japan, where interest rates are near zero.
-The rates on Japanese Government Bonds remain very low.
+We can see this in Japan where interest rates are near zero and the rates on Japanese Government Bonds remain very low.
+But perhaps more importantly there is no runaway inflation despite low interest rates.
 
 There is no risk that interest rates on UK government debt will reach crippling levels.
 Interest rates are policy variables.
