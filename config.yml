@@ -1,7 +1,7 @@
 baseURL: 'https://new-wayland.com/blog/'
 title: New Wayland
-theme: PaperMod
 languageCode: en-gb
+theme: github.com/adityatelange/hugo-PaperMod
 copyright: New Wayland
 outputs:
   home:
