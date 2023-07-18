@@ -2,6 +2,7 @@
 title: 'Sophistry or Shibboleth? - "Printing Money"'
 date: 2023-05-28T10:21:40+01:00
 summary: "Here's the real reason 'asset managers' object to 'printing money'"
+tags: [mmt, sophistry-or-shibboleth, bonds, money]
 
 ---
 Nothing has demonstrated how little economists understand about their subject more than the rumpus over the US debt ceiling. What is concerning, though, is how few journalists seem to have called out these misunderstandings. Consider the following quote [from an article in the UK Daily Telegraph][1]:

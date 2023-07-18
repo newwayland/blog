@@ -49,4 +49,4 @@ In aggregate, they have only one alternative: hold floating rate debt with the g
 
 [1]: https://obr.uk/docs/dlm_uploads/Fiscal_risks_and_sustainability_report_July_2023.pdf
 [2]: https://twitter.com/Peston/status/1679451068755857408?s=20
-[3]: https://new-wayland.com/blog/the-mmt-approach-in-a-nutshell
+[3]: {{< relref "the-mmt-approach-in-a-nutshell">}}
