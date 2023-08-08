@@ -38,11 +38,13 @@ The Tories did make one amusing point:
 "The UK Government issues more inflation-linked gilts than international comparators because the structure of our pension system relies less heavily on state-backed pensions."
 
 The finance industry's hubris is on full display here.
-If a pension fund relies upon index-linked gilts to cover its liabilities, how is it anything other than state-backed?
+If a pension fund relies upon index-linked gilts to cover its liabilities, how is it anything other than state-backed?[^1]
 Wouldn't it be more cost-effective to cut out the middleman?
 
 If the [Golgafrinchans built their Ark Fleet Ship B][1] in the UK, we'd need two of them. 
 {{<joindiscord>}}
+
+[^1]: As part of the auto-enrollment process, they receive automatic pension contributions, a privatised hypothecated tax. It is only notionally voluntary.
 
 [1]: https://hitchhikers.fandom.com/wiki/Golgafrinchan_Ark_Fleet_Ship_B
 [2]: https://billmitchell.org/blog/?p=60938
