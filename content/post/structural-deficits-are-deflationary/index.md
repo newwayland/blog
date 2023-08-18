@@ -138,8 +138,8 @@ The inflation risk lies elsewhere - in the spending taxed to destruction over ma
 {{<joindiscord>}}
 
 [^1]: Unless, when the government spends, it overpays for what it is purchasing - including giving the money away for free or indexing a payment.
-[^2]: understandable since civil servants seem to struggle to drive a hard bargain.
-[^3]: every penny the government spends is 'printed' and 'borrowed' and has been for centuries. That's how money works. Get over it.
+[^2]: Understandable since civil servants seem to struggle to drive a hard bargain.
+[^3]: Every penny the government spends is 'printed' and 'borrowed' and has been for centuries. That's how money works. Get over it.
 
 [1]: https://archive.ph/tL0d6
 [2]: https://en.wikipedia.org/wiki/Deficit_spending
