@@ -60,9 +60,9 @@ There is no scope to offset or reclaim tax.
 
 ### A Public Sector Worker Example
 
-Take the recent £1,500 bonus paid to UK civil servants.
+Consider a pay rise for civil servants of £1500.[^4]
 
-For many, this attracted 20% income tax, 12% National Insurance, 9% student loan repayment and a 5.45% pension contribution, reducing the net payment to the individual to £803.25.
+For many, this would attract 20% income tax, 12% National Insurance, 9% student loan repayment and a 5.45% pension contribution, reducing the net payment to the individual to £803.25.
 On top of that, the department would pay 13.8% Employer's National Insurance.
 The Civil Service Pension Scheme would [mark up their liabilities by 71% of the pay][5] (offset by the 5.45% employee contribution).
 
@@ -140,6 +140,7 @@ The inflation risk lies elsewhere - in the spending taxed to destruction over ma
 [^1]: Unless, when the government spends, it overpays for what it is purchasing - including giving the money away for free or indexing a payment.
 [^2]: Understandable since civil servants seem to struggle to drive a hard bargain.
 [^3]: Every penny the government spends is 'printed' and 'borrowed' and has been for centuries. That's how money works. Get over it.
+[^4]: Turns out bonuses are not pensionable earnings.
 
 [1]: https://archive.ph/tL0d6
 [2]: https://en.wikipedia.org/wiki/Deficit_spending
