@@ -2,6 +2,7 @@
 title: "MMT Basics: Interest Rates"
 date: 2023-06-26T08:21:45+01:00
 summary: "Bill Mitchell explains how MMT sees the effect of Interest Rate changes on the economy"
+tags: [mmt-basics, interest rates]
 
 ---
 
