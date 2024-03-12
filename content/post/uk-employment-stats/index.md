@@ -1,7 +1,7 @@
 ---
 
 title: "UK Employment Stats"
-date: 2024-02-13T12:47:20+00:00
+date: 2024-03-12T10:30:14+00:00
 summary: "The number of people in the UK without work that want it"
 tags: [statistics, uk]
 
