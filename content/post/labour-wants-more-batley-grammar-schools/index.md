@@ -1,7 +1,7 @@
 ---
 title: "Labour Wants More Batley Grammar Schools"
 summary: "Labour's 2024 election pledges means we're going to get more Batley Grammar Schools"
-date: 2024-06-02T08:45:49+01:00
+date: 2024-06-02T09:29:13+01:00
 tags: [election2024, education]
 
 ---
