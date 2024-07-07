@@ -49,6 +49,9 @@ The distinction between the job titles has narrowed further with the decision to
 The increased use of physician associates for tasks traditionally performed by foundation doctors undermines foundation doctors' professional development and career progression, reducing the number of training places available. This affects the current generation of doctors and poses a threat to the future of healthcare in the UK.
 
 Taking an equal pay case forward to the courts would force the NHS to detail and clarify the roles of physician associates and justify their pay bands relative to foundation doctors. 
+
+{{<joindiscord>}}
+
 [^1]: Equality Act [Internet]. Apr 8, 2010. Available from: [https://www.legislation.gov.uk/ukpga/2010/15/introduction](https://www.legislation.gov.uk/ukpga/2010/15/introduction)
 [^2]: Collins I. ‘If a doctor can do it, why not a PA?’ | BMA blogs [Internet]. 2023 [cited 2024 Jul 7]. Available from: [https://www.bma.org.uk/news-and-opinion/if-a-doctor-can-do-it-why-not-a-pa](https://www.bma.org.uk/news-and-opinion/if-a-doctor-can-do-it-why-not-a-pa)
 [^3]: McKee M, Brayne C. Physician associates in the UK: some fundamental questions that need answers now. BMJ. 2024 Mar 19;q699.
