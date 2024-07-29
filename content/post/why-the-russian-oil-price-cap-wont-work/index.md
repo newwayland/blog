@@ -58,7 +58,7 @@ the West, it has no national interest in exporting anything to the West.
 In addition, Russia is banned from dealing in Western currencies, and the
 West has banned its populations from dealing in roubles. Paradoxically,
 that makes the exchange analysis very easy indeed: nobody in Russia
-needs Western currencies as there is nothing to buy them. However the energy
+needs Western currencies as there is nothing to buy with them. However the energy
 sales to the West need to be exchanged, at least in part, for roubles as the
 Russian energy firms have bills and taxes to pay.
 
