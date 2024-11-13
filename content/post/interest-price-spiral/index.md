@@ -47,3 +47,5 @@ Old generals, who remain in charge long past their sell-by date, always end up f
 It will be a bloodbath, born of incompetence and arrogance topped off with that most destructive of human conditions: unshakeable belief.
 
 The question now, as with austerity before it, is how long will it take, and how many will be made destitute, before people realise that *The Myth* doesn’t work as advertised.
+
+{{<joindiscord>}}

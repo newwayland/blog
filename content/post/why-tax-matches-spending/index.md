@@ -46,4 +46,6 @@ n = (log(t)-log(a)+log(d))/log(1-t)
 
 where `d` is the deminimis useful number of currency units.
 
+{{<joindiscord>}}
+
 [0]: https://www.math-only-math.com/sum-of-an-infinite-geometric-progression.html

@@ -58,6 +58,7 @@ covering our flanks (Japan still manages to be a net exporter mostly).
 
 But it is one we must win.
 
+{{<joindiscord>}}
 
 [1]: https://www.telegraph.co.uk/news/2020/11/05/sadly-complete-myth-britain-cant-afford-lockdowns/ 
 

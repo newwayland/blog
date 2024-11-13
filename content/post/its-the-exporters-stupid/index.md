@@ -37,3 +37,6 @@ So let's stop looking at this problem from the wrong end.
 It's the exporters stupid.
 
 *First published 24 Feb 2014. Quoted in Randall Wray's [Modern Money Theory](https://amzn.to/2T9SZCq), pp289*
+
+{{<joindiscord>}}
+
