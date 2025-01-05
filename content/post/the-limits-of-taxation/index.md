@@ -2,7 +2,6 @@
 title: "The Limits of Taxation"
 date: 2025-01-05T09:56:17Z
 summary: "Understanding the Physical and Social Constraints of the Public Sector"
-draft: true
 tags: [article]
 
 ---
