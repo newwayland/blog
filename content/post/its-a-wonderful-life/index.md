@@ -5,7 +5,7 @@ summary: "George Bailey saves Bedford Falls—again! This blog reimagines
 the bank run with a deeper dive into the monetary system,
 as George uses his newfound financial savvy to outwit Mr. Potter, keep
 the town afloat, and still make it to his honeymoon."
-tags: [mmt]
+tags: [mmt, article]
 ---
 
 Last week *It’s a Wonderful Life* was broadcast on [Lionheart Radio][1],

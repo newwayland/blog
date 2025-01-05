@@ -1,7 +1,7 @@
 ---
 title: "When Does 'Bad' Money Become 'Good' Bonds?"
 date: 2024-12-08T11:16:43Z
-tags: [articles]
+tags: [article]
 summary: "Why is printing money reckless, but issuing bonds prudent? Both rely on government-created money, yet bonds are respected while monetary financing is demonised. Is it logic—or just tradition—driving this narrative?"
 
 ---
