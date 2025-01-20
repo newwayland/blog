@@ -35,9 +35,9 @@ economic burden on the state occurred when the Monetary Policy Committee
 (MPC) hiked interest rates—that being the point of raising rates.
 
 Lowering interest rates and buying gilts (Quantitative Easing) removes
-free money interest payments from the economy,  allegedly to encourage
+free-money interest payments from the economy,  allegedly to encourage
 spending. Raising interest rates and selling gilts (Quantitative
-Tightening) does the reverse, injecting free money interest payments
+Tightening) does the reverse, injecting free-money interest payments
 back in, allegedly to promote saving. The Debt Management Office (DMO)
 has been selling gilts for decades based on the absurd belief that people
 won't save unless you bribe them with interest payments.
