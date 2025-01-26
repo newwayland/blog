@@ -75,7 +75,7 @@ flowchart LR
     classDef liability fill:#FFE0B2,stroke:#FB8C00,stroke-width:2px;
 ```
 
-The deposit remains within the banking system, but its ownership changes.
+The deposit remains within the bank, but its ownership changes. Importantly that is all a bank liability can ever do - change ownership.
 
 ---
 
