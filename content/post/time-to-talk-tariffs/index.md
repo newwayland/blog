@@ -66,15 +66,23 @@ Trump's thinking isn't particularly sophisticated—he sees the US
 buying more from Canada than Canada buys from the US and views that as
 a loss. However, there's more to it than just trade deficits.
 
-The US Congress is constrained by 'Pay-For' and debt ceiling rules that
-limit deficit spending. Ideally, it should scrap these rules, but while
-they exist, Trump needs ways to free up space for tax cuts or spending
-on domestic priorities. Under the current system, foreign trade surpluses
-with the US end up in US Treasuries. By squeezing that surplus down, Trump
-reduces the amount flowing into Treasuries, effectively creating more
-fiscal space for domestic policies. It's an indirect way to reallocate
-financial resources away from foreign creditors and towards American
-economic priorities.
+The US Congress is bound by 'Pay-For' and debt ceiling rules constraining
+deficit spending. In an ideal world, Trump would have these restrictions
+scrapped, but as long as they remain, he is looking for ways to carve out
+space for tax cuts or domestic spending. Under the current system, some
+of the foreign trade surplus with the US translates into non-resident
+purchases of US Treasuries. By squeezing that surplus down, he reduces
+the amount flowing into Treasuries from non-residents while increasing
+purchases by US residents—assuming the overall federal deficit stays
+the same—effectively reducing fiscal space for domestic policies,
+not expanding it.
+
+While it's an indirect way to reallocate financial resources away from
+foreign creditors, it likely dampens total savings desires. Likely,
+it adds to demand pressures, a shift that could affect inflation and
+interest rates. Yet, this angle is rarely discussed. Instead, the focus
+remains on whether tariffs 'work' in a narrow trade-balancing sense
+rather than on their deeper fiscal and monetary consequences.
 
 ### 4. The Distributional Effects of Trump's Tariffs
 
