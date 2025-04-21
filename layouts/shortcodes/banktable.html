@@ -1,0 +1,57 @@
+{{ $headers := split (.Get "headers") "|" }}
+{{ $colours := split (.Get "colours") "|" }}
+{{ $rows := split (.Get "rows") ";" }}
+
+<style>
+  .bank-table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 0.9em;
+  }
+  .bank-table th, .bank-table td {
+    border: 1px solid black;
+    padding: 0.3em 0.8em;
+    white-space: nowrap;
+    font-size: inherit;
+  }
+  .bank-table .label {
+    font-weight: bold;
+  }
+
+  /* Ensure all columns match the widest one */
+  .bank-table td, .bank-table th {
+    width: 1%;
+  }
+</style>
+
+<div style="overflow-x: auto;">
+  <table class="bank-table">
+    <thead>
+      <tr>
+        {{ range $i, $header := $headers }}
+          <th colspan="2" style="background-color: {{ index $colours $i }};">
+            <span class="label">{{ $header }}</span>
+          </th>
+        {{ end }}
+      </tr>
+      <tr>
+        {{ range $colours }}
+          <th style="background-color: {{ . }};">Debits</th>
+          <th style="background-color: {{ . }};">Credits</th>
+        {{ end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $rows }}
+        <tr>
+          {{ $cols := split . "|" }}
+          {{ range $cols }}
+            <td>{{ . }}</td>
+          {{ end }}
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
