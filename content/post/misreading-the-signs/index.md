@@ -33,8 +33,8 @@ financial surplus – their net savings in pounds sterling.
 Therefore, the £151.9 billion the government borrowed over the last year
 isn't just disappearing into a void; it represents £151.9 billion that
 the non-government sector (UK households, UK firms, and overseas entities
-combined) chose to save in the form of sterling financial assets (like
-government bonds or bank deposits) rather than spend. Saving *requires*
+combined) [chose to save][2] in the form of sterling financial assets (like
+government bonds or bank deposits) [rather than spend][3]. Saving *requires*
 borrowing somewhere else in the system.
 
 ### Reframing The Arguments
@@ -96,3 +96,5 @@ a flawed understanding of national accounts.
 {{<joindiscord>}}
 
 [1]: https://www.telegraph.co.uk/news/2025/04/23/the-uk-is-heading-for-a-full-blown-financial-crash/
+[2]: {{< relref "structural-deficits-are-deflationary" >}}
+[3]: {{< relref "why-tax-matches-spending" >}}
