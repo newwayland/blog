@@ -2,7 +2,7 @@
 title: "Misreading the Signs: Why High UK Borrowing Doesn't Mean Financial Crash"
 summary: "Debunking the crash narrative: Why fears over UK borrowing levels misunderstand the fundamentals"
 date: 2025-04-24T08:01:40+01:00
-tags: [article, uk, deficit, ]
+tags: [article, uk, deficit]
 
 ---
 [Matthew Lynn's recent article][1] ("The UK is heading for a full-blown
