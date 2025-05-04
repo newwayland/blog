@@ -64,8 +64,4 @@ business sector at the cost of higher poverty during the bootstrap phase.
 
 {{<figure src="jg-from-zero-22-1-44-22.png" alt="JG with punitive charges">}}
 
-
-
-[1]: http://jg.model.new-wayland.com/
-[2]: http://baseline-economy.model.new-wayland.com/
-[3]: http://price-shopping.model.new-wayland.com/
+{{<joindiscord>}}

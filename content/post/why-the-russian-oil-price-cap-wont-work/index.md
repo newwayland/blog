@@ -142,7 +142,7 @@ Or is our time living high on the hog coming to an end?
 [1]: https://home.treasury.gov/news/press-releases/jy1138
 [2]: https://www.standard.co.uk/news/world/uk-eu-g7-russia-oil-price-cap-putin-ukraine-war-b1044575.html
 [3]: http://home.hiwaay.net/~becraft/RUMLTAXES.html
-[4]: https://new-wayland.com/blog/how-russian-gas-is-paid-for/
+[4]: {{< relref "how-russian-gas-is-paid-for" >}}
 [5]: https://en.wikipedia.org/wiki/How_to_Pay_for_the_War
 [6]: https://gimms.org.uk/2021/02/21/an-accounting-model-of-the-uk-exchequer/
 [^1]: You can make the balancing item show up by splitting the balance sheet into two departments: one containing all financial items actually denominated in the reporting currency, and one containing everything else.

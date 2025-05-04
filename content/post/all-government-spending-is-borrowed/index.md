@@ -61,8 +61,8 @@ Cui Bono?
 
 {{<joindiscord>}}
 
-[1]: https://new-wayland.com/blog/how-uk-government-payments-are-made/
-[2]: https://new-wayland.com/blog/uk-government-spending-gory-details/
+[1]: {{< relref "how-uk-government-payments-are-made" >}}
+[2]: {{< relref "uk-government-spending-gory-details" >}}
 [3]: https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf
 [4]: https://www.bbc.co.uk/news/uk-63114279
 [5]: https://twitter.com/wbmosler/status/1251216411034255366

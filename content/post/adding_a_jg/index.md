@@ -40,5 +40,5 @@ I have a truly marvelous demonstration of this update which this blog
 post is too long to contain.
 
 [1]: https://github.com/newwayland/baseline-economy/blob/jg/notes/jg-rules.md
-[2]: https://new-wayland.com/blog/how-the-jg-controls-inflation/
-[3]: https://new-wayland.com/blog/revealed-the-simple-change-that-breaks-mainstream-macro/
+[2]: {{< relref "how-the-jg-controls-inflation" >}}
+[3]: {{< relref "revealed-the-simple-change-that-breaks-mainstream-macro" >}}
