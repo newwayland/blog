@@ -33,7 +33,7 @@ pay in Russian roubles.
 When these energy giants receive foreign currency (FX) from their exports,
 that FX does not directly inflate the Russian government's capacity to
 spend within its economy. Instead, these companies typically convert
-their FX earnings into roubles – often through the Central Bank of
+their FX earnings into roubles – often through [tied corporate banks like Gazprombank][2], the Central Bank of
 Russia or the National Wealth Fund. These institutions then absorb the
 foreign currency, issuing the necessary roubles back to the companies,
 which are then used for domestic obligations, including their tax bills.
@@ -123,3 +123,4 @@ just moral clarity but profound economic literacy.
 {{<joindiscord>}}
 
 [1]: https://www.bbc.co.uk/news/articles/cdxk454kxz8o
+[2]: {{<relref "how-russian-gas-is-paid-for">}}
