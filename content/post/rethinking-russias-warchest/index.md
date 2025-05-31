@@ -25,7 +25,7 @@ oversimplifies the fundamental realities of sovereign currency.
 
 ## The Rouble Reality: Russia's Domestic Spending Power
 
-A fundamental truth often overlooked in much mainstream analysis,
+An elementary truth often overlooked in much mainstream analysis,
 including this BBC piece, is that Russian oil and gas companies do not
 pay their taxes to the Russian government in US dollars or euros. They
 pay in Russian roubles.
