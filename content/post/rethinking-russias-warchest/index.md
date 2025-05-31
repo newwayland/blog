@@ -43,7 +43,7 @@ need to earn foreign currency to spend in its own currency. The
 primary constraint on domestic war spending isn't a shortage of FX
 reserves; it's the availability of real resources: the labour, the
 production capacity, the raw materials, and the technology. If Russia
-can produce something domestically, it can, in rouble terms, afford it.
+can produce something domestically, [it can, in rouble terms, afford it.][3]
 
 ## If Oil Sales Dry Up, Does the War Machine Stop? Not Necessarily.
 
@@ -124,3 +124,4 @@ just moral clarity but profound economic literacy.
 
 [1]: https://www.bbc.co.uk/news/articles/cdxk454kxz8o
 [2]: {{<relref "how-russian-gas-is-paid-for">}}
+[3]: https://archive.org/details/in.ernet.dli.2015.499597/page/n3/mode/2up
