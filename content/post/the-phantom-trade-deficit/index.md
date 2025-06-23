@@ -1,7 +1,7 @@
 ---
 title: "The Phantom Trade Deficit"
 date: 2025-06-23T12:29:06+01:00
-summary: "We abandonied the gold standard. So why do we still treate trade as though we haven't?"
+summary: "We abandoned the gold standard. So why do we still treate trade as though we haven't?"
 
 ---
 
