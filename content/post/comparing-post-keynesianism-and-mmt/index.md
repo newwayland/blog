@@ -153,7 +153,7 @@ Potts, Nick. 2020. ‘Associate Professor Nick Potts’. Chap. 30 in Can Heterod
 
 Prates, Daniela. 2020. ‘Beyond Modern Money Theory: A Post-Keynesian Approach to the Currency Hierarchy, Monetary Sovereignty, and Policy Space’. Review of Keynesian Economics 8 (4): 494–511. [https://doi.org/10.4337/roke.2020.04.03](https://doi.org/10.4337/roke.2020.04.03).
 
-Sawyer, Malcolm. 2003. ‘Employer of Last Resort: Could It Deliver Full Employment and Price Stability?’ Journal of Economic Issues 37 (4): 881–907.
+Sawyer, Malcolm. 2003. ‘Employer of Last Resort: Could It Deliver Full Employment and Price Stability?’ Journal of Economic Issues 37 (4): 881–907. [https://doi.org/10.1080/00213624.2003.11506635](https://doi.org/10.1080/00213624.2003.11506635).
 
 Sawyer, Malcolm. 2005. ‘Employer of Last Resort: A Response to My Critics’. Journal of Economic Issues 39 (1): 256–64. [https://doi.org/10.1080/00213624.2005.11506790](https://doi.org/10.1080/00213624.2005.11506790).
 
