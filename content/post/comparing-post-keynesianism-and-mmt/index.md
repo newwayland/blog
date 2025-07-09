@@ -10,7 +10,7 @@ tags: [ "MMT", "Post-Keynesian Economics", "Ontology", "Economic Sociology", "Jo
 
 [Phil Armstrong][2] and [Neil Wilson][3]
 
-[In our new paper][1] we utilise Marc Lavoie’s 2024 critique of
+[In this paper][1] we utilise Marc Lavoie’s 2024 critique of
 Modern Monetary Theory (MMT) to contrast the ontological foundations,
 methodologies, and policy implications of MMT with those of Post-Keynesian
 (PK) economics. We argue that disagreements between these schools reflect
