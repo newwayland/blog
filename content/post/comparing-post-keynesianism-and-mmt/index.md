@@ -29,6 +29,160 @@ its contentious reception within economics.
 We conclude that constructive MMT-PK dialogue requires acknowledging
 these ontological roots to reconcile divergent policy prescriptions.
 
+### References 
+
+Aboobaker, Adam, and Esra Nur Ugurlu. 2023. ‘Weaknesses of MMT as a Guide to Development Policy’. Cambridge Journal of Economics 47 (3): 555–74. [https://doi.org/10.1093/cje/bead009](https://doi.org/10.1093/cje/bead009).
+
+Armstrong, Phil. 2018. ‘Modern Monetary Theory and a Heterodox Alternative Paradigm’. The Gower Initiative for Modern Money Studies, December 26. [https://gimms.org.uk/wp-content/uploads/2018/12/Modern-Monetary-Theory-and-a-Heterodox-Alternative-Paradigm-Phil-Armstrong.pdf](https://gimms.org.uk/wp-content/uploads/2018/12/Modern-Monetary-Theory-and-a-Heterodox-Alternative-Paradigm-Phil-Armstrong.pdf).
+
+Armstrong, Phil. 2020a. Can Heterodox Economics Make a Difference?: Conversations With Key Thinkers. Edward Elgar Publishing. [https://doi.org/10.4337/9781800370890](https://doi.org/10.4337/9781800370890).
+
+Armstrong, Phil. 2020b. ‘Modern Monetary Theory and Its Relationship to Heterodox Economics’. Solent University. [https://pure.solent.ac.uk/en/studentTheses/modern-monetary-theory-and-its-relationship-to-heterodox-economic](https://pure.solent.ac.uk/en/studentTheses/modern-monetary-theory-and-its-relationship-to-heterodox-economic).
+
+Armstrong, Phil. 2023. ‘“Tombstone for a Tombstone”: Dealing with the “Bad Science” behind Mainstream Criticism of MMT’. The Gower Initiative for Modern Money Studies, January 28. [https://gimms.org.uk/2023/01/28/tombstone-for-a-tombstone/](https://gimms.org.uk/2023/01/28/tombstone-for-a-tombstone/).
+
+Armstrong, Phil. 2024. ‘The Contribution of Modern Monetary Theory to Heterodox Economics’. Chap. 4 in Post Keynesian Economics, edited by Therese Jefferson and John E. King. Edward Elgar Publishing. [https://doi.org/10.4337/9781803922232.00008](https://doi.org/10.4337/9781803922232.00008).
+
+Armstrong, Phil. Forthcoming. Warren Mosler: Under the Bonnet. Lola Books.
+
+Bank of Canada. 2022. An Overview of Lynx, Canada’s High-Value Payment System. Bank of Canada. [https://www.bankofcanada.ca/wp-content/uploads/2022/05/Overview-Lynx-Canadas-High-Value-Payment-System.pdf](https://www.bankofcanada.ca/wp-content/uploads/2022/05/Overview-Lynx-Canadas-High-Value-Payment-System.pdf).
+
+Bank of Canada. 2025. ‘The Bank of Canada’s Settlement Account Policies for Payments Canada Payment Systems’. [https://www.bankofcanada.ca/core-functions/financial-system/bank-canadas-settlement-account-policies-for-payments-canada-payment-systems/](https://www.bankofcanada.ca/core-functions/financial-system/bank-canadas-settlement-account-policies-for-payments-canada-payment-systems/).
+
+Berkeley, Andrew, Josh Ryan-Collins, Richard Tye, Asker Voldsgaard, and Neil Wilson. 2025. ‘The Self-Financing State: An Institutional Analysis of Government Expenditure, Revenue Collection and Debt Issuance Operations in the United Kingdom’. Journal of Economic Issues (JEI) 59 (3). [https://www.tandfonline.com/loi/mjei20](https://www.tandfonline.com/loi/mjei20).
+
+Berkeley, Andrew, Richard Tye, and Neil Wilson. 2023. ‘How Does the Government Spend? A Functional Model of the UK Exchequer’. Chap. 1 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00009](https://doi.org/10.4337/9781802208092.00009).
+
+Bilgrami, Akeel. 2015. ‘Truth, Balance, and Freedom’. In Who’s Afraid of Academic Freedom?, edited by Akeel Bilgrami and Jonathan Cole. Columbia University Press. [https://doi.org/10.7312/columbia/9780231168809.003.0002](https://doi.org/10.7312/columbia/9780231168809.003.0002).
+
+Buiter, Willem H. 2009. ‘The Unfortunate Uselessness of Most “State of the Art” Academic Monetary Economics’. SSRN Scholarly Paper No. 2492949. Social Science Research Network, March 6. [https://papers.ssrn.com/abstract=2492949](https://papers.ssrn.com/abstract=2492949).
+
+Carnevali, Emilio, and Matteo Deleidi. 2023. ‘The Trade-off between Inflation and Unemployment in an “MMT World”: An Open-Economy Perspective’. European Journal of Economics and Economic Policies Intervention 20 (1): 90–124. [https://doi.org/10.4337/ejeep.2022.0080](https://doi.org/10.4337/ejeep.2022.0080).
+
+Cîrstea, Andreea. 2014. ‘The Need for Public Sector Consolidated Financial Statements’. Procedia Economics and Finance 15: 1289–96. [https://doi.org/10.1016/S2212-5671(14)00590-5](https://doi.org/10.1016/S2212-5671(14)00590-5).
+
+Davidson, Paul. 1972. ‘Money and the Real World’. The Economic Journal 82 (325): 101. [https://doi.org/10.2307/2230209](https://doi.org/10.2307/2230209).
+
+Davidson, Paul. 2003. ‘Are Fixed Exchange Rates the Problem and Flexible Exchange Rates the Cure?’ Eastern Economic Journal 29 (February).
+
+Dow, Shiela. 2018. ‘Pluralist Economics: Is It Scientific?’ Chap. 1 in Advancing Pluralism in Teaching Economics: International Perspectives on a Textbook Science, 1st ed., edited by Samuel Decker, Wolfram Elsner, and Svenja Flechtner. Routledge Advances in Heterodox Economics. Routledge.
+
+Drumetz, Françoise, and Christian Pfister. 2021. ‘Modern Monetary Theory: A Wrong Compass for Decision-Making’. Intereconomics 56 (6): 355–61. [https://doi.org/10.1007/s10272-021-1014-5](https://doi.org/10.1007/s10272-021-1014-5).
+
+Ehnts, Dirk. 2022. ‘Modern Monetary Theory: The Right Compass for Decision-Making’. Intereconomics 57 (2): 128–34. [https://doi.org/10.1007/s10272-022-1041-x](https://doi.org/10.1007/s10272-022-1041-x).
+
+Ehnts, Dirk. 2024. ‘Fiscal Policy in the Eurozone’. Chap. 28 in The Elgar Companion to Modern Money Theory, edited by Yeva Nersisyan and L. R. Wray. Edward Elgar Publishing. [https://doi.org/10.4337/9781788972246.00039](https://doi.org/10.4337/9781788972246.00039).
+
+Ehnts, Dirk, and L. Randall Wray. 2024. ‘Revisiting MMT, Sovereign Currencies and the Eurozone: A Reply to Marc Lavoie’. Review of Political Economy, February 9, 1–15. [https://doi.org/10.1080/09538259.2023.2298448](https://doi.org/10.1080/09538259.2023.2298448).
+
+Forstater, Mathew, and Warren Mosler. 2005. ‘The Natural Rate of Interest Is Zero’. Journal of Economic Issues 39 (2): 535–42. [https://doi.org/10.1080/00213624.2005.11506832](https://doi.org/10.1080/00213624.2005.11506832).
+
+Godley, Wynne, and Marc Lavoie. 2012. Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth. 2nd ed. Palgrave Macmillan.
+
+Harvey, John T. 2009. Currencies, Capital Flows and Crises: A Post Keynesian Analysis of Exchange Rate Determination. Routledge.
+
+Harvey, John T. 2025. ‘Post Keynesian Theories of Exchange Rate Determination: A Critical Survey’. Journal of Post Keynesian Economics, May 13, 1–33. [https://doi.org/10.1080/01603477.2025.2503153](https://doi.org/10.1080/01603477.2025.2503153).
+
+HM Treasury. 2018. ‘Financial Relationship between HM Treasury and the Bank of England: Memorandum of Understanding’. June. [https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/financial-relationship-between-hmt-and-the-boe-memorandum-of-understanding.pdf](https://www.bankofengland.co.uk/-/media/boe/files/memoranda-of-understanding/financial-relationship-between-hmt-and-the-boe-memorandum-of-understanding.pdf).
+
+Invernizzi, Ivan. 2021. ‘MMT – Theory of Exchange Rate’. MMT France, June 20. [https://mmt-france.org/2021/06/20/mmt-theory-of-exchange-rate/](https://mmt-france.org/2021/06/20/mmt-theory-of-exchange-rate/).
+
+Jefferson, Therese, and John E. King, eds. 2024. Post Keynesian Economics: Key Debates and Contending Perspectives. Edward Elgar Publishing. [https://doi.org/10.4337/9781803922232](https://doi.org/10.4337/9781803922232).
+
+Kaldor, Nicholas. 1970. ‘The New Monetarism’. Lloyds Bank Review, July, 1–18.
+
+Keen, Steve. 2018. ‘HHF0048 - Evidence on Household Finances: Income, Saving and Debt’. [https://committees.parliament.uk/writtenevidence/88379/html/](https://committees.parliament.uk/writtenevidence/88379/html/).
+
+Keen, Steve. Forthcoming. ‘Money and Macroeconomics from First Principles, for Elon Musk and Other Engineers’. Preprint. [https://profstevekeen.substack.com/api/v1/file/f9e5ed4a-3464-4ec9-a527-fc54102ef502.pdf](https://profstevekeen.substack.com/api/v1/file/f9e5ed4a-3464-4ec9-a527-fc54102ef502.pdf).
+
+King, John E. 2001. ‘Labor and Unemployment’. Chap. 7 in A New Guide to Post-Keynesian Economics, edited by Richard P. F. Holt and Steven Pressman. Routledge. [https://doi.org/10.4324/9780203466681](https://doi.org/10.4324/9780203466681).
+
+Lavoie, Marc. 2013. ‘The Monetary and Fiscal Nexus of Neo-Chartalism: A Friendly Critique’. Journal of Economic Issues 47 (1): 1–32. [https://doi.org/10.2753/JEI0021-3624470101](https://doi.org/10.2753/JEI0021-3624470101).
+
+Lavoie, Marc. 2024. ‘Modern Monetary Theory: The Good, the Bad and the Ugly’. Chap. 5 in Post Keynesian Economics, edited by Therese Jefferson and John E. King. Edward Elgar Publishing. [https://doi.org/10.4337/9781803922232.00009](https://doi.org/10.4337/9781803922232.00009).
+
+Lawson, Tony. 2020. ‘Professor Tony Lawson’. Chap. 27 in Can Heterodox Economics Make a Difference?: Conversations With Key Thinkers, by Phil Armstrong. Edward Elgar Publishing. [https://doi.org/10.4337/9781800370890](https://doi.org/10.4337/9781800370890).
+
+Lee, Frederic. 2009. A History of Heterodox Economics: Challenging the Mainstream in the Twentieth Century. 1st ed. Routledge. [https://doi.org/10.4324/9780203883051](https://doi.org/10.4324/9780203883051).
+
+Lerner, Abba P. 1943. ‘Functional Finance and the Federal Debt’. Social Research 10 (1): 38–51. JSTOR.
+
+Lerner, Abba P. 1944. The Economics of Control: Principles of Welfare Economics. Macmillian.
+
+Mann, Catherine L. 2020. ‘Some Observations on MMT: What’s Right, Not Right, and What’s Too Simplistic’. Business Economics 55 (1): 21–22. [https://doi.org/10.1057/s11369-019-00153-4](https://doi.org/10.1057/s11369-019-00153-4).
+
+Mazier, Jacques, and Sebastian Valdecantos. 2019. ‘From the European Monetary Union to a Euro–Bancor: A Stock–Flow Consistent Assessment’. European Journal of Economics and Economic Policies: Intervention 16 (1): 8–26. [https://doi.org/10.4337/ejeep.2019.0043](https://doi.org/10.4337/ejeep.2019.0043).
+
+Mitchell, William F. 1998. ‘The Buffer Stock Employment Model and the NAIRU: The Path to Full Employment’. Journal of Economic Issues 32 (2): 547–55. [https://doi.org/10.1080/00213624.1998.11506063](https://doi.org/10.1080/00213624.1998.11506063).
+
+Mitchell, William F., and Warren Mosler. 2002a. ‘Fiscal Policy and the Job Guarantee’. Australian Journal of Labour Economics (AJLE) 5 (2): 243–59.
+
+Mitchell, William F., and Warren Mosler. 2002b. ‘Public Debt Management and Australia’s Macroeconomic Priorities’. Preprint, November. [https://www.fullemployment.net/publications/wp/2002/02-13.pdf](https://www.fullemployment.net/publications/wp/2002/02-13.pdf).
+
+Mitchell, William F., L. Randall Wray, and Martin Watts. 2019. Macroeconomics. Macmillan Education UK.
+
+Moore, Basil J. 1979. ‘The Endogenous Money Stock’. Journal of Post Keynesian Economics 2 (1): 49–70.
+
+Mosler, Warren. 2010. The 7 Deadly Innocent Frauds of Economic Policy. Vallance Co Inc.
+
+Mosler, Warren. 2012. ‘Proposals for the Banking System, the FDIC, the Fed, and the Treasury’. Chap. 4 in Monetary Policy and Central Banking, edited by Louis-Philippe Rochon and Salewa ‘Yinka Olawoye. Edward Elgar Publishing. [https://doi.org/10.4337/9781849807364.00012](https://doi.org/10.4337/9781849807364.00012).
+
+Mosler, Warren. 2013. Soft Currency Economics II. CreateSpace Independent Publishing Platform.
+
+Mosler, Warren. 2021. MMT White Paper. [https://moslereconomics.com/mmt-white-paper/](https://moslereconomics.com/mmt-white-paper/).
+
+Mosler, Warren. 2023. ‘A Framework for the Analysis of the Price Level and Inflation’. Chap. 4 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00012](https://doi.org/10.4337/9781802208092.00012).
+
+Mosler, Warren, and Mathew Forstater. 2018. A General Analytical Framework for the Analysis of Currencies and Other Commodities. March 27. [https://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf](https://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf).
+
+Palley, Thomas I. 2014. Modern Money Theory (MMT): The Emperor Still Has No Clothes. February. [https://www.thomaspalley.com/docs/articles/macro_theory/mmt_response_to_wray.pdf](https://www.thomaspalley.com/docs/articles/macro_theory/mmt_response_to_wray.pdf).
+
+Palley, Thomas I. 2015. ‘The Critics of Modern Money Theory (MMT) Are Right’. Review of Political Economy 27 (1): 45–61. [https://doi.org/10.1080/09538259.2014.957473](https://doi.org/10.1080/09538259.2014.957473).
+
+Palley, Thomas I. 2018. Job Guarantee Programs: Careful What You Wish For. September 14. [https://thomaspalley.com/?p=1213](https://thomaspalley.com/?p=1213).
+
+Palley, Thomas I. 2020a. ‘Dr Thomas Palley’. Chap. 13 in Can Heterodox Economics Make a Difference?: Conversations With Key Thinkers, by Phil Armstrong. Edward Elgar Publishing. [https://doi.org/10.4337/9781800370890](https://doi.org/10.4337/9781800370890).
+
+Palley, Thomas I. 2020b. ‘What’s Wrong with Modern Money Theory: Macro and Political Economic Restraints on Deficit-Financed Fiscal Policy’. Review of Keynesian Economics 8 (October): 472–93. [https://doi.org/10.4337/roke.2020.04.02](https://doi.org/10.4337/roke.2020.04.02).
+
+Palley, Thomas I. 2022. ‘The Macroeconomics of Government Spending: Distinguishing Between Government Purchases, Government Production, and Job Guarantee Programs’. Review of Political Economy 34 (4): 692–708. [https://doi.org/10.1080/09538259.2022.2040907](https://doi.org/10.1080/09538259.2022.2040907).
+
+Portes, Jonathan. 2019. ‘Nonsense Economics: The Rise of Modern Monetary Theory’. Prospect Magazine, January 30. [https://www.prospectmagazine.co.uk/ideas/economics/42224/nonsense-economics-the-rise-of-modern-monetary-theory](https://www.prospectmagazine.co.uk/ideas/economics/42224/nonsense-economics-the-rise-of-modern-monetary-theory).
+
+Potts, Nick. 2020. ‘Associate Professor Nick Potts’. Chap. 30 in Can Heterodox Economics Make a Difference?: Conversations With Key Thinkers, by Phil Armstrong. Edward Elgar Publishing. [https://doi.org/10.4337/9781800370890](https://doi.org/10.4337/9781800370890).
+
+Prates, Daniela. 2020. ‘Beyond Modern Money Theory: A Post-Keynesian Approach to the Currency Hierarchy, Monetary Sovereignty, and Policy Space’. Review of Keynesian Economics 8 (4): 494–511. [https://doi.org/10.4337/roke.2020.04.03](https://doi.org/10.4337/roke.2020.04.03).
+
+Sawyer, Malcolm. 2003. ‘Employer of Last Resort: Could It Deliver Full Employment and Price Stability?’ Journal of Economic Issues 37 (4): 881–907.
+
+Sawyer, Malcolm. 2005. ‘Employer of Last Resort: A Response to My Critics’. Journal of Economic Issues 39 (1): 256–64. [https://doi.org/10.1080/00213624.2005.11506790](https://doi.org/10.1080/00213624.2005.11506790).
+
+Stigler, George J. 1958. ‘Ricardo and the 93% Labor Theory of Value’. The American Economic Review 48 (3): 357–67.
+
+Stockhammer, Engelbert. 2011. ‘Wage Norms, Capital Accumulation, and Unemployment: A Post-Keynesian View’. Oxford Review of Economic Policy 27 (2): 295–311. [https://doi.org/10.1093/oxrep/grr013](https://doi.org/10.1093/oxrep/grr013).
+
+Stockhammer, Engelbert. 2020. ‘Professor Englebert Stockhammer’. Chap. 18 in Can Heterodox Economics Make a Difference?: Conversations With Key Thinkers, by Phil Armstrong. Edward Elgar Publishing. [https://doi.org/10.4337/9781800370890](https://doi.org/10.4337/9781800370890).
+
+Tcherneva, Pavlina R. 2018. ‘The Job Guarantee: Design, Jobs, and Implementation’. SSRN Electronic Journal, ahead of print. [https://doi.org/10.2139/ssrn.3155289](https://doi.org/10.2139/ssrn.3155289).
+
+Tcherneva, Pavlina R. 2020. The Case for a Job Guarantee. The Case for Series. Polity Press.
+
+Tye, Richard. 2023. ‘Credit and the Exchequer since the Restoration’. Chap. 2 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00010](https://doi.org/10.4337/9781802208092.00010).
+
+Vergnhanini, Rodrigo, and Bruno De Conti. 2018. ‘Modern Monetary Theory: A Criticism from the Periphery’. Brazilian Keynesian Review 3 (2): 16. [https://doi.org/10.33834/bkr.v3i2.115](https://doi.org/10.33834/bkr.v3i2.115).
+
+Watts, Martin, and Phil Armstrong. Forthcoming. ‘A Macroeconomic Policy Framework for Developing Countries: An MMT Perspective’. Preprint.
+
+Wilson, Neil. 2023. ‘Tax as a Hygiene Factor: Setting UK Taxation Policy Using Modern Monetary Theory’. Chap. 9 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00017](https://doi.org/10.4337/9781802208092.00017).
+
+Wray, L. Randall. 1998. Understanding Modern Money: The Key to Full Employment and Price Stability. Edward Elgar Publishing.
+
+Wray, L. Randall. 2007. ‘Minsky’s Approach to Employment Policy and Poverty: Employer of Last Resort and the War on Poverty’. SSRN Scholarly Paper No. 1014163. Social Science Research Network, September 12. [https://doi.org/10.2139/ssrn.1014163](https://doi.org/10.2139/ssrn.1014163).
+
+Wray, L. Randall. 2015. Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems. 2nd ed. Palgrave Macmillan.
+
+Wray, L. Randall. 2025. Understanding Modern Money Theory: Money and Credit in Capitalist Economies. Edward Elgar Publishing. [https://doi.org/10.4337/9781800375154](https://doi.org/10.4337/9781800375154).
+
 {{<joindiscord>}}
 
 
