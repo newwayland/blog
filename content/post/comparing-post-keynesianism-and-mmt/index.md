@@ -63,9 +63,9 @@ Cîrstea, Andreea. 2014. ‘The Need for Public Sector Consolidated Financial St
 
 Davidson, Paul. 1972. ‘Money and the Real World’. The Economic Journal 82 (325): 101. [https://doi.org/10.2307/2230209](https://doi.org/10.2307/2230209).
 
-Davidson, Paul. 2003. ‘Are Fixed Exchange Rates the Problem and Flexible Exchange Rates the Cure?’ Eastern Economic Journal 29 (February).
+Davidson, Paul. 2003. ‘Are Fixed Exchange Rates the Problem and Flexible Exchange Rates the Cure?’ Eastern Economic Journal 29 (February). [https://www.jstor.org/stable/40325413](https://www.jstor.org/stable/40325413)
 
-Dow, Shiela. 2018. ‘Pluralist Economics: Is It Scientific?’ Chap. 1 in Advancing Pluralism in Teaching Economics: International Perspectives on a Textbook Science, 1st ed., edited by Samuel Decker, Wolfram Elsner, and Svenja Flechtner. Routledge Advances in Heterodox Economics. Routledge.
+Dow, Shiela. 2018. ‘Pluralist Economics: Is It Scientific?’ Chap. 1 in [Advancing Pluralism in Teaching Economics: International Perspectives on a Textbook Science](https://amzn.to/3Tty1tK), 1st ed., edited by Samuel Decker, Wolfram Elsner, and Svenja Flechtner. Routledge Advances in Heterodox Economics. Routledge.
 
 Drumetz, Françoise, and Christian Pfister. 2021. ‘Modern Monetary Theory: A Wrong Compass for Decision-Making’. Intereconomics 56 (6): 355–61. [https://doi.org/10.1007/s10272-021-1014-5](https://doi.org/10.1007/s10272-021-1014-5).
 
@@ -77,9 +77,9 @@ Ehnts, Dirk, and L. Randall Wray. 2024. ‘Revisiting MMT, Sovereign Currencies 
 
 Forstater, Mathew, and Warren Mosler. 2005. ‘The Natural Rate of Interest Is Zero’. Journal of Economic Issues 39 (2): 535–42. [https://doi.org/10.1080/00213624.2005.11506832](https://doi.org/10.1080/00213624.2005.11506832).
 
-Godley, Wynne, and Marc Lavoie. 2012. Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth. 2nd ed. Palgrave Macmillan.
+Godley, Wynne, and Marc Lavoie. 2012. [Monetary Economics: An Integrated Approach to Credit, Money, Income, Production and Wealth](https://amzn.to/44zpD0W). 2nd ed. Palgrave Macmillan.
 
-Harvey, John T. 2009. Currencies, Capital Flows and Crises: A Post Keynesian Analysis of Exchange Rate Determination. Routledge.
+Harvey, John T. 2009. [Currencies, Capital Flows and Crises: A Post Keynesian Analysis of Exchange Rate Determination](https://amzn.to/4kozE6Z). Routledge.
 
 Harvey, John T. 2025. ‘Post Keynesian Theories of Exchange Rate Determination: A Critical Survey’. Journal of Post Keynesian Economics, May 13, 1–33. [https://doi.org/10.1080/01603477.2025.2503153](https://doi.org/10.1080/01603477.2025.2503153).
 
@@ -89,7 +89,7 @@ Invernizzi, Ivan. 2021. ‘MMT – Theory of Exchange Rate’. MMT France, June 
 
 Jefferson, Therese, and John E. King, eds. 2024. Post Keynesian Economics: Key Debates and Contending Perspectives. Edward Elgar Publishing. [https://doi.org/10.4337/9781803922232](https://doi.org/10.4337/9781803922232).
 
-Kaldor, Nicholas. 1970. ‘The New Monetarism’. Lloyds Bank Review, July, 1–18.
+Kaldor, Nicholas. 1970. ‘The New Monetarism’. Lloyds Bank Review, July, 1–18. [https://www.scribd.com/document/516900044/Kaldor](https://www.scribd.com/document/516900044/Kaldor)
 
 Keen, Steve. 2018. ‘HHF0048 - Evidence on Household Finances: Income, Saving and Debt’. [https://committees.parliament.uk/writtenevidence/88379/html/](https://committees.parliament.uk/writtenevidence/88379/html/).
 
@@ -105,9 +105,9 @@ Lawson, Tony. 2020. ‘Professor Tony Lawson’. Chap. 27 in Can Heterodox Econo
 
 Lee, Frederic. 2009. A History of Heterodox Economics: Challenging the Mainstream in the Twentieth Century. 1st ed. Routledge. [https://doi.org/10.4324/9780203883051](https://doi.org/10.4324/9780203883051).
 
-Lerner, Abba P. 1943. ‘Functional Finance and the Federal Debt’. Social Research 10 (1): 38–51. JSTOR.
+Lerner, Abba P. 1943. ‘Functional Finance and the Federal Debt’. Social Research 10 (1): 38–51. JSTOR. [https://www.jstor.org/stable/40981939](https://www.jstor.org/stable/40981939)
 
-Lerner, Abba P. 1944. The Economics of Control: Principles of Welfare Economics. Macmillian.
+Lerner, Abba P. 1944. [The Economics of Control: Principles of Welfare Economics](https://archive.org/details/economicsofcontr00lern). Macmillian.
 
 Mann, Catherine L. 2020. ‘Some Observations on MMT: What’s Right, Not Right, and What’s Too Simplistic’. Business Economics 55 (1): 21–22. [https://doi.org/10.1057/s11369-019-00153-4](https://doi.org/10.1057/s11369-019-00153-4).
 
@@ -115,19 +115,19 @@ Mazier, Jacques, and Sebastian Valdecantos. 2019. ‘From the European Monetary 
 
 Mitchell, William F. 1998. ‘The Buffer Stock Employment Model and the NAIRU: The Path to Full Employment’. Journal of Economic Issues 32 (2): 547–55. [https://doi.org/10.1080/00213624.1998.11506063](https://doi.org/10.1080/00213624.1998.11506063).
 
-Mitchell, William F., and Warren Mosler. 2002a. ‘Fiscal Policy and the Job Guarantee’. Australian Journal of Labour Economics (AJLE) 5 (2): 243–59.
+Mitchell, William F., and Warren Mosler. 2002a. ‘Fiscal Policy and the Job Guarantee’. Australian Journal of Labour Economics (AJLE) 5 (2): 243–59. [https://billmitchell.org/publications/journals/J40_2002.pdf](https://billmitchell.org/publications/journals/J40_2002.pdf)
 
 Mitchell, William F., and Warren Mosler. 2002b. ‘Public Debt Management and Australia’s Macroeconomic Priorities’. Preprint, November. [https://www.fullemployment.net/publications/wp/2002/02-13.pdf](https://www.fullemployment.net/publications/wp/2002/02-13.pdf).
 
-Mitchell, William F., L. Randall Wray, and Martin Watts. 2019. Macroeconomics. Macmillan Education UK.
+Mitchell, William F., L. Randall Wray, and Martin Watts. 2019. [Macroeconomics](https://amzn.to/408FMJv). Macmillan Education UK.
 
-Moore, Basil J. 1979. ‘The Endogenous Money Stock’. Journal of Post Keynesian Economics 2 (1): 49–70.
+Moore, Basil J. 1979. ‘The Endogenous Money Stock’. Journal of Post Keynesian Economics 2 (1): 49–70. [https://www.jstor.org/stable/4537511](https://www.jstor.org/stable/4537511)
 
-Mosler, Warren. 2010. The 7 Deadly Innocent Frauds of Economic Policy. Vallance Co Inc.
+Mosler, Warren. 2010. [The 7 Deadly Innocent Frauds of Economic Policy](https://amzn.to/44kz6u9). Vallance Co Inc.
 
 Mosler, Warren. 2012. ‘Proposals for the Banking System, the FDIC, the Fed, and the Treasury’. Chap. 4 in Monetary Policy and Central Banking, edited by Louis-Philippe Rochon and Salewa ‘Yinka Olawoye. Edward Elgar Publishing. [https://doi.org/10.4337/9781849807364.00012](https://doi.org/10.4337/9781849807364.00012).
 
-Mosler, Warren. 2013. Soft Currency Economics II. CreateSpace Independent Publishing Platform.
+Mosler, Warren. 2013. [Soft Currency Economics II](https://amzn.to/44kEPjH). CreateSpace Independent Publishing Platform.
 
 Mosler, Warren. 2021. MMT White Paper. [https://moslereconomics.com/mmt-white-paper/](https://moslereconomics.com/mmt-white-paper/).
 
@@ -157,7 +157,7 @@ Sawyer, Malcolm. 2003. ‘Employer of Last Resort: Could It Deliver Full Employm
 
 Sawyer, Malcolm. 2005. ‘Employer of Last Resort: A Response to My Critics’. Journal of Economic Issues 39 (1): 256–64. [https://doi.org/10.1080/00213624.2005.11506790](https://doi.org/10.1080/00213624.2005.11506790).
 
-Stigler, George J. 1958. ‘Ricardo and the 93% Labor Theory of Value’. The American Economic Review 48 (3): 357–67.
+Stigler, George J. 1958. ‘Ricardo and the 93% Labor Theory of Value’. The American Economic Review 48 (3): 357–67. [https://www.jstor.org/stable/1809772](https://www.jstor.org/stable/1809772)
 
 Stockhammer, Engelbert. 2011. ‘Wage Norms, Capital Accumulation, and Unemployment: A Post-Keynesian View’. Oxford Review of Economic Policy 27 (2): 295–311. [https://doi.org/10.1093/oxrep/grr013](https://doi.org/10.1093/oxrep/grr013).
 
@@ -165,7 +165,7 @@ Stockhammer, Engelbert. 2020. ‘Professor Englebert Stockhammer’. Chap. 18 in
 
 Tcherneva, Pavlina R. 2018. ‘The Job Guarantee: Design, Jobs, and Implementation’. SSRN Electronic Journal, ahead of print. [https://doi.org/10.2139/ssrn.3155289](https://doi.org/10.2139/ssrn.3155289).
 
-Tcherneva, Pavlina R. 2020. The Case for a Job Guarantee. The Case for Series. Polity Press.
+Tcherneva, Pavlina R. 2020. [The Case for a Job Guarantee](https://amzn.to/4krEr7y). The Case for Series. Polity Press.
 
 Tye, Richard. 2023. ‘Credit and the Exchequer since the Restoration’. Chap. 2 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00010](https://doi.org/10.4337/9781802208092.00010).
 
@@ -175,11 +175,11 @@ Watts, Martin, and Phil Armstrong. Forthcoming. ‘A Macroeconomic Policy Framew
 
 Wilson, Neil. 2023. ‘Tax as a Hygiene Factor: Setting UK Taxation Policy Using Modern Monetary Theory’. Chap. 9 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. [https://doi.org/10.4337/9781802208092.00017](https://doi.org/10.4337/9781802208092.00017).
 
-Wray, L. Randall. 1998. Understanding Modern Money: The Key to Full Employment and Price Stability. Edward Elgar Publishing.
+Wray, L. Randall. 1998. [Understanding Modern Money: The Key to Full Employment and Price Stability](https://amzn.to/3TrKePN). Edward Elgar Publishing.
 
 Wray, L. Randall. 2007. ‘Minsky’s Approach to Employment Policy and Poverty: Employer of Last Resort and the War on Poverty’. SSRN Scholarly Paper No. 1014163. Social Science Research Network, September 12. [https://doi.org/10.2139/ssrn.1014163](https://doi.org/10.2139/ssrn.1014163).
 
-Wray, L. Randall. 2015. Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems. 2nd ed. Palgrave Macmillan.
+Wray, L. Randall. 2015. [Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems](https://amzn.to/4lC7jf7). 2nd ed. Palgrave Macmillan.
 
 Wray, L. Randall. 2025. Understanding Modern Money Theory: Money and Credit in Capitalist Economies. Edward Elgar Publishing. [https://doi.org/10.4337/9781800375154](https://doi.org/10.4337/9781800375154).
 
