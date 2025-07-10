@@ -5,3 +5,24 @@
   </script>
 <!-- {{ end }} -->
 
+<!-- Google Scholar citation metadata -->
+{{ with .Params.citation }}
+  {{ with .title }}<meta name="citation_title" content="{{ . }}">{{ end }}
+  {{ with .author }}
+    {{ range . }}<meta name="citation_author" content="{{ . }}">{{ end }}
+  {{ end }}
+  {{ with .publication_date }}<meta name="citation_publication_date" content="{{ . }}">{{ end }}
+  {{ with .journal }}<meta name="citation_journal_title" content="{{ . }}">{{ end }}
+  {{ with .volume }}<meta name="citation_volume" content="{{ . }}">{{ end }}
+  {{ with .issue }}<meta name="citation_issue" content="{{ . }}">{{ end }}
+  {{ with .firstpage }}<meta name="citation_firstpage" content="{{ . }}">{{ end }}
+  {{ with .lastpage }}<meta name="citation_lastpage" content="{{ . }}">{{ end }}
+  {{ with .publisher }}<meta name="citation_publisher" content="{{ . }}">{{ end }}
+  {{ with .doi }}<meta name="citation_doi" content="{{ . }}">{{ end }}
+  {{ with .pdf_url }}<meta name="citation_pdf_url" content="{{ . }}">{{ end }}
+  {{ with .url }}<meta name="citation_public_url" content="{{ . }}">{{ end }}
+  {{ with .abstract_url }}<meta name="citation_abstract_html_url" content="{{ . }}">{{ end }}
+{{ end }}
+{{ with .Params.tags }}
+  {{ range . }}<meta name="citation_keywords" content="{{ . }}">{{ end }}
+{{ end }}
