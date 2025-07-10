@@ -12,8 +12,8 @@ params:
     volume: "2025"
     publisher: "Zenodo"
     doi: "10.5281/zenodo.15789841"
-    abstract_url: "https://zenodo.org/records/15789841"
-    pdf_url: "https://zenodo.org/records/15789841/files/Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf"
+    abstract_url: "https://zenodo.org/records/15789842"
+    pdf_url: "https://zenodo.org/records/15789842/files/Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf?download=1"
     
 
 ---
