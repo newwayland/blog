@@ -22,3 +22,4 @@ For the benefit of those in the room, and those who couldn't make it,
 
 [1]: https://docs.google.com/presentation/d/1OjC9OoRsERI3j98sWgV7eIA5u_DWG9mqtzqIDZbsBUQ/edit?usp=sharing
 [2]: https://gimms.org.uk
+[3]: book-launch.pdf
