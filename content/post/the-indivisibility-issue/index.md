@@ -9,7 +9,7 @@ tags: [mmt, models, mosler]
 
 A useful, and irritating, thing about computer systems is that you have to tell them precisely what to do or they won't do it. No amount of cajoling, persuasion techniques, nudge theory or other New Wave beliefs will fix a Segmentation Fault. You have to be more precise in your instructions to the machine.
 
-While being excessively precise about limits in the New Wayland [baseline model](http://baseline.model.new-wayland.com), I came across something interesting I hadn't really appreciated before. 
+While being excessively precise about limits in the New Wayland baseline model, I came across something interesting I hadn't really appreciated before.
 
 Everything on the production side has a minimum unit quantity. Half a car isn't much use. Transactions clear in whole values of the smallest unit of currency. And it takes an amount of time to create something. All of these are necessarily above zero and even if you subdivide *ad absurdum* you hit a physical limit (one electron for one atom manipulated in one plank time).
 

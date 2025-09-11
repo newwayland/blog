@@ -13,7 +13,7 @@ This is a model that strips away any part of reality that get in the way of demo
 
 And the results[^1] appear to bear that out.
 
-[(Baseline Model)](http://baseline.model.new-wayland.com)
+(Baseline Model)
 {{<figure src="ace-output-baseline.png" alt="Baseline Output">}}
 
 However when you look into the design of the model (Section 2.3, pp108) you notice something peculiar:
@@ -40,7 +40,7 @@ so rather than randomly visiting a supplier to see if they can fill our goods de
 
 Let's see what the results are
 
-[(Price Shopping Model)](http://price-shopping.model.new-wayland.com)
+(Price Shopping Model)
 {{<figure src="ace-output-price-shopping.png" alt="Price Sensitive Output">}}
 
 Oh dear.
