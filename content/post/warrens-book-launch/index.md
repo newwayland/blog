@@ -16,10 +16,9 @@ of how the MMT perspective helps us see through the myths that
 still dominate economic debate.
 
 For the benefit of those in the room, and those who couldn't make it,
-[the slides from my presentation are now available][1] along with the [presentation script][3]
+[the slides from my presentation are now available][1] along with the presentation script.
 
 {{<joindiscord>}} 
 
-[1]: https://docs.google.com/presentation/d/1OjC9OoRsERI3j98sWgV7eIA5u_DWG9mqtzqIDZbsBUQ/edit?usp=sharing
+[1]: https://doi.org/10.5281/zenodo.17129362
 [2]: https://gimms.org.uk
-[3]: book-launch.pdf
