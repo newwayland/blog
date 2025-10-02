@@ -1,8 +1,7 @@
 ---
 
 title: "UK Sectoral Balances"
-date: 
-2025-10-02T16:16:16+01:00
+date: 2025-10-02T16:16:16+01:00
 summary: "Sectoral Financial Balances for the UK as a % of GDP, smoothed over a year"
 tags: [statistics, uk]
 
