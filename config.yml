@@ -37,4 +37,4 @@ params:
   headline: New Wayland Blog
   description: Welcome to the Future
 permalinks:
-  post: '/:filename/'
+  post: '/:contentbasename/'
