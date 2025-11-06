@@ -25,6 +25,8 @@ params:
       link: 'https://discord.gg/JN6HKUd'
     - name: 'github'
       link: 'https://github.com/newwayland'
+    - name: 'mastodon'
+      link: 'https://mastodon.social/@NeilW'
     - name: 'email'
       link: 'mailto:modernmoneymatters@protonmail.com'
   ShowShareButtons: true
