@@ -70,7 +70,7 @@ out of the bag][1]:
 > but funding medical science and so on.
 
 This, then, may be the great sleight of hand. The Chancellor will bow
-to the "tiresome iteration" of the household analogy. She will dutifully
+to the ["tiresome iteration"][4] of the household analogy. She will dutifully
 "find" the money by raising taxes, satisfying the media and her political
 opponents that her sums add up.
 
@@ -89,3 +89,4 @@ been fully consumed by the folly of fiscal fiction?
 [1]: https://youtu.be/MPqi85vdji0?si=Aq7IxOOLpLWDk16J&t=439
 [2]: https://doi.org/10.1080/00213624.2025.2533726
 [3]: https://www.gov.uk/government/collections/hmt-main-estimates
+[4]: https://api.pageplace.de/preview/DT0400.9780231879149_A42994352/preview-9780231879149_A42994352.pdf
