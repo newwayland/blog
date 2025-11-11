@@ -47,7 +47,7 @@ of building materials, engineers, and construction workers. If these
 resources are already fully employed building luxury flats, the
 government’s new spending will simply bid up prices.
 
-This is the code that may explain the Chancellor’s true strategy. Ms
+This is the clue that may explain the Chancellor’s true strategy. Ms
 Reeves does not need to raise general taxes to "find the money" for her
 spending plans. She needs to raise those taxes to reduce the private
 sector's claim on the very resources the government’s public programmes
