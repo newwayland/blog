@@ -7,7 +7,7 @@ tags: ['mmt', 'fiscal policy', 'uk politics', 'taxation']
 ---
 The first, unavoidable task of any Chancellor is to stand before
 the despatch box and lament the state of the books. We will hear all
-the familiar notes: the cupboard is bare, the nation’s credit card
+the familiar notes: the cupboard is bare, the [nation’s credit card][6]
 is maxed out, and tough choices are the only medicine. Rachel Reeves,
 a woman steeped in Treasury orthodoxy, will play this part to perfection.
 
@@ -23,7 +23,7 @@ our monetary system, one that HM Treasury understands operationally
 even as it denies it rhetorically.
 
 The United Kingdom government is the issuer of the pound sterling. It
-is, as some economists describe it, the "constitutive architect" of
+is, [as some economists describe it][5], the "constitutive architect" of
 the monetary system, not just another user of it. It cannot run out of
 the currency it alone creates. When the government spends, it does so
 by crediting bank accounts. This spending is not, and has never been,
@@ -90,3 +90,5 @@ been fully consumed by the folly of fiscal fiction?
 [2]: https://doi.org/10.1080/00213624.2025.2533726
 [3]: https://www.gov.uk/government/collections/hmt-main-estimates
 [4]: https://api.pageplace.de/preview/DT0400.9780231879149_A42994352/preview-9780231879149_A42994352.pdf
+[5]: https://dx.doi.org/10.2139/ssrn.5337254
+[6]: {{< relref "how-the-governments-super-platinum-credit-card-works" >}}
