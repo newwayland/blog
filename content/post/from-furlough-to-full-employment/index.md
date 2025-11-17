@@ -3,7 +3,7 @@
 title: "From Furlough to Full Employment"
 date: 2020-07-10T08:41:58+01:00
 summary: "Overview of a UK Job Guarantee"
-tags: [mmt, jobguarantee]
+tags: [mmt, jg]
 
 ---
 
