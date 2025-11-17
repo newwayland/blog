@@ -2,7 +2,7 @@
 title: "Rachel Reeves and the Great Fiscal Sleight of Hand"
 summary: "Rachel Reeves’ tax hikes are sold as plugging a ‘black hole’, but the real aim may be freeing up resources for public investment, not balancing a mythical household budget"
 date: 2025-11-06T12:07:38Z
-tags: ['mmt', 'fiscal policy', 'uk politics', 'taxation']
+tags: ['mmt', 'fiscal policy', 'uk', 'uk politics', 'taxation']
 
 ---
 The first, unavoidable task of any Chancellor is to stand before
