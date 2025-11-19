@@ -2,7 +2,7 @@
 title: "It's Time to Nuke the Bond Market"
 date: 2025-11-17T19:30:26Z
 summary: "Why sovereign democracies must dismantle the mythology of 'bond vigilantes' to restore political agency"
-tags: ["mmt", "uk", "Interest Rates", "inflation", "borrowing"]
+tags: ["article", "mmt", "uk", "Interest Rates", "inflation", "borrowing"]
 ---
 
 
@@ -29,7 +29,7 @@ via the Bank of England, controls the very money in which gilts are
 denominated. The only institution that ultimately sets the risk-free rate
 is the Bank of England. The only entity that controls the supply and
 maturity of gilts is the Debt Management Office (DMO). The constraint,
-therefore, is not natural; it is manufactured.
+therefore, is not natural; [it is manufactured][1].
 
 The easiest way to kill the myth is to expose its plumbing. The bond
 market is not an independent power; it is a distribution channel for the
@@ -112,3 +112,5 @@ Reclaiming fiscal policy from financial folklore is not an act of
 rebellion. It is an act of democratic hygiene.
 
 {{<joindiscord>}}
+
+[1]: {{< relref "euthanise-the-bond-market" >}}
