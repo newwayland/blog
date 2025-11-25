@@ -73,7 +73,7 @@ If you push more current through the motor than its physical limits allow,
 it overheats. The wiring degrades. Performance becomes unstable. In
 economic terms, this is inflation.
 
-MMT is explicit on this point: the actual limit to government spending
+Modern Monetary Theory (MMT) is explicit on this point: the actual limit to government spending
 is not money availability - electrons are effectively infinite -
 but real resource availability.
 
