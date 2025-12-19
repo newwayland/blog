@@ -2,6 +2,7 @@
 title: "Universal Credit Jobs"
 date: 2025-12-12T15:31:33Z
 summary: "Universal Credit Jobs (UCJ) is the simplest credible version of a Job Guarantee that can be delivered in the United Kingdom"
+draft: true
 params:
   citation:
     title: "Universal Credit Jobs"
