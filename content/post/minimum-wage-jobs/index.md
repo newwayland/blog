@@ -3,6 +3,7 @@ title: "The Minimum Wage Jobs Framework"
 date: 2026-01-06T14:21:17+00:00
 summary: "The Minimum Wage Jobs (MWJ) Framework is the most operationally efficient version of a Job Guarantee for the United Kingdom. It achieves the dual objective of a modern stabilisation system: eliminating involuntary unemployment while providing a permanent anchor for inflation."
 draft: false
+tags: ["jg", "policy", "mmt"]
 params:
   citation:
     title: "The Minimum Wage Jobs Framework"
