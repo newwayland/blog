@@ -1,7 +1,7 @@
 ---
 
-title: "UK Employment Stats - Dec 2025"
-date: 2025-12-16T07:25:24+00:00
+title: "UK Employment Stats - Jan 2026"
+date: 2026-01-20T09:45:56+00:00
 summary: "The number of people in the UK without work that want it"
 tags: [statistics, uk]
 
