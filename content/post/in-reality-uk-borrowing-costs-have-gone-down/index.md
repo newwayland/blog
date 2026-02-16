@@ -1,23 +1,32 @@
 ---
 title: "In Reality, UK Borrowing Costs Have Gone Down"
-date: 2026-02-16T10:50:43Z
-draft: true
+date: 2026-02-16T11:39:59+00:00
+summary: "A 'bond crisis' is upon us, apparently. Break the usual framing and the opposite emerges: borrowing costs have fallen, and the 'crisis' is seen for what it is - manufactured panic serving particular interests."
+tags:
+  - bonds
+  - borrowing
+  - fiscal-policy
+  - interest-rates
+  - mmt
+  - uk
+  - uk-politics
 ---
 For the past fortnight, sections of the British press have staged a
 familiar drama. The script runs as follows: a government in disarray,
 aides departing, leadership under strain, and, inevitably, a verdict
-from “The Bond Market”. Gilt yields "surged", readers were told. The
-Telegraph suggested Starmer might [sacrifice his Chancellor to avert
-a “bond crisis”][3]. CNBC identified a ["'Damocles sword' over Britain's bond market"][4].
-[Reuters][8], [The Guardian][6], [Bloomberg][7], [MorningStar][9], and the [Financial Times][5]
-traced a direct line from Westminster speculation to national peril,
-warning that markets were losing faith in British governance.
+from the “Bond Market”. Gilt yields "surged", readers were told,
+then "reversed". The Telegraph suggested Starmer might [sacrifice his
+Chancellor to avert a “bond crisis”][3]. CNBC identified a ["Damocles
+sword over Britain's bond market"][4].  [Reuters][8], [The Guardian][6],
+[Bloomberg][7], [MorningStar][9], and the [Financial Times][5] traced
+a direct line from Westminster speculation to national peril, warning
+that markets were losing faith in British governance.
 
 This performance is not new. The beneficiaries are well known.
 
 The staging is meticulous. Attention is drawn to the 10-year gilt and the
 30-year—the longer maturities where uncertainty weighs heaviest and
-duration risk is most pronounced. The upward movement is highlighted,
+duration risk is most acute. The upward movement is highlighted,
 spikes are pointed out, and alarm invited. This is the "Truss Trauma"
 reflex: a conditioned response that seeks to constrain every British
 politician. Deviate from fiscal rectitude, suggest any significant change
@@ -39,14 +48,14 @@ the last year:
 
 {{< figure src="two-year.png" alt="2 year gilt - Feb 2026" >}}
 
-The real constraint lies elsewhere. If market participants want short,
-and [we're still going to issue gilts][2], then give them short. [It's not as
-though they have any aggregate alternative][1]. The Debt Management Office's
-issuance remit remains far too broad, allowing sales across the curve
-without regard to relative cost. If the DMO were directed to prioritise
-the lowest-yielding gilts each week and to avoid offerings exceeding
-Bank Rate where feasible, the scope for perceived "bond crises" would
-narrow significantly.
+The real constraint lies elsewhere. If market participants want short, and
+[we're still going to issue gilts][2], then give them short. [It's not
+as though they have any aggregate alternative][1]. The Debt Management
+Office's issuance remit remains far too broad, allowing sales across
+the curve without regard to relative cost. If the DMO were directed to
+prioritise the lowest-yielding gilts each week and to avoid offerings
+exceeding Bank Rate where feasible, the scope for perceived "bond crises"
+would narrow significantly.
 
 {{<joindiscord>}}
 
