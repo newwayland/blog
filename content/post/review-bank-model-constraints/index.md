@@ -7,7 +7,6 @@ tags:
   - agent-based
   - banking
   - economics
-draft: true
 ---
 
 This literature review examines banking structures in agent-based economic
