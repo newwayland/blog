@@ -1,7 +1,7 @@
 ---
 
-title: "UK Employment Stats - Feb 2026"
-date: 2026-02-17T09:50:07+00:00
+title: "UK Employment Stats - Mar 2026"
+date: 2026-03-22T07:49:23+00:00
 summary: "The number of people in the UK without work that want it"
 tags: [statistics, uk]
 
