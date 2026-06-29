@@ -167,8 +167,8 @@ to manage the yield curve is an executive option available under the
 [Bank of England Act 1946][8], which preserves the Treasury's power to give
 directions in the public interest.  Declining to issue gilts at yields the
 government considers unreasonable is an institutional choice requiring no
-legislation at all. Both are dormant powers sitting within the existing
-constitutional framework, available to any government willing to use them.
+legislation at all. Both are dormant powers sitting within the [existing
+constitutional framework][10], available to any government willing to use them.
 
 Defaulting on sterling-denominated government debt is an entirely
 different matter.  The United Kingdom cannot default on its debt without
@@ -309,3 +309,4 @@ not is a constraint on a UK government that has read its own legislation.
 [7]: {{<relref "in-reality-uk-borrowing-costs-have-gone-down">}}
 [8]: https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4
 [9]: https://data.europa.eu/doi/10.2861/41894
+[10]: https://doi.org/10.5281/zenodo.17357014
