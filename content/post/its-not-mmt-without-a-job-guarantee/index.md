@@ -88,6 +88,8 @@ André [had the last word](https://billmitchell.org/blog/?p=38829#comment-79001)
 
 The Job Guarantee fixes the bug in Keynesian thinking. It is the only thing that will do, because it is automatic, instant and spatial in nature. It is an automatic stabiliser that stabilises the monetary circuit *and* the physical circuit – leading to price stability *and* full employment.
 
+That's because [the price level consists of prices dictated by government spending policy along with other prices subsequently derived by market forces operating with government institutional structure](https://moslereconomics.com/wp-content/uploads/2024/08/A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf)
+
 It's not MMT [without a Job Guarantee.]({{<relref "minimum-wage-jobs">}}) 
 
 {{<joindiscord>}}
