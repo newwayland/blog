@@ -1,0 +1,1459 @@
+[
+  {
+    "created": "2026-07-15T08:43:02.586246+00:00",
+    "modified": "2026-07-17T08:35:42.790338+00:00",
+    "id": 21371807,
+    "conceptrecid": "21371806",
+    "doi": "10.1111/j.1467-923X.1943.tb01016.x",
+    "doi_url": "https://doi.org/10.1111/j.1467-923X.1943.tb01016.x",
+    "metadata": {
+      "title": "Political Aspects of Full Employment",
+      "doi": "10.1111/j.1467-923X.1943.tb01016.x",
+      "publication_date": "1943-10",
+      "description": "<p>This paper published in 1943 argues that sustained full employment is technically achievable through government spending, but faces political opposition because it shifts bargaining power from employers to workers. Kalecki contends that business leaders often prefer unemployment to preserve labour discipline and political influence, making the obstacles to full employment primarily political rather than economic. The essay became a foundational critique of the relationship between capitalism, employment policy, and the distribution of power.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Kalecki, Michał",
+          "affiliation": null
+        }
+      ],
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "journal": {
+        "issue": "4",
+        "pages": "322-330",
+        "title": "The Political Quarterly",
+        "volume": "14"
+      },
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "21371806"
+            }
+          }
+        ]
+      }
+    },
+    "title": "Political Aspects of Full Employment",
+    "links": {
+      "self": "https://zenodo.org/api/records/21371807",
+      "self_html": "https://zenodo.org/records/21371807",
+      "preview_html": "https://zenodo.org/records/21371807?preview=1",
+      "doi": "https://doi.org/10.1111/j.1467-923X.1943.tb01016.x",
+      "self_doi": "https://doi.org/10.1111/j.1467-923X.1943.tb01016.x",
+      "self_doi_html": "https://zenodo.org/doi/10.1111/j.1467-923X.1943.tb01016.x",
+      "reserve_doi": "https://zenodo.org/api/records/21371807/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/21371806",
+      "parent_html": "https://zenodo.org/records/21371806",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21371807/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21371807/sequence/default",
+      "files": "https://zenodo.org/api/records/21371807/files",
+      "media_files": "https://zenodo.org/api/records/21371807/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:21371807:Political%20Aspects%20of%20Full%20Employment.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/21371807/files-archive",
+      "archive_media": "https://zenodo.org/api/records/21371807/media-files-archive",
+      "latest": "https://zenodo.org/api/records/21371807/versions/latest",
+      "latest_html": "https://zenodo.org/records/21371807/latest",
+      "versions": "https://zenodo.org/api/records/21371807/versions",
+      "draft": "https://zenodo.org/api/records/21371807/draft",
+      "access_links": "https://zenodo.org/api/records/21371807/access/links",
+      "access_grants": "https://zenodo.org/api/records/21371807/access/grants",
+      "access_users": "https://zenodo.org/api/records/21371807/access/users",
+      "access_request": "https://zenodo.org/api/records/21371807/access/request",
+      "access": "https://zenodo.org/api/records/21371807/access",
+      "communities": "https://zenodo.org/api/records/21371807/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/21371807/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/21371807/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/21371807/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/21371807/quota-increase",
+      "requests": "https://zenodo.org/api/records/21371807/requests"
+    },
+    "updated": "2026-07-17T08:35:42.790338+00:00",
+    "recid": "21371807",
+    "revision": 5,
+    "files": [
+      {
+        "id": "d5578f98-9781-4b11-b531-765724e3f649",
+        "key": "Political Aspects of Full Employment.pdf",
+        "size": 82011,
+        "checksum": "md5:25b07171b87bb688aceeed1ffcaf215e",
+        "links": {
+          "self": "https://zenodo.org/api/records/21371807/files/Political%20Aspects%20of%20Full%20Employment.pdf/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 1,
+      "unique_downloads": 1,
+      "views": 2,
+      "unique_views": 2,
+      "version_downloads": 1,
+      "version_unique_downloads": 1,
+      "version_unique_views": 2,
+      "version_views": 2
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-07-14T12:49:26.084497+00:00",
+    "modified": "2026-07-15T08:45:41.424254+00:00",
+    "id": 21358441,
+    "conceptrecid": "21358440",
+    "doi": "10.4337/9781802208092.00012",
+    "doi_url": "https://doi.org/10.4337/9781802208092.00012",
+    "metadata": {
+      "title": "A Framework for the Analysis of the Price Level and Inflation",
+      "doi": "10.4337/9781802208092.00012",
+      "publication_date": "2023-01-10",
+      "description": "<p>What has been popularized as MMT (Modern Monetary Theory) began in 1992 as a description of Federal Reserve Bank monetary operations. I self-published 'Soft Currency Economics' in 1994 and in January of 1996 I introduced my analysis to the academic community through an internet discussion group. And while subsequent research revealed earlier writings of authors who had similar understandings, MMT remains sufficiently unique to be categorized as its own school of economic thought. This chapter begins with an analysis of both the source of the price level and what makes it change (casually known as inflation) which is currently unknown to Central Bankers. It also analyses the effects of interest rate policy on the price level, which contradicts that of Central Bankers. The presentation is from a US perspective and applicable to other state currencies with floating exchange rate policies and similar institutional structure.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Mosler, Warren",
+          "affiliation": null
+        }
+      ],
+      "resource_type": {
+        "title": "Book chapter",
+        "type": "publication",
+        "subtype": "section"
+      },
+      "imprint": {
+        "isbn": "9781802208085"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "21358440"
+            }
+          }
+        ]
+      }
+    },
+    "title": "A Framework for the Analysis of the Price Level and Inflation",
+    "links": {
+      "self": "https://zenodo.org/api/records/21358441",
+      "self_html": "https://zenodo.org/records/21358441",
+      "preview_html": "https://zenodo.org/records/21358441?preview=1",
+      "doi": "https://doi.org/10.4337/9781802208092.00012",
+      "self_doi": "https://doi.org/10.4337/9781802208092.00012",
+      "self_doi_html": "https://zenodo.org/doi/10.4337/9781802208092.00012",
+      "reserve_doi": "https://zenodo.org/api/records/21358441/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/21358440",
+      "parent_html": "https://zenodo.org/records/21358440",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21358441/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21358441/sequence/default",
+      "files": "https://zenodo.org/api/records/21358441/files",
+      "media_files": "https://zenodo.org/api/records/21358441/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:21358441:A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/21358441/files-archive",
+      "archive_media": "https://zenodo.org/api/records/21358441/media-files-archive",
+      "latest": "https://zenodo.org/api/records/21358441/versions/latest",
+      "latest_html": "https://zenodo.org/records/21358441/latest",
+      "versions": "https://zenodo.org/api/records/21358441/versions",
+      "draft": "https://zenodo.org/api/records/21358441/draft",
+      "access_links": "https://zenodo.org/api/records/21358441/access/links",
+      "access_grants": "https://zenodo.org/api/records/21358441/access/grants",
+      "access_users": "https://zenodo.org/api/records/21358441/access/users",
+      "access_request": "https://zenodo.org/api/records/21358441/access/request",
+      "access": "https://zenodo.org/api/records/21358441/access",
+      "communities": "https://zenodo.org/api/records/21358441/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/21358441/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/21358441/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/21358441/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/21358441/quota-increase",
+      "requests": "https://zenodo.org/api/records/21358441/requests"
+    },
+    "updated": "2026-07-15T08:45:41.424254+00:00",
+    "recid": "21358441",
+    "revision": 5,
+    "files": [
+      {
+        "id": "33a4fb69-54c9-4cfd-b5cf-8e9b84319768",
+        "key": "A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf",
+        "size": 1803574,
+        "checksum": "md5:b69734920e81a92f36c91ccb1110a481",
+        "links": {
+          "self": "https://zenodo.org/api/records/21358441/files/A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 1,
+      "unique_downloads": 1,
+      "views": 5,
+      "unique_views": 2,
+      "version_downloads": 1,
+      "version_unique_downloads": 1,
+      "version_unique_views": 2,
+      "version_views": 5
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-07-14T12:41:33.785047+00:00",
+    "modified": "2026-07-17T08:50:40.570221+00:00",
+    "id": 21358296,
+    "conceptrecid": "21358295",
+    "doi": "10.5281/zenodo.21358296",
+    "conceptdoi": "10.5281/zenodo.21358295",
+    "doi_url": "https://doi.org/10.5281/zenodo.21358296",
+    "metadata": {
+      "title": "A General Analytical Framework for the Analysis of Currencies and Other Commodities",
+      "doi": "10.5281/zenodo.21358296",
+      "publication_date": "2018-03-27",
+      "description": "<p>This paper outlines an alternative way of viewing the monetary circuit that takes&nbsp;into consideration the central role of the State from the beginning of the&nbsp;analysis. Vertical and horizontal components of the monetary circuit are introduced and their relation analyzed. It was shown that this framework is&nbsp;applicable not only to currency, but to any commodity. This is because, while&nbsp;currency does not obtain its value by virtue of its status as a commodity, once&nbsp;endowed with value a tax driven currency can be analyzed like any other&nbsp;commodity.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Mosler, Warren",
+          "affiliation": null
+        },
+        {
+          "name": "Forstater, Mathew",
+          "affiliation": "Levy Economics Institute of Bard College"
+        }
+      ],
+      "resource_type": {
+        "title": "Publication",
+        "type": "publication"
+      },
+      "alternate_identifiers": [
+        {
+          "identifier": "https://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf"
+        }
+      ],
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "21358295"
+            }
+          }
+        ]
+      }
+    },
+    "title": "A General Analytical Framework for the Analysis of Currencies and Other Commodities",
+    "links": {
+      "self": "https://zenodo.org/api/records/21358296",
+      "self_html": "https://zenodo.org/records/21358296",
+      "preview_html": "https://zenodo.org/records/21358296?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.21358296",
+      "self_doi": "https://doi.org/10.5281/zenodo.21358296",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21358296",
+      "reserve_doi": "https://zenodo.org/api/records/21358296/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/21358295",
+      "parent_html": "https://zenodo.org/records/21358295",
+      "parent_doi": "https://doi.org/10.5281/zenodo.21358295",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21358295",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21358296/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21358296/sequence/default",
+      "files": "https://zenodo.org/api/records/21358296/files",
+      "media_files": "https://zenodo.org/api/records/21358296/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:21358296:A-General-Analytical-Framework.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/21358296/files-archive",
+      "archive_media": "https://zenodo.org/api/records/21358296/media-files-archive",
+      "latest": "https://zenodo.org/api/records/21358296/versions/latest",
+      "latest_html": "https://zenodo.org/records/21358296/latest",
+      "versions": "https://zenodo.org/api/records/21358296/versions",
+      "draft": "https://zenodo.org/api/records/21358296/draft",
+      "access_links": "https://zenodo.org/api/records/21358296/access/links",
+      "access_grants": "https://zenodo.org/api/records/21358296/access/grants",
+      "access_users": "https://zenodo.org/api/records/21358296/access/users",
+      "access_request": "https://zenodo.org/api/records/21358296/access/request",
+      "access": "https://zenodo.org/api/records/21358296/access",
+      "communities": "https://zenodo.org/api/records/21358296/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/21358296/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/21358296/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/21358296/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/21358296/quota-increase",
+      "requests": "https://zenodo.org/api/records/21358296/requests"
+    },
+    "updated": "2026-07-17T08:50:40.570221+00:00",
+    "recid": "21358296",
+    "revision": 4,
+    "files": [
+      {
+        "id": "d210bac8-87e6-423f-9c51-9cc8f530ba8b",
+        "key": "A-General-Analytical-Framework.pdf",
+        "size": 140542,
+        "checksum": "md5:b4a9dbf3c491cddbb0b7675a5f85ecb7",
+        "links": {
+          "self": "https://zenodo.org/api/records/21358296/files/A-General-Analytical-Framework.pdf/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 0,
+      "unique_downloads": 0,
+      "views": 1,
+      "unique_views": 1,
+      "version_downloads": 0,
+      "version_unique_downloads": 0,
+      "version_unique_views": 1,
+      "version_views": 1
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-07-14T07:18:18.284150+00:00",
+    "modified": "2026-07-14T07:18:18.825744+00:00",
+    "id": 21351919,
+    "conceptrecid": "21351481",
+    "doi": "10.5281/zenodo.21351919",
+    "conceptdoi": "10.5281/zenodo.21351481",
+    "doi_url": "https://doi.org/10.5281/zenodo.21351919",
+    "metadata": {
+      "title": "An Accounting Model of the UK Exchequer",
+      "doi": "10.5281/zenodo.21351919",
+      "publication_date": "2021-02-21",
+      "description": "<p>In this timely study, the authors investigate the structure and function of the UK&rsquo;s public financial institutions, in groundbreaking depth and scope.&nbsp; Drawing on historical sources from the birth of the modern sterling economy, testimonies from government departments, official documentation, and parliamentary abstracts, the study forensically disassembles the components of the UK&rsquo;s government finances, debunking ideology and half-truths along the way.</p>\n<p>The authors expose the myth of Bank of England &ldquo;independence&rdquo;, and illustrate the central, driving role of HM Treasury in the UK financial system and the primacy of Parliament in determining spending and resourcing in the UK.</p>\n<p>The study describes in detail how the financial operations of the UK Government work, and the accounts and structure of the UK Exchequer, including its relationship with the devolved UK administrations.</p>\n<p>Supported with references from forgotten or little-known sources and extensive appendices detailing the history of the UK financial system, this important work destroys the myths and obfuscation of governments, economists and the financial services sector that has allowed decades of needless austerity to wreak social and political devastation in the UK and beyond.</p>\n<p>As such, this is an overdue expos&eacute; that has implications beyond the field of economic literature and challenges the basis of UK economic policy since the 1980s.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Berkeley, Andrew",
+          "affiliation": null
+        },
+        {
+          "name": "Tye, Richard",
+          "affiliation": null
+        },
+        {
+          "name": "Wilson, Neil",
+          "affiliation": null
+        }
+      ],
+      "resource_type": {
+        "title": "Publication",
+        "type": "publication"
+      },
+      "alternate_identifiers": [
+        {
+          "identifier": "https://gimms.org.uk/2021/02/21/an-accounting-model-of-the-uk-exchequer/"
+        }
+      ],
+      "license": {
+        "id": "cc-by-nc-nd-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 1,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "21351481"
+            }
+          }
+        ]
+      }
+    },
+    "title": "An Accounting Model of the UK Exchequer",
+    "links": {
+      "self": "https://zenodo.org/api/records/21351919",
+      "self_html": "https://zenodo.org/records/21351919",
+      "preview_html": "https://zenodo.org/records/21351919?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.21351919",
+      "self_doi": "https://doi.org/10.5281/zenodo.21351919",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21351919",
+      "reserve_doi": "https://zenodo.org/api/records/21351919/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/21351481",
+      "parent_html": "https://zenodo.org/records/21351481",
+      "parent_doi": "https://doi.org/10.5281/zenodo.21351481",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21351481",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21351919/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21351919/sequence/default",
+      "files": "https://zenodo.org/api/records/21351919/files",
+      "media_files": "https://zenodo.org/api/records/21351919/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:21351919:An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/21351919/files-archive",
+      "archive_media": "https://zenodo.org/api/records/21351919/media-files-archive",
+      "latest": "https://zenodo.org/api/records/21351919/versions/latest",
+      "latest_html": "https://zenodo.org/records/21351919/latest",
+      "versions": "https://zenodo.org/api/records/21351919/versions",
+      "draft": "https://zenodo.org/api/records/21351919/draft",
+      "access_links": "https://zenodo.org/api/records/21351919/access/links",
+      "access_grants": "https://zenodo.org/api/records/21351919/access/grants",
+      "access_users": "https://zenodo.org/api/records/21351919/access/users",
+      "access_request": "https://zenodo.org/api/records/21351919/access/request",
+      "access": "https://zenodo.org/api/records/21351919/access",
+      "communities": "https://zenodo.org/api/records/21351919/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/21351919/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/21351919/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/21351919/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/21351919/quota-increase",
+      "requests": "https://zenodo.org/api/records/21351919/requests"
+    },
+    "updated": "2026-07-14T07:18:18.825744+00:00",
+    "recid": "21351919",
+    "revision": 3,
+    "files": [
+      {
+        "id": "c3ea8538-9b3b-4ab6-8d49-d32a1c2fa5f2",
+        "key": "An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf",
+        "size": 4695323,
+        "checksum": "md5:1b57b9389c226110cbda14a76f191ee2",
+        "links": {
+          "self": "https://zenodo.org/api/records/21351919/files/An-Accounting-Model-of-the-UK-Exchequer-2nd-edition.pdf/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 0,
+      "unique_downloads": 0,
+      "views": 2,
+      "unique_views": 2,
+      "version_downloads": 0,
+      "version_unique_downloads": 0,
+      "version_unique_views": 1,
+      "version_views": 1
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-07-14T04:59:50.191319+00:00",
+    "modified": "2026-07-14T07:20:40.286062+00:00",
+    "id": 21350090,
+    "conceptrecid": "21350089",
+    "doi": "10.1080/00213624.2025.2533726",
+    "doi_url": "https://doi.org/10.1080/00213624.2025.2533726",
+    "metadata": {
+      "title": "The Self-Financing State: An Institutional Analysis of Government Expenditure, Revenue Collection and Debt Issuance Operations in the United Kingdom",
+      "doi": "10.1080/00213624.2025.2533726",
+      "publication_date": "2025-09-05",
+      "description": "<p>This article provides the first detailed institutional analysis of the UK&nbsp;government&rsquo;s expenditure, revenue collection, and debt issuance processes. We show that<br>public expenditure is always financed through money creation rather than taxation or debt&nbsp;issuance. Spending involves the government drawing on a sovereign line of credit from a&nbsp;core legal and accounting structure known as the Consolidated Fund (CF). The Bank of&nbsp;England then debits the CF&rsquo;s account at the Bank and credits other government accounts&nbsp;held at the Bank. This creates new public deposits, which are used to settle spending by&nbsp;government departments via the commercial banking sector. Only the UK parliament&nbsp;can mandate expenditures from the CF. Revenue collection, including taxation, involves&nbsp;the reverse process, crediting the CF&rsquo;s account at the Bank, offsetting past injections.&nbsp;Similarly, gilts have been issued to temporarily withdraw money to assist monetary policy<br>objectives. Under the current conditions of excess reserve liquidity, however, debt issuance&nbsp;is best understood as a way of providing safe assets and secure collateral to the non-bank&nbsp;private sector. The findings support neo-Chartalist accounts of the workings of sovereign&nbsp;currency-issuing nations and provide additional institutional detail regarding the apex of&nbsp;the monetary hierarchy in the UK.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Berkeley, Andrew",
+          "affiliation": null
+        },
+        {
+          "name": "Ryan-Collins, Josh",
+          "affiliation": null
+        },
+        {
+          "name": "Tye, Richard",
+          "affiliation": null
+        },
+        {
+          "name": "Voldsgaard, Asker",
+          "affiliation": null
+        },
+        {
+          "name": "Wilson, Neil",
+          "affiliation": null
+        }
+      ],
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "license": {
+        "id": "cc-by-nc-nd-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "21350089"
+            }
+          }
+        ]
+      }
+    },
+    "title": "The Self-Financing State: An Institutional Analysis of Government Expenditure, Revenue Collection and Debt Issuance Operations in the United Kingdom",
+    "links": {
+      "self": "https://zenodo.org/api/records/21350090",
+      "self_html": "https://zenodo.org/records/21350090",
+      "preview_html": "https://zenodo.org/records/21350090?preview=1",
+      "doi": "https://doi.org/10.1080/00213624.2025.2533726",
+      "self_doi": "https://doi.org/10.1080/00213624.2025.2533726",
+      "self_doi_html": "https://zenodo.org/doi/10.1080/00213624.2025.2533726",
+      "reserve_doi": "https://zenodo.org/api/records/21350090/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/21350089",
+      "parent_html": "https://zenodo.org/records/21350089",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21350090/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21350090/sequence/default",
+      "files": "https://zenodo.org/api/records/21350090/files",
+      "media_files": "https://zenodo.org/api/records/21350090/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:21350090:The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/21350090/files-archive",
+      "archive_media": "https://zenodo.org/api/records/21350090/media-files-archive",
+      "latest": "https://zenodo.org/api/records/21350090/versions/latest",
+      "latest_html": "https://zenodo.org/records/21350090/latest",
+      "versions": "https://zenodo.org/api/records/21350090/versions",
+      "draft": "https://zenodo.org/api/records/21350090/draft",
+      "access_links": "https://zenodo.org/api/records/21350090/access/links",
+      "access_grants": "https://zenodo.org/api/records/21350090/access/grants",
+      "access_users": "https://zenodo.org/api/records/21350090/access/users",
+      "access_request": "https://zenodo.org/api/records/21350090/access/request",
+      "access": "https://zenodo.org/api/records/21350090/access",
+      "communities": "https://zenodo.org/api/records/21350090/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/21350090/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/21350090/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/21350090/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/21350090/quota-increase",
+      "requests": "https://zenodo.org/api/records/21350090/requests"
+    },
+    "updated": "2026-07-14T07:20:40.286062+00:00",
+    "recid": "21350090",
+    "revision": 4,
+    "files": [
+      {
+        "id": "29ef7d5f-e33f-4fc3-90b8-d43781e7299d",
+        "key": "The Self-Financing State  An Institutional Analysis of Government Expenditure  Revenue Collection and Debt Issuance Operations in the United Kingdom.pdf",
+        "size": 942523,
+        "checksum": "md5:6dedd7116285ceb471789d7d483f7788",
+        "links": {
+          "self": "https://zenodo.org/api/records/21350090/files/The%20Self-Financing%20State%20%20An%20Institutional%20Analysis%20of%20Government%20Expenditure%20%20Revenue%20Collection%20and%20Debt%20Issuance%20Operations%20in%20the%20United%20Kingdom.pdf/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 4,
+      "unique_downloads": 2,
+      "views": 8,
+      "unique_views": 4,
+      "version_downloads": 4,
+      "version_unique_downloads": 2,
+      "version_unique_views": 4,
+      "version_views": 8
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-01-08T10:10:46.503725+00:00",
+    "modified": "2026-01-08T10:10:46.953822+00:00",
+    "id": 18183686,
+    "conceptrecid": "17131084",
+    "doi": "10.5281/zenodo.18183686",
+    "conceptdoi": "10.5281/zenodo.17131084",
+    "doi_url": "https://doi.org/10.5281/zenodo.18183686",
+    "metadata": {
+      "title": "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law",
+      "doi": "10.5281/zenodo.18183686",
+      "publication_date": "2026-01-08",
+      "description": "<p>This paper challenges the widespread public and institutional misconception that legal tender laws in English law compel creditors to accept payment in a specific form. We argue that legal tender is a narrow, procedural artefact with diminishing practical relevance. Through an analysis of statutory provisions, common law, and the Civil Procedure Rules, we demonstrate that legal tender serves not as a substantive right to discharge debts but as a limited procedural defence concerning liability for costs in litigation. By examining the institutional mechanisms for settling private contractual debts and public statutory obligations, such as taxes, we show that settlement occurs almost exclusively through electronic, bank-mediated systems. The paper concludes that the operational currency of the modern state is not physical legal tender but central bank reserves and commercial bank money, rendering legal tender a concept of largely historical and symbolic significance.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Wilson, Neil",
+          "affiliation": "The Gower Initiative for Modern Money Studies",
+          "orcid": "0009-0009-5517-137X"
+        },
+        {
+          "name": "Tye, Richard",
+          "affiliation": "The Gower Initiative for Modern Money Studies"
+        },
+        {
+          "name": "Berkeley, Andrew",
+          "affiliation": "The Gower Initiative for Modern Money Studies"
+        }
+      ],
+      "keywords": [
+        "Legal tender",
+        "Monetary law",
+        "Tax obligations",
+        "Payment systems"
+      ],
+      "references": [
+        "Administration of Justice Act (1977). https://www.legislation.gov.uk/ukpga/1977/38/introduction.",
+        "Allen, Helen, and Andrew Dent. 2010. 'Managing the Circulation of Banknotes'. Bank of England Quarterly Bulletin 2010 (Q4): 302–10.",
+        "An Act to Consolidate and Amend the Law Relating to the Coinage and Her Majesty's Mint (1870). https://www.legislation.gov.uk/ukpga/Vict/33-34/10/enacted.",
+        "Bank of England. 2025a. 'Eligible Collateral'. April 16. https://www.bankofengland.co.uk/-/media/boe/files/markets/eligible-collateral/summary-table-of-collateral.pdf.",
+        "Bank of England. 2025b. 'What Is Legal Tender?' February 26. https://www.bankofengland.co.uk/explainers/what-is-legal-tender.",
+        "Berkeley, Andrew, Richard Tye, and Neil Wilson. 2023. 'How Does the Government Spend? A Functional Model of the UK Exchequer'. Ch. 1 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. https://doi.org/10.4337/9781802208092.00009.",
+        "Chalmers, Jim. 2024. 'Ensuring the Future of Cash and next Steps in Phasing out Cheques'. Treasury Ministers, November 18. https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/ensuring-future-cash-and-next-steps-phasing-out-cheques.",
+        "Charles R. 2023. 'BY THE KING A PROCLAMATION DETERMINING THE SPECIFICATIONS AND DESIGNS FOR A NEW SERIES OF TWO POUND, ONE POUND, FIFTY PENCE, TWENTY PENCE, TEN PENCE, FIVE PENCE, TWO PENCE AND ONE PENNY COINS'. The Gazette (London, England), October 13. https://www.thegazette.co.uk/notice/4456074.",
+        "Chitty, Joseph. 2023. 'Chitty on Contracts - Volume I: General Principles'. In Chitty on Contracts, 35th edn, vol. 1. Sweet & Maxwell, Thomson Reuters.",
+        "Coinage Act (1971). https://www.legislation.gov.uk/ukpga/1971/24/introduction.",
+        "Currency Act (1983). https://www.legislation.gov.uk/ukpga/1983/9/contents.",
+        "Currency and Bank Notes Act (1954). https://www.legislation.gov.uk/ukpga/Eliz2/2-3/12.",
+        "Davey, Francis. 2015. 'Question about defence of tender before claim'. Usenet. Uk.Legal.Moderated, April 14. https://uk.legal.moderated.narkive.com/h7asKJKN/question-about-defence-of-tender-before-claim#post16.",
+        "Davidson, Paul. 1978. Money and the Real World. 2nd edn. Macmillan.",
+        "Decimal Currency Act (1969). https://www.legislation.gov.uk/ukpga/1969/19.",
+        "Department of the Treasury. 2025. 'Mandating Cash Acceptance'. Text. Treasury.Gov.Au, Department of the Treasury, February 19. https://treasury.gov.au/consultation/c2024-604832.",
+        "European Central Bank. 2023. 'Opinion of the European Central Bank of 13th October 2023 on a Proposal for a Regulation on the Legal Tender of Euro Banknotes and Coins (CON/2023/31)'. Official Journal of the European Union C/2023/1355 (December). http://data.europa.eu/eli/C/2023/1355/oj.",
+        "European Commission. 2023. 'Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the Legal Tender of Euro Banknotes and Coins'. June 28. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0364.",
+        "Fox, David. 2008. Property Rights In Money. Oxford University PressOxford. https://doi.org/10.1093/oso/9780198299455.001.0001.",
+        "Freitag, Robert, and Sebastian Omlor, eds. 2020. The Euro as Legal Tender: A Comparative Approach to a Uniform Concept. De Gruyter. https://doi.org/10.1515/9783110640717.",
+        "Gleeson, Simon. 2018. The Legal Concept of Money. Oxford University Press. https://doi.org/10.1093/law/9780198826392.001.0001.",
+        "Goldberg, Dror. 2009. Legal Tender. Working Paper Nos 2009–04. Bar-Ilan University, Department of Economics. https://hdl.handle.net/10419/96051.",
+        "Goode, Royston Miles. 2016. Goode on Commercial Law. 5th edn. Edited by Ewan McKendrick. Penguin Reference. Penguin Books.",
+        "Grossman, Herschel I. 1991. 'Monetary Economics'. Journal of Monetary Economics 28 (2): 323–45. https://doi.org/10.1016/0304-3932(91)90056-T.",
+        "HM Revenue & Customs. 2025. 'Paying HMRC: Detailed Information'. GOV.UK, April 6. https://www.gov.uk/government/collections/paying-hmrc-detailed-information.",
+        "Indrawati, Fransiska Ari. 2023. 'An Ideal Legal Tender for the Digital Era'. Journal of Central Banking Law and Institutions 2 (3): 373–400. https://doi.org/10.21098/jcli.v2i3.182.",
+        "Lawson, Tony. 2022. 'Social Positioning Theory'. Cambridge Journal of Economics 46 (1): 1–39. https://doi.org/10.1093/cje/beab040.",
+        "Mann, F A. 1992. The Legal Aspect of Money: With Special Reference to Comparative Private and Public International Law. Oxford University PressOxford. https://doi.org/10.1093/oso/9780198256502.001.0001.",
+        "Ministry of Justice. 2023. 'PRACTICE DIRECTION 37 – MISCELLANEOUS PROVISIONS ABOUT PAYMENTS INTO COURT'. Guidance. Civil Procedure Rules – Justice UK, April 6. https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part37/pd_part37.",
+        "Ministry of Justice. 2025. Funds in Court in England and Wales Account 2024 to 2025. https://assets.publishing.service.gov.uk/media/6877ceacf5eb08157f363853/funds-court-annual-report-2024-2025.pdf.",
+        "Nussbaum, Arthur. 1950. Money in the Law, National and International: A Comparative Study in the Borderline of Law and Economics. 2nd edn. The Foundation Press.",
+        "Office of the Accountant General. 2025. 'Court Funds Office - Sterling Transfers, Cash, and Nominated Banks'. FOI Request to Neil Wilson. August 8. https://www.whatdotheyknow.com/request/court_funds_office_sterling_tran.",
+        "Proctor, Charles. 2020. 'Legal Tender under English Law'. In The Euro as Legal Tender, edited by Robert Freitag and Sebastian Omlor. De Gruyter. https://doi.org/10.1515/9783110640717-004.",
+        "Representation of the People Act (1983). https://www.legislation.gov.uk/ukpga/1983/2/introduction.",
+        "Sale of Goods Act (1979). https://www.legislation.gov.uk/ukpga/1979/54/introduction.",
+        "Schumpeter, Joseph A. (1954) 2006. History of Economic Analysis. Routledge. https://doi.org/10.4324/9780203983911.",
+        "Sono, Kazuaki. 2003. 'Legal Tender: A Notion Associated with Payment'. Ch. 34 in Current Developments in Monetary and Financial Law, vol. 2. INTERNATIONAL MONETARY FUND. https://doi.org/10.5089/9781589061767.072.",
+        "The Civil Procedure Rules, SI 1998/3132 (1998). https://www.legislation.gov.uk/uksi/1998/3132/contents.",
+        "The Royal Mint. 2025. 'Legal Tender Guidelines'. The Royal Mint, August. https://www.royalmint.com/aboutus/policies-and-guidelines/legal-tender-guidelines/.",
+        "Wray, L. Randall. 2000. 'The Neo-Chartalist Approach to Money'. SSRN Electronic Journal, ahead of print. https://doi.org/10.2139/ssrn.1010334.",
+        "Wray, L. Randall. 2025. Understanding Modern Money Theory: Money and Credit in Capitalist Economies. Edward Elgar Publishing. https://doi.org/10.4337/9781800375154."
+      ],
+      "language": "eng",
+      "resource_type": {
+        "title": "Publication",
+        "type": "publication"
+      },
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 2,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "17131084"
+            }
+          }
+        ]
+      }
+    },
+    "title": "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law",
+    "links": {
+      "self": "https://zenodo.org/api/records/18183686",
+      "self_html": "https://zenodo.org/records/18183686",
+      "preview_html": "https://zenodo.org/records/18183686?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.18183686",
+      "self_doi": "https://doi.org/10.5281/zenodo.18183686",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18183686",
+      "reserve_doi": "https://zenodo.org/api/records/18183686/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/17131084",
+      "parent_html": "https://zenodo.org/records/17131084",
+      "parent_doi": "https://doi.org/10.5281/zenodo.17131084",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17131084",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18183686/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18183686/sequence/default",
+      "files": "https://zenodo.org/api/records/18183686/files",
+      "media_files": "https://zenodo.org/api/records/18183686/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:18183686:Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/18183686/files-archive",
+      "archive_media": "https://zenodo.org/api/records/18183686/media-files-archive",
+      "latest": "https://zenodo.org/api/records/18183686/versions/latest",
+      "latest_html": "https://zenodo.org/records/18183686/latest",
+      "versions": "https://zenodo.org/api/records/18183686/versions",
+      "draft": "https://zenodo.org/api/records/18183686/draft",
+      "access_links": "https://zenodo.org/api/records/18183686/access/links",
+      "access_grants": "https://zenodo.org/api/records/18183686/access/grants",
+      "access_users": "https://zenodo.org/api/records/18183686/access/users",
+      "access_request": "https://zenodo.org/api/records/18183686/access/request",
+      "access": "https://zenodo.org/api/records/18183686/access",
+      "communities": "https://zenodo.org/api/records/18183686/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/18183686/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/18183686/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/18183686/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/18183686/quota-increase",
+      "requests": "https://zenodo.org/api/records/18183686/requests"
+    },
+    "updated": "2026-01-08T10:10:46.953822+00:00",
+    "recid": "18183686",
+    "revision": 3,
+    "files": [
+      {
+        "id": "a7965f65-81d8-4cc4-b305-231fae92f2dd",
+        "key": "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law.pdf",
+        "size": 372724,
+        "checksum": "md5:f0dbca4ba27a5662f2b5cbbb351902f2",
+        "links": {
+          "self": "https://zenodo.org/api/records/18183686/files/Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.pdf/content"
+        }
+      },
+      {
+        "id": "79eec9d8-e543-430f-b5a6-c2b4218a5de8",
+        "key": "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law.odt",
+        "size": 3255799,
+        "checksum": "md5:4ea8257efbbf7823c30750935b217bec",
+        "links": {
+          "self": "https://zenodo.org/api/records/18183686/files/Legal%20Tender,%20Debt,%20and%20the%20Institutional%20Settlement%20of%20Monetary%20Obligations%20in%20English%20Law.odt/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 244,
+      "unique_downloads": 209,
+      "views": 246,
+      "unique_views": 231,
+      "version_downloads": 41,
+      "version_unique_downloads": 40,
+      "version_unique_views": 59,
+      "version_views": 62
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2026-01-06T14:00:27.913634+00:00",
+    "modified": "2026-01-06T14:01:09.845498+00:00",
+    "id": 18163630,
+    "conceptrecid": "17913569",
+    "doi": "10.5281/zenodo.18163630",
+    "conceptdoi": "10.5281/zenodo.17913569",
+    "doi_url": "https://doi.org/10.5281/zenodo.18163630",
+    "metadata": {
+      "title": "The Minimum Wage Jobs Framework",
+      "doi": "10.5281/zenodo.18163630",
+      "publication_date": "2025-01-06",
+      "description": "<p dir=\"ltr\">The Minimum Wage Jobs (MWJ) Framework is the most operationally efficient version of a Job Guarantee for the United Kingdom. It achieves the dual objective of a modern stabilisation system: eliminating involuntary unemployment while providing a permanent anchor for inflation.</p>\n<p dir=\"ltr\">By utilising existing legal and operational infrastructure, MWJ enables public-purpose employers, such as charities, the NHS, and local authorities, to scale up their work by drawing on a ready supply of available workers. The process is integrated into the heart of the UK&rsquo;s tax system; employers simply notify the government of a scheme participant via a new field in their standard PAYE Real Time Information (RTI) submissions.</p>\n<p dir=\"ltr\">This framework removes the financial barriers to expanding public-purpose services. For each eligible worker, the Department for Work and Pensions (DWP) pays wages directly and settles all tax and National Insurance with HMRC. Participating organisations can engage full-time labour at zero gross payroll cost, enabling social value and community projects to be delivered without personnel budget constraints.</p>\n<p dir=\"ltr\">In addition, MWJ serves as a powerful automatic stabiliser. Participation scales naturally with the economy, rising during downturns and falling during booms, and responding immediately to local labour-market conditions. Unlike interest-rate changes, which suffer from long, variable lags, MWJ provides a surgical response to economic shifts.</p>\n<p dir=\"ltr\">Crucially, by shifting macroeconomic stabilisation from the money market to the labour market, MWJ ends the practice of using unemployment as an inflation-control tool and removes the economy&rsquo;s structural dependence on interest rate hikes. As a result, interest rates can settle at their natural, permanently low level, providing immediate and lasting relief to millions of mortgaged and renting households.</p>\n<p dir=\"ltr\">The Framework is a fully distributed policy that requires no new agencies, committees, or open-ended ministerial powers. It functions as a seamless extension of the existing tax and benefit architecture, operating automatically across every region and nation of the UK. The system is designed to be \"light-touch,\" integrating seamlessly with the distinct tax policies of devolved governments. By processing payments through the established PAYE and RTI frameworks, the policy scales to local needs rather than through central command.</p>\n<p dir=\"ltr\">Implementation is pragmatic and low-risk. One-off implementation costs are conservatively estimated at &pound;100 million, with annual running costs under &pound;50 million: less than the current cost of operating the Monetary Policy Committee and the Debt Management Office.</p>\n<p dir=\"ltr\">The result is a transformational reform that is operationally simple, fiscally responsible, and deliverable within a single Parliament.</p>\n<p dir=\"ltr\">&nbsp;</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Wilson, Neil",
+          "affiliation": null,
+          "orcid": "0009-0009-5517-137X"
+        }
+      ],
+      "version": "2.0.0",
+      "resource_type": {
+        "title": "Proposal",
+        "type": "publication",
+        "subtype": "proposal"
+      },
+      "license": {
+        "id": "cc-by-nc-sa-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 1,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "17913569"
+            }
+          }
+        ]
+      }
+    },
+    "title": "The Minimum Wage Jobs Framework",
+    "links": {
+      "self": "https://zenodo.org/api/records/18163630",
+      "self_html": "https://zenodo.org/records/18163630",
+      "preview_html": "https://zenodo.org/records/18163630?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.18163630",
+      "self_doi": "https://doi.org/10.5281/zenodo.18163630",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18163630",
+      "reserve_doi": "https://zenodo.org/api/records/18163630/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/17913569",
+      "parent_html": "https://zenodo.org/records/17913569",
+      "parent_doi": "https://doi.org/10.5281/zenodo.17913569",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17913569",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18163630/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18163630/sequence/default",
+      "files": "https://zenodo.org/api/records/18163630/files",
+      "media_files": "https://zenodo.org/api/records/18163630/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:18163630:The%20Minimum%20Wage%20Jobs%20Framework.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/18163630/files-archive",
+      "archive_media": "https://zenodo.org/api/records/18163630/media-files-archive",
+      "latest": "https://zenodo.org/api/records/18163630/versions/latest",
+      "latest_html": "https://zenodo.org/records/18163630/latest",
+      "versions": "https://zenodo.org/api/records/18163630/versions",
+      "draft": "https://zenodo.org/api/records/18163630/draft",
+      "access_links": "https://zenodo.org/api/records/18163630/access/links",
+      "access_grants": "https://zenodo.org/api/records/18163630/access/grants",
+      "access_users": "https://zenodo.org/api/records/18163630/access/users",
+      "access_request": "https://zenodo.org/api/records/18163630/access/request",
+      "access": "https://zenodo.org/api/records/18163630/access",
+      "communities": "https://zenodo.org/api/records/18163630/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/18163630/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/18163630/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/18163630/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/18163630/quota-increase",
+      "requests": "https://zenodo.org/api/records/18163630/requests"
+    },
+    "updated": "2026-01-06T14:01:09.845498+00:00",
+    "recid": "18163630",
+    "revision": 4,
+    "files": [
+      {
+        "id": "2d78c776-d216-4632-b03b-ba645e49daef",
+        "key": "The Minimum Wage Jobs Framework.pdf",
+        "size": 596954,
+        "checksum": "md5:63d4bff84778165703e0c9ef83b1d71d",
+        "links": {
+          "self": "https://zenodo.org/api/records/18163630/files/The%20Minimum%20Wage%20Jobs%20Framework.pdf/content"
+        }
+      },
+      {
+        "id": "46ddb5d4-1c90-4962-a625-ef3e9bafa716",
+        "key": "The Minimum Wage Jobs Framework.odt",
+        "size": 3277229,
+        "checksum": "md5:c7b676ee390be2267322c7ed307753d7",
+        "links": {
+          "self": "https://zenodo.org/api/records/18163630/files/The%20Minimum%20Wage%20Jobs%20Framework.odt/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 237,
+      "unique_downloads": 192,
+      "views": 239,
+      "unique_views": 215,
+      "version_downloads": 178,
+      "version_unique_downloads": 147,
+      "version_unique_views": 174,
+      "version_views": 187
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2025-10-15T08:08:06.022234+00:00",
+    "modified": "2025-10-16T05:59:53.601712+00:00",
+    "id": 17357015,
+    "conceptrecid": "17357014",
+    "doi": "10.5281/zenodo.17357015",
+    "conceptdoi": "10.5281/zenodo.17357014",
+    "doi_url": "https://doi.org/10.5281/zenodo.17357015",
+    "metadata": {
+      "title": "Proposals for Reforms to the Debt Management Office's Financing Remit",
+      "doi": "10.5281/zenodo.17357015",
+      "publication_date": "2025-10-15",
+      "description": "<p><span>This paper proposes reforms to the UK Debt Management Office's (DMO) financing remit to reduce Exchequer costs without austerity. It argues the current rigid, auction-based system is inefficient and misaligned with market demand, based on an outdated view of government finance. We recommend an Open Issue System (OIS), a dynamic, demand-driven model for the continuous issuance of gilts and Treasury bills in direct response to market bids. By phasing out Gilt-edged Market Maker privileges and broadening market access, the OIS would lower borrowing costs, reduce volatility, and enhance fiscal space. These significant reforms can be implemented administratively under existing statutory authority, offering a practical path to fiscal improvement.</span></p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "The Gower Initiative for Modern Money Studies",
+          "affiliation": null
+        }
+      ],
+      "keywords": [
+        "Budget Submission",
+        "Continuous Issuance",
+        "DMO",
+        "Exchequer Costs",
+        "Gilts",
+        "OIS",
+        "Treasury Bills",
+        "UK Debt Management Office",
+        "Fiscal and Economy",
+        "Debt Management",
+        "Growth and Productivity",
+        "Financial Services",
+        "Public Debt"
+      ],
+      "references": [
+        "Bank of England. 2025. 'The Bank of England's Sterling Monetary Framework - Operating Procedures'. Bank of England, August. https://www.bankofengland.co.uk/-/media/boe/files/markets/sterling-monetary-framework/operating-procedures.pdf.",
+        "Berkeley, Andrew, Josh Ryan-Collins, Richard Tye, Asker Voldsgaard, and Neil Wilson. 2025. 'The Self-Financing State: An Institutional Analysis of Government Expenditure, Revenue Collection and Debt Issuance Operations in the United Kingdom'. Journal of Economic Issues 59 (3): 852–80. https://doi.org/10.1080/00213624.2025.2533726.",
+        "Butler, Creon, and Roger Clews. 1997. 'Money Market Operations in the United Kingdom'. BIS Conference Papers 3 (March). https://www.bis.org/publ/confp03c.pdf.",
+        "Debt Management Office. 2025a. Annual report and accounts of the United Kingdom debt management office and the debt management account 2024–2025. https://www.dmo.gov.uk/media/s03dtueu/dmodmarep2025.pdf.",
+        "Debt Management Office. 2025b. DMO Financing Remit Announcement for 2025-26. Debt Management Office. https://www.dmo.gov.uk/media/vggggtwy/sa260325.pdf.",
+        "HM Treasury. 2020. 'HM Treasury and Bank of England Announce Temporary Extension of the Ways and Means Facility'. GOV.UK, April 9. https://www.gov.uk/government/news/hm-treasury-and-bank-of-england-announce-temporary-extension-of-the-ways-and-means-facility.",
+        "HM Treasury. 2025a. Debt Management Report 2025-26. HM Treasury. https://assets.publishing.service.gov.uk/media/6894b071e7be62b4f0643129/Debt_Management_Report_2025-26.pdf.",
+        "HM Treasury. 2025b. DMO Annual Review 2024-25. HM Treasury. https://www.dmo.gov.uk/media/dmgaetip/gar2025a.pdf.",
+        "Khadbai, Burhan. 2024. 'Stheeman: DMOs Must Maintain Health of Primary Dealer System'. OMFIF, June 6. https://www.omfif.org/2024/06/stheeman-dmos-must-maintain-health-of-primary-dealer-system/.",
+        "Mosler, Warren. 2013. Soft Currency Economics II. CreateSpace Independent Publishing Platform.",
+        "Mosler, Warren. 2023. 'A Framework for the Analysis of the Price Level and Inflation'. Ch. 4 in Modern Monetary Theory, edited by L. Wray, Phil Armstrong, Sara Holland, Claire Jackson-Prior, Prue Plumridge, and Neil Wilson. Edward Elgar Publishing. https://doi.org/10.4337/9781802208092.00012.",
+        "Office of National Statistics. 2024. 'Flow of Funds'. Ch. 14 in UK National Accounts, The Blue Book 2024, by Office of National Statistics. https://www.ons.gov.uk/economy/grossdomesticproductgdp/compendium/unitedkingdomnationalaccountsthebluebook/2024/pdf.",
+        "Parikh, Tej. 2025. 'Confronting the Limits of Monetary Policy'. Financial Times (London, England), October 5. https://archive.is/xftVL. https://www.ft.com/content/16755423-88d5-43f1-8811-c0eaef19eafb.",
+        "Regulation (EU) 2023/1679 of the European Central Bank of 25 August 2023 Amending Regulation (EU) 2021/378 on the Application of Minimum Reserve Requirements (ECB/2021/1) (ECB/2023/21), 216 OJ L (2023). http://data.europa.eu/eli/reg/2023/1679/oj/eng.",
+        "Tucker, Sir Paul. 2022. 'Quantitative Easing, Monetary Policy Implementation and the Public Finances'. In IFS Green Budget 2022, edited by Paul Johnson, Carl Emmerson, and Ben Zaranko. The Institute of Fiscal Studies. https://ifs.org.uk/sites/default/files/2022-10/Quantitative-easing-monetary-policy-implementation-and-the-public-finances-Green-Budget-2022.pdf.",
+        "US Treasury. 2025. MSPD Balancing Worksheet. US Treasury Monthly Statement of the Public Debt (MSPD). US Treasury. https://fiscaldata.treasury.gov/static-data/published-reports/mspd-balancing/MSPD_Balancing_Sheet_0825.pdf."
+      ],
+      "language": "eng",
+      "resource_type": {
+        "title": "Proposal",
+        "type": "publication",
+        "subtype": "proposal"
+      },
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "17357014"
+            }
+          }
+        ]
+      }
+    },
+    "title": "Proposals for Reforms to the Debt Management Office's Financing Remit",
+    "links": {
+      "self": "https://zenodo.org/api/records/17357015",
+      "self_html": "https://zenodo.org/records/17357015",
+      "preview_html": "https://zenodo.org/records/17357015?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.17357015",
+      "self_doi": "https://doi.org/10.5281/zenodo.17357015",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17357015",
+      "reserve_doi": "https://zenodo.org/api/records/17357015/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/17357014",
+      "parent_html": "https://zenodo.org/records/17357014",
+      "parent_doi": "https://doi.org/10.5281/zenodo.17357014",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17357014",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17357015/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17357015/sequence/default",
+      "files": "https://zenodo.org/api/records/17357015/files",
+      "media_files": "https://zenodo.org/api/records/17357015/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:17357015:Budget%20Submission%20-%20October%202025.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/17357015/files-archive",
+      "archive_media": "https://zenodo.org/api/records/17357015/media-files-archive",
+      "latest": "https://zenodo.org/api/records/17357015/versions/latest",
+      "latest_html": "https://zenodo.org/records/17357015/latest",
+      "versions": "https://zenodo.org/api/records/17357015/versions",
+      "draft": "https://zenodo.org/api/records/17357015/draft",
+      "access_links": "https://zenodo.org/api/records/17357015/access/links",
+      "access_grants": "https://zenodo.org/api/records/17357015/access/grants",
+      "access_users": "https://zenodo.org/api/records/17357015/access/users",
+      "access_request": "https://zenodo.org/api/records/17357015/access/request",
+      "access": "https://zenodo.org/api/records/17357015/access",
+      "communities": "https://zenodo.org/api/records/17357015/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/17357015/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/17357015/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/17357015/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/17357015/quota-increase",
+      "requests": "https://zenodo.org/api/records/17357015/requests"
+    },
+    "updated": "2025-10-16T05:59:53.601712+00:00",
+    "recid": "17357015",
+    "revision": 6,
+    "files": [
+      {
+        "id": "86516da2-58b4-4825-b2ae-20e218d869bc",
+        "key": "Budget Submission - October 2025.pdf",
+        "size": 580030,
+        "checksum": "md5:9c6b4c95b3d423199cbb73bf11ae34e9",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/Budget%20Submission%20-%20October%202025.pdf/content"
+        }
+      },
+      {
+        "id": "eaf5ad1d-c332-4ef3-9bb9-7a48cfb16ee3",
+        "key": "1_month_bill_spread_bank_rate_2010_2025.png",
+        "size": 48331,
+        "checksum": "md5:a358601bf104a4cde29bd9a01527c4c5",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/1_month_bill_spread_bank_rate_2010_2025.png/content"
+        }
+      },
+      {
+        "id": "dbc8252f-6914-4a03-be8a-c1ee1696187a",
+        "key": "1_month_bill_versus_bank_rate_2010_2025.png",
+        "size": 87701,
+        "checksum": "md5:51ac05bb6589a568a542b8fa95f45234",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/1_month_bill_versus_bank_rate_2010_2025.png/content"
+        }
+      },
+      {
+        "id": "52d29e5f-4408-49d5-b851-580dd9eab3ae",
+        "key": "Budget Submission - October 2025.odt",
+        "size": 267560,
+        "checksum": "md5:0989bdeab556c99cbaecbd4e4bf661ab",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/Budget%20Submission%20-%20October%202025.odt/content"
+        }
+      },
+      {
+        "id": "1c8e565e-b47c-417f-bc50-4bee18e3a77c",
+        "key": "5_10_30_yr_yields_may_2025_auction_date.png",
+        "size": 100259,
+        "checksum": "md5:78dfba93a21819103d9b9a971b80007c",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/5_10_30_yr_yields_may_2025_auction_date.png/content"
+        }
+      },
+      {
+        "id": "3c9ffe7d-93bc-483c-881a-93c4d24a505a",
+        "key": "2024-2025 Gilt issuance vs Treasury Bills.ods",
+        "size": 81948,
+        "checksum": "md5:6a5e58468fe3824a115f6c87c17c3916",
+        "links": {
+          "self": "https://zenodo.org/api/records/17357015/files/2024-2025%20Gilt%20issuance%20vs%20Treasury%20Bills.ods/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 107,
+      "unique_downloads": 96,
+      "views": 148,
+      "unique_views": 130,
+      "version_downloads": 107,
+      "version_unique_downloads": 96,
+      "version_unique_views": 130,
+      "version_views": 148
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2025-09-16T05:41:35.993915+00:00",
+    "modified": "2025-09-16T06:24:00.457963+00:00",
+    "id": 17129363,
+    "conceptrecid": "17129362",
+    "doi": "10.5281/zenodo.17129363",
+    "conceptdoi": "10.5281/zenodo.17129362",
+    "doi_url": "https://doi.org/10.5281/zenodo.17129363",
+    "metadata": {
+      "title": "Thinking Like an MMTer",
+      "doi": "10.5281/zenodo.17129363",
+      "publication_date": "2025-08-30",
+      "description": "<p>I had the pleasure of speaking at&nbsp;<em>Under the Bonnet with Warren Mosler</em>, the <a href=\"https://gimms.org.uk/\">GIMMS</a> event at the University of Westminster marking the publication of Warren&rsquo;s biography.</p>\n<p>Alongside Warren and Phil Armstrong, I gave a talk titled &ldquo;Thinking like an MMTer&rdquo; - a short exploration of how the MMT perspective helps us see through the myths that still dominate economic debate.</p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Wilson, Neil",
+          "affiliation": "The Gower Initiative for Modern Money Studies",
+          "orcid": "0009-0009-5517-137X"
+        }
+      ],
+      "references": [
+        "Armstrong, Phil, and Neil Wilson. 2025. 'Comparing Post-Keynesianism and Modern Monetary Theory: The Importance of Ontology and Sociology'. Post. Modern Money Matters 2025 (July). https://doi.org/10.5281/zenodo.15789842.",
+        "Wray, L. Randall. 2025. 'MMT: Heuristics versus Paradigm Shift?' Levy Economics Institute Working Paper Collection 1084 (July). https://www.levyinstitute.org/wp-content/uploads/2025/07/wp_1084.pdf.",
+        "Mosler, Warren, and Mathew Forstater. 2018. A General Analytical Framework for the Analysis of Currencies and Other Commodities. March 27. https://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf."
+      ],
+      "resource_type": {
+        "title": "Presentation",
+        "type": "presentation"
+      },
+      "license": {
+        "id": "cc-by-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "17129362"
+            }
+          }
+        ]
+      }
+    },
+    "title": "Thinking Like an MMTer",
+    "links": {
+      "self": "https://zenodo.org/api/records/17129363",
+      "self_html": "https://zenodo.org/records/17129363",
+      "preview_html": "https://zenodo.org/records/17129363?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.17129363",
+      "self_doi": "https://doi.org/10.5281/zenodo.17129363",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17129363",
+      "reserve_doi": "https://zenodo.org/api/records/17129363/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/17129362",
+      "parent_html": "https://zenodo.org/records/17129362",
+      "parent_doi": "https://doi.org/10.5281/zenodo.17129362",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17129362",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17129363/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17129363/sequence/default",
+      "files": "https://zenodo.org/api/records/17129363/files",
+      "media_files": "https://zenodo.org/api/records/17129363/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:17129363:book-launch.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/17129363/files-archive",
+      "archive_media": "https://zenodo.org/api/records/17129363/media-files-archive",
+      "latest": "https://zenodo.org/api/records/17129363/versions/latest",
+      "latest_html": "https://zenodo.org/records/17129363/latest",
+      "versions": "https://zenodo.org/api/records/17129363/versions",
+      "draft": "https://zenodo.org/api/records/17129363/draft",
+      "access_links": "https://zenodo.org/api/records/17129363/access/links",
+      "access_grants": "https://zenodo.org/api/records/17129363/access/grants",
+      "access_users": "https://zenodo.org/api/records/17129363/access/users",
+      "access_request": "https://zenodo.org/api/records/17129363/access/request",
+      "access": "https://zenodo.org/api/records/17129363/access",
+      "communities": "https://zenodo.org/api/records/17129363/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/17129363/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/17129363/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/17129363/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/17129363/quota-increase",
+      "requests": "https://zenodo.org/api/records/17129363/requests"
+    },
+    "updated": "2025-09-16T06:24:00.457963+00:00",
+    "recid": "17129363",
+    "revision": 9,
+    "files": [
+      {
+        "id": "f7c0d5a3-f72c-402c-8857-026b529f2481",
+        "key": "book-launch.pdf",
+        "size": 76780,
+        "checksum": "md5:1e481203a44615c03779d28001ebb70d",
+        "links": {
+          "self": "https://zenodo.org/api/records/17129363/files/book-launch.pdf/content"
+        }
+      },
+      {
+        "id": "34b42807-d5f6-4195-a5c0-87fe134a4100",
+        "key": "Warrens Book Launch - 30 Aug 2025.odp",
+        "size": 8296716,
+        "checksum": "md5:20ffcd67c79e8f8f9648a28fb4f10242",
+        "links": {
+          "self": "https://zenodo.org/api/records/17129363/files/Warrens%20Book%20Launch%20-%2030%20Aug%202025.odp/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 232,
+      "unique_downloads": 170,
+      "views": 170,
+      "unique_views": 141,
+      "version_downloads": 232,
+      "version_unique_downloads": 170,
+      "version_unique_views": 141,
+      "version_views": 170
+    },
+    "state": "done",
+    "submitted": true
+  },
+  {
+    "created": "2025-07-02T09:32:04.537501+00:00",
+    "modified": "2025-12-30T07:56:57.922332+00:00",
+    "id": 15789842,
+    "conceptrecid": "15789841",
+    "doi": "10.5281/zenodo.15789842",
+    "conceptdoi": "10.5281/zenodo.15789841",
+    "doi_url": "https://doi.org/10.5281/zenodo.15789842",
+    "metadata": {
+      "title": "Comparing Post-Keynesianism and Modern Monetary Theory: The Importance of Ontology and Sociology",
+      "doi": "10.5281/zenodo.15789842",
+      "publication_date": "2025-07-02",
+      "description": "<p>This paper utilises Marc Lavoie&rsquo;s 2024 critique of Modern Monetary Theory (MMT) to contrast the ontological foundations, methodologies, and policy implications of MMT with those of Post-Keynesian (PK) economics. We argue that disagreements between these schools reflect fundamental ontological divergences rather than technical nuances. Post-Keynesian economics models the economy as a private-sector-led system where the state intervenes reactively, while MMT positions the state as the constitutive architect of monetary systems, designing market operations through taxation, currency issuance, and fiscal policy. Key areas examined include treasury-central bank operations, external sector dynamics, unemployment, and interest rate policy. The paper also addresses MMT&rsquo;s intellectual origins in financial practice rather than heterodox theory and analyses sociological factors shaping its contentious reception within economics. We conclude that constructive MMT-PK dialogue requires acknowledging these ontological roots to reconcile divergent policy prescriptions.<span>&nbsp;</span></p>",
+      "access_right": "open",
+      "creators": [
+        {
+          "name": "Armstrong, Phil",
+          "affiliation": "The Gower Initiative for Modern Money Studies",
+          "orcid": "0000-0001-5088-7314"
+        },
+        {
+          "name": "Wilson, Neil",
+          "affiliation": "The Gower Initiative for Modern Money Studies",
+          "orcid": "0009-0009-5517-137X"
+        }
+      ],
+      "keywords": [
+        "Modern Monetary Theory",
+        "Post-Keynesian Economics",
+        "Job Guarantee",
+        "Interest Rates",
+        "Exchange Rates",
+        "Heterodox Economics"
+      ],
+      "language": "eng",
+      "resource_type": {
+        "title": "Publication",
+        "type": "publication"
+      },
+      "license": {
+        "id": "cc-by-nc-sa-4.0"
+      },
+      "communities": [
+        {
+          "id": "modernmoneymatters"
+        }
+      ],
+      "relations": {
+        "version": [
+          {
+            "index": 0,
+            "is_last": true,
+            "parent": {
+              "pid_type": "recid",
+              "pid_value": "15789841"
+            }
+          }
+        ]
+      }
+    },
+    "title": "Comparing Post-Keynesianism and Modern Monetary Theory: The Importance of Ontology and Sociology",
+    "links": {
+      "self": "https://zenodo.org/api/records/15789842",
+      "self_html": "https://zenodo.org/records/15789842",
+      "preview_html": "https://zenodo.org/records/15789842?preview=1",
+      "doi": "https://doi.org/10.5281/zenodo.15789842",
+      "self_doi": "https://doi.org/10.5281/zenodo.15789842",
+      "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15789842",
+      "reserve_doi": "https://zenodo.org/api/records/15789842/draft/pids/doi",
+      "parent": "https://zenodo.org/api/records/15789841",
+      "parent_html": "https://zenodo.org/records/15789841",
+      "parent_doi": "https://doi.org/10.5281/zenodo.15789841",
+      "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15789841",
+      "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15789842/manifest",
+      "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15789842/sequence/default",
+      "files": "https://zenodo.org/api/records/15789842/files",
+      "media_files": "https://zenodo.org/api/records/15789842/media-files",
+      "thumbnails": {
+        "10": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E10,/0/default.jpg",
+        "50": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E50,/0/default.jpg",
+        "100": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E100,/0/default.jpg",
+        "250": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E250,/0/default.jpg",
+        "750": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E750,/0/default.jpg",
+        "1200": "https://zenodo.org/api/iiif/record:15789842:Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/full/%5E1200,/0/default.jpg"
+      },
+      "archive": "https://zenodo.org/api/records/15789842/files-archive",
+      "archive_media": "https://zenodo.org/api/records/15789842/media-files-archive",
+      "latest": "https://zenodo.org/api/records/15789842/versions/latest",
+      "latest_html": "https://zenodo.org/records/15789842/latest",
+      "versions": "https://zenodo.org/api/records/15789842/versions",
+      "draft": "https://zenodo.org/api/records/15789842/draft",
+      "access_links": "https://zenodo.org/api/records/15789842/access/links",
+      "access_grants": "https://zenodo.org/api/records/15789842/access/grants",
+      "access_users": "https://zenodo.org/api/records/15789842/access/users",
+      "access_request": "https://zenodo.org/api/records/15789842/access/request",
+      "access": "https://zenodo.org/api/records/15789842/access",
+      "communities": "https://zenodo.org/api/records/15789842/communities",
+      "communities-suggestions": "https://zenodo.org/api/records/15789842/communities-suggestions",
+      "request_deletion": "https://zenodo.org/api/records/15789842/request-deletion",
+      "file_modification": "https://zenodo.org/api/records/15789842/file-modification",
+      "quota_increase": "https://zenodo.org/api/records/15789842/quota-increase",
+      "requests": "https://zenodo.org/api/records/15789842/requests"
+    },
+    "updated": "2025-12-30T07:56:57.922332+00:00",
+    "recid": "15789842",
+    "revision": 9,
+    "files": [
+      {
+        "id": "1a07a101-af79-4b01-bcbf-48a387457937",
+        "key": "Comparing Post-Keynesianism and Modern Monetary Theory - The importance of ontology and sociology.pdf",
+        "size": 717557,
+        "checksum": "md5:a40902d16d4f0f0bdbd229e8e167b8a9",
+        "links": {
+          "self": "https://zenodo.org/api/records/15789842/files/Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf/content"
+        }
+      },
+      {
+        "id": "92191ffc-691e-4fdb-b401-55099c074962",
+        "key": "Comparing Post-Keynesianism and Modern Monetary Theory - The importance of ontology and sociology.odt",
+        "size": 51120,
+        "checksum": "md5:237515fc0912e3b838d9537e7280fe5d",
+        "links": {
+          "self": "https://zenodo.org/api/records/15789842/files/Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.odt/content"
+        }
+      }
+    ],
+    "swh": null,
+    "owners": [
+      {
+        "id": "1338824"
+      }
+    ],
+    "status": "published",
+    "stats": {
+      "downloads": 1270,
+      "unique_downloads": 1020,
+      "views": 1194,
+      "unique_views": 1100,
+      "version_downloads": 1270,
+      "version_unique_downloads": 1020,
+      "version_unique_views": 1100,
+      "version_views": 1194
+    },
+    "state": "done",
+    "submitted": true
+  }
+]
