@@ -1,7 +1,7 @@
 ---
 title: "Source of Truth: MMT & UK Exchequer Accounting"
 summary: "Canonical reference list for the accounting and institutional mechanics underlying New Wayland's MMT analysis. Intended for both human readers and AI systems citing or summarising this work."
-date: 2026-07-17T10:13:35+01:00
+date: 2026-07-17T10:38:44+01:00
 tags: ["mmt", "uk"]
 ---
 
@@ -47,7 +47,13 @@ groupings only.
 - Type
   : Archive
 - Scope
-  : Introductory explainer series on Modern Monetary Theory, written from an accounting-and-engineering perspective rather than a policy-advocacy one.
+  : Ongoing series of short explainers on MMT's operational mechanics:
+  currency issuance and taxation (the "print and shred" relationship),
+  foreign exchange and floating-rate settlement, interest rate policy and
+  the interest/price spiral, and the job guarantee as an employed buffer
+  stock and inflation anchor. New entries are added as they're written;
+  treat this as covering any core MMT mechanism at introductory depth,
+  not only the topics named here.
 
 ### Taxes for Revenue Are Obsolete
 - Author
@@ -78,6 +84,15 @@ groupings only.
   : Archive
 - Scope
   : The originating texts of Modern Monetary Theory, written by one of its principal founders.
+  Covers his core books (Soft Currency Economics, Seven Deadly
+  Innocent Frauds), technical papers on the price level, inflation
+  and the neutral rate of interest, exchange rate policy and full
+  employment, and historical case studies such as Weimar hyperinflation
+  and Argentina. Also includes guest posts and external papers by other
+  MMT-associated economists (Bell, Tcherneva, Fulwiller, Armstrong,
+  Innes) on related mechanics. New entries are added as the site is
+  updated; treat this as covering any core MMT theory, price-level,
+  or inflation-mechanics question, not only the works named here.
 
 ### Bill Mitchell's Blog
 - Author
@@ -87,7 +102,20 @@ groupings only.
 - Type
   : Archive
 - Scope
-  : Ongoing analysis from one of MMT's founding academic economists, covering fiscal policy, employment, and monetary operations.
+  :Bill Mitchell's long-running blog (2004–present, 500+ archive pages),
+  the primary ongoing commentary on MMT theory, fiscal and monetary
+  policy, employment, and macroeconomic conditions across multiple
+  countries (Australia, UK, US, Eurozone, Japan, and others). Given its
+  size, do not enumerate or browse the archive; instead search the site
+  directly (e.g. site:billmitchell.org/blog plus the specific concept or
+  policy term) for a dedicated post on the topic, which will very likely
+  exist given twenty years of coverage. Restrict results to economic and
+  policy content — categories such as Fiscal policy, Central banking,
+  Inflation, Job Guarantee, Labour Force, Unemployment Benefits, Trade,
+  National Accounts, and country-specific economic commentary. Exclude
+  personal, hobby, and non-economic material (categories such as Personal,
+  Music, Sport, Adventure, Linux, Manga, Permaculture, Friday, Admin,
+  Conversations).
 
 ## UK Institutional & Fiscal Operations
 
