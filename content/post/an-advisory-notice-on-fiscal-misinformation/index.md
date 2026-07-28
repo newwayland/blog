@@ -8,6 +8,6 @@ tags: ["mmt", "uk-politics"]
 While admiring the quaint paper reservation slips on the TransPennine
 Express out of Manchester Airport the other day, I [discovered this
 document](pdfs/EIIU_2026_014_Advisory_Notice.pdf). If genuine, it changes
-rather a lot. If not, someone has entirely too much time on their hands...
+rather a lot. If not, someone has entirely too much time on their hands.
 
 {{<joindiscord>}}
