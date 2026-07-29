@@ -3,7 +3,6 @@ title: "Labour Wants More Batley Grammar Schools"
 summary: "Labour's 2024 election pledges means we're going to get more Batley Grammar Schools"
 date: 2024-06-02T09:29:13+01:00
 tags: [election2024, education]
-
 ---
 The Conservative Party struggles to critique Labour's proposal to
 recruit 6,500 "new" teachers because [they are stuck][1] in the outdated

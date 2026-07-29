@@ -2,7 +2,6 @@
 title: "UK MMT Conference 2024 - Preliminary Schedule Now Available"
 date: 2024-05-21T12:51:18+01:00
 tags: [mmt, uk, conference]
-
 ---
 
 The programme schedule is now available [on the conference website.](https://mmtconference.uk)

@@ -4,7 +4,6 @@ title: "The Indivisibility Issue"
 date: 2020-08-09T09:25:21+01:00
 summary: "Modern money shows how wage values can drop below goods values"
 tags: [mmt, models, mosler]
-
 ---
 
 A useful, and irritating, thing about computer systems is that you have to tell them precisely what to do or they won't do it. No amount of cajoling, persuasion techniques, nudge theory or other New Wave beliefs will fix a Segmentation Fault. You have to be more precise in your instructions to the machine.

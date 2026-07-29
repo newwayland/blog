@@ -3,7 +3,6 @@ title: "Budget Day 2021"
 date: 2021-03-03T05:41:35Z
 summary: "It's budget day here in the UK, and traditionally that means commentators write what they would do instead. Here's the MMT view"
 tags: [mmt, budget]
-
 ---
 
 {{<figure src="budget-box.jpg" alt="Gladstone Knew How Book Debt Worked">}}

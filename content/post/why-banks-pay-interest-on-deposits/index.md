@@ -4,7 +4,6 @@ title: "Why Banks Pay Interest on Deposits"
 summary: "How the central bank setting interest rates above zero forces banks to pay interest on deposits"
 date: 2020-11-08T03:41:06Z
 tags: [mmt, banks]
-
 ---
 
 If banks create money out of nothing, and loans create deposits, then why do banks pay interest to depositors?

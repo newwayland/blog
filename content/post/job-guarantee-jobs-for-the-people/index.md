@@ -3,7 +3,6 @@ title: "Job Guarantee: Jobs for the People"
 summary: "How the Job Guarantee solves the matching problem"
 date: 2016-12-03T19:07:44Z
 tags: [mmt, jg, archive]
-
 ---
 
 {{<figure src="job-guarantee.png" alt="Job Guarantee">}}

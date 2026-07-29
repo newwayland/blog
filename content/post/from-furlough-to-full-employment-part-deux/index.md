@@ -4,7 +4,6 @@ title: "From Furlough to Full Employment: Part Deux"
 date: 2020-07-14T08:26:40+01:00
 summary: "Overview of a UK Job Guarantee"
 tags: [mmt, jg]
-
 ---
 
 The idea is to provide real people with the ability to sell their hours automatically.

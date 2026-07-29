@@ -4,7 +4,6 @@ title: "Revealed: The Simple Change That Breaks Mainstream Macro"
 date: 2020-07-28T11:11:43+01:00
 summary: "Price competition breaks peer reviewed mainstream agent model"
 tags: [models, mmt, mainstream, abm]
-
 ---
 
 As regular visitors to the [New Wayland Discord Forum](https://discord.gg/JN6HKUd) will know, I've been working on [replicating a mainstream Baseline Model](https://github.com/newwayland/baseline-economy) (Lengnick, Matthias. (2013). Agent-based macroeconomics: A baseline model. Journal of Economic Behavior & Organization. 86.10.1016/j.jebo.2012.12.021). There are [quite a few issues](https://github.com/newwayland/baseline-economy/blob/master/notes/issues.md) with it technically but it is a good starting point.

@@ -3,7 +3,6 @@ title: "MMT Verify: Will Investors Shun Government Debt?"
 date: 2023-07-16T08:39:05+01:00
 summary: "There is no risk that interest rates on UK government debt will reach crippling levels.  Interest rates are policy variables.  Paying interest is a political choice. Betteridge's law of headlines applies."
 tags: [mmt, verify, bonds, borrowing, banks, central-bank, uk]
-
 ---
 In response to a [report by the UK Office of Budget Responsibility][1][^1] UK Journalist Robert Peston [tweeted the following opinion][2]: 
 

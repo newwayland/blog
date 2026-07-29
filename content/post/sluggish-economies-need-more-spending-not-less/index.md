@@ -3,7 +3,6 @@ title: "Sluggish Economies Need More Spending, Not Less"
 date: 2024-12-29T08:44:07Z
 summary: "Stop stalling: why bold public investment, not austerity, is the key to economic recovery"
 tags: [article]
-
 ---
 Journalist Jeremy Warner [recently argued][1] that further tax rises
 under the current Labour government would exacerbate the UK’s economic

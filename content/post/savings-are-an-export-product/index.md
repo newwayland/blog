@@ -3,8 +3,7 @@
 title: "Savings Are an Export Product"
 summary: "Things make a lot more sense when you realise other currency areas love your savings products — a lot"
 date: 2017-05-05T21:11:04+01:00
-tags: [archive, mmt, exports, imports, external sector]
-
+tags: [archive, mmt, exports, imports, external-sector]
 ---
 
 {{<figure src="savings.jpg" alt="Savings">}}

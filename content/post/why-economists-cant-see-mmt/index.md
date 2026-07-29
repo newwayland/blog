@@ -4,7 +4,6 @@ title: "Why Economists Can't See MMT"
 date: 2020-08-08T07:42:53+01:00
 summary: "The MMT Balance Sheet View in a nutshell"
 tags: [mmt, balancesheet, banking]
-
 ---
 
 One of the most challenging things you have to do when analysing systems is to really understand the customer's point of view. We call it "obtaining Domain knowledge". Ideally you want to see the world through the other person's eyes so you can see the problems they are having and discover the best way to solve them.

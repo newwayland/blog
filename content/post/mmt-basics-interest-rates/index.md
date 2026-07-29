@@ -2,8 +2,7 @@
 title: "MMT Basics: Interest Rates"
 date: 2023-06-26T08:21:45+01:00
 summary: "Bill Mitchell explains how MMT sees the effect of Interest Rate changes on the economy"
-tags: [mmt-basics, interest rates]
-
+tags: [mmt-basics, interest-rates]
 ---
 
 MMT sees interest rate changes as unnecessary. When they are changed they are changed for political distributional purposes, not for economic stability purposes, as [Bill Mitchell explains][1]

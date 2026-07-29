@@ -3,7 +3,6 @@ title: "The Russian Rouble Get Out Clause"
 date: 2022-04-18T10:37:35+01:00
 summary: "Since 2018 Russia has had an alternative payment clause in its Eurobond contracts that allows it to pay principal and interest in Roubles"
 tags: [russia, rouble, eurobonds, bonds, sanctions]
-
 ---
 
 I stumbled across an [interesting post today](https://debtandforeignpolicy.wordpress.com/2019/05/29/alternative-payment-currency-event-clauses-in-russian-sovereign-eurobonds/) from a few years ago discussing Sovereign Russian Eurobonds. Eurobonds are bonds that are issued in denominations other than Roubles, rather than just the ones denominated in Euros. (Yes it is confusing). Russian Eurobonds really came into their own after the rounds of sanctions from 2014 onwards prevented investors investing in Russian rouble denominated bonds. However the underying reason for issuing them is more interesting.

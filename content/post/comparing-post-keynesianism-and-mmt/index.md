@@ -2,11 +2,11 @@
 title: "MMT and Post-Keynesian Economics: A New Paper on Ontological Differences"
 date: 2025-07-08T12:25:13+01:00
 summary: "Our new paper explores the fundamental disagreements between Modern Monetary Theory and Post-Keynesian economics, arguing they stem from deep-seated ontological differences"
-tags: [ "mmt", "jg", "Post-Keynesian Economics", "Ontology", "Economic Sociology", "Consolidated Accounting", "Interest Rates", "Exchange Rates", "Heterodox Economics" ]
+tags: [mmt, jg, post-keynesian-economics, ontology, economic-sociology, consolidated-accounting, interest-rates, exchange-rates, heterodox-economics]
 params:
   citation:
     title: "Comparing Post-Keynesianism and Modern Monetary Theory: The Importance of Ontology and Sociology"
-    author: [ "Armstrong, Phil", "Wilson, Neil" ]
+    author: ["Armstrong, Phil", "Wilson, Neil"]
     publication_date: "2025/07/02"
     journal: "Modern Money Matters"
     volume: "2025"
@@ -14,8 +14,6 @@ params:
     doi: "10.5281/zenodo.15789841"
     abstract_url: "https://zenodo.org/records/15789842"
     pdf_url: "https://zenodo.org/records/15789842/files/Comparing%20Post-Keynesianism%20and%20Modern%20Monetary%20Theory%20-%20The%20importance%20of%20ontology%20and%20sociology.pdf?download=1"
-    
-
 ---
 
 ## Comparing Post-Keynesianism and Modern Monetary Theory: The Importance of Ontology and Sociology

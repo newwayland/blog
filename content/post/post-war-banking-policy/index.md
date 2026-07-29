@@ -4,7 +4,6 @@ title: "Post War Banking Policy"
 date: 2020-07-03T08:54:18+01:00
 summary: "From the archives: Post War Banking Policy - Reginald McKenna"
 tags: [banking, mmt, archive, references]
-
 ---
 
 {{<figure src="post-war-banking.jpg" alt="Post War Banking">}}

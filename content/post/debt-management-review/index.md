@@ -2,7 +2,7 @@
 title: "Time for a Debt Management Review"
 date: 2025-01-12T12:38:07Z
 summary: "If we're going to have government debt, then it's time to retire Thatcher-era monetarism and adopt a modern, cost-efficient approach to its management."
-
+tags: []
 ---
 
 Recent headlines have painted an alarmist picture of the UK's debt

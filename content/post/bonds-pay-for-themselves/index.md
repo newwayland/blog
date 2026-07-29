@@ -4,8 +4,7 @@ title: "Bonds Pay for Themselves"
 date: 2020-07-17T13:35:11+01:00
 summary: "Why there is no need to raise taxes just because more government bonds have been issued"
 hasMath: true
-tag: [mmt, bonds]
-
+tags: [mmt, bonds]
 ---
 
 I note that the Hard of Accounting are out in force again pushing their fallacious line that Taxes Must Rise because we decided to use government to save the economy in the face of a nasty pandemic.

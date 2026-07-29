@@ -4,7 +4,6 @@ title: "Victory to MMT"
 summary: "Another neoliberal throws in the towel in the face of unassailable facts and logic"
 date: 2020-11-07T06:26:43Z
 tags: [mmt, comment]
-
 ---
 ![Win](https://upload.wikimedia.org/wikipedia/commons/2/26/Canada2010WinterOlympicsOTcelebration.jpg)
 With his article [Sadly, it's a complete myth that Britain can't afford

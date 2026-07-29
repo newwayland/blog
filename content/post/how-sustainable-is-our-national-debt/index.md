@@ -2,8 +2,7 @@
 title: "How Sustainable is our National Debt?"
 date: 2024-03-12T17:48:59Z
 summary: "GIMMS response to the The UK House of Lords Economic Affairs Committee inquiry"
-tag: [mmt, national debt, bonds]
-
+tags: [mmt, national debt, bonds]
 ---
 
 The UK House of Lords Economic Affairs Committee is [running an inquiry][6]

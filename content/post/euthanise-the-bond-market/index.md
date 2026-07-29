@@ -3,7 +3,6 @@ title: "Euthanise the Bond Market: Why It's Time to End the Reign of the Money C
 date: 2024-12-01T11:10:56Z
 tags: [article]
 summary: "The UK gilt market turmoil exposes the bond market as an outdated relic. Far from enforcing fiscal discipline, it serves no public purpose. It's time to modernise public finance and end the myth of 'bond vigilantes'."
-
 ---
 
 The bond market has long been hailed as a vital cog in the machinery of

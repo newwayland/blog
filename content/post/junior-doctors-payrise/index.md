@@ -2,9 +2,8 @@
 title: "Junior Doctors: your 35% payrise is already in place. Demand that it be paid"
 date: 2024-07-07T08:19:06+01:00
 summary: "Junior Doctors need to enforce their equal pay rights to get the pay they deserve."
-
+draft: true
 tags: [uk, nhs, healthcare]
-
 ---
 The strike action by UK junior doctors has an unreal quality. It lacks the media and political actions necessary to build support for the argument and force the government’s hand. You start to wonder whether the strike action leaders are interested in securing appropriate pay for foundation doctors or whether they are just part of the ‘Tories out’ movement. Therefore, the upcoming discussions with the new Health Secretary will be interesting, and where we may just discover the true motives behind the strike action.
 

@@ -4,7 +4,6 @@ title: "Uber Under a Job Guarantee"
 summary: "Six years in court to get the minimum wage isn't acceptable. People need a guarantee of a living wage job. Here's how Uber would fare againt a Job Guarantee."
 date: 2021-02-20T08:31:48Z
 tags: [mmt, jg]
-
 ---
 
 {{<figure src="taxi-cabs.jpg" alt="Taxi Cabs">}}

@@ -2,8 +2,7 @@
 title: "The Limits of Taxation"
 date: 2025-04-01T12:22:37+01:00
 summary: "Exploring the role of taxation in the UK's monetary system, this article examines HMRC's enforcement powers, and the physical limits of tax collection"
-tags: ["mmt", "taxation", "uk", "Fiscal Policy"]
-
+tags: [mmt, taxation, uk, fiscal-policy]
 ---
 ## The Role of Taxation in the UK's Monetary System
 

@@ -2,8 +2,7 @@
 title: "Rouble Rumble Continues"
 date: 2022-03-31T19:02:59+01:00
 summary: "Journalists really should take some time to learn how correspondent banking works"
-tags: [mmt, fx, russia, rouble, central bank, export, import, external sector]
-
+tags: [mmt, fx, russia, rouble, central-bank, export, import, external-sector]
 ---
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazprom_HQ_1.jpg" alt="Gazprom HQ 1">}}
 

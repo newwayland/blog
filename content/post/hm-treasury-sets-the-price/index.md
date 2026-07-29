@@ -3,7 +3,6 @@ title: "HM Treasury sets the price, not The Market"
 date: 2022-09-19T14:52:57+01:00
 summary: "Today we discuss the errors of thinking in the article: ‘Trussonomics’ has put the PM on a collision course with the Bank of England"
 tags: [mmt, warner-watch]
-
 ---
 
 {{<figure src="flashing-light.jpg" alt="Warner Watch">}}

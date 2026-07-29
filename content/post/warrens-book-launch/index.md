@@ -3,7 +3,6 @@ title: "'Under the Bonnet' Book Launch - Slides"
 date: 2025-08-31T06:54:10+01:00
 summary: "The slides from my 'Thinking like an MMTer' talk at Warren's Book Launch event"
 tags: [mmt]
-
 ---
 
 Yesterday I had the pleasure of speaking at *Under the Bonnet with Warren

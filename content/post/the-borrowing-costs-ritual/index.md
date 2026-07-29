@@ -2,19 +2,7 @@
 title: "The 'Borrowing Costs' Ritual"
 date: 2026-05-20T14:49:48+01:00
 summary: "Britain’s supposed ‘borrowing crisis’ says less about financial necessity than about a political class still trapped inside the rituals and superstitions of a pre-floating exchange rate world."
-tags:
-  - mmt
-  - bonds
-  - borrowing
-  - Interest Rates
-  - Fiscal Policy
-  - central-bank
-  - Bank of England
-  - uk
-  - uk politics
-  - mainstream
-  - article
-  - warner-watch
+tags: [mmt, bonds, borrowing, interest-rates, fiscal-policy, central-bank, bank-of-england, uk, uk-politics, mainstream, article, warner-watch]
 ---
 
 

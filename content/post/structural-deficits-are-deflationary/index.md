@@ -3,7 +3,6 @@ title: "Structural Deficits Are Deflationary"
 date: 2023-08-17T12:22:32+01:00
 tags: [deficit-spending, structural-deficit, spending]
 summary: "There is far more inflationary pressure from government spending that causes an increase in taxes than from deficit spending"
-
 ---
 Reading and analysing economists' articles from an MMT viewpoint can be interesting if only to see where they go wrong.
 

@@ -2,8 +2,7 @@
 title: "Beyond the 'Bonanza': Unseen Dimensions of the De Grauwe/Ji Reserve Policies"
 date: 2025-02-09T11:35:26Z
 summary: "A critique of De Grauwe and Ji's analysis of the UK reserve system, highlighting aspects of the UK's fiscal framework they have overlooked"
-tags: [article, "Bank of England", "Monetary Policy", "Fiscal Policy", "Cash Management", "Reserves", "Ways and Means Account"]
-
+tags: [article, bank-of-england, monetary-policy, fiscal-policy, cash-management, reserves, ways-and-means-account]
 ---
 
 

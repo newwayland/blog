@@ -1,9 +1,8 @@
 ---
 title: "It's Not MMT Without a Job Guarantee"
 date: 2026-07-15T09:00:00+01:00
-tags: ["mmt-basics", "jg", "mmt"]
+tags: [mmt-basics, jg, mmt]
 summary: "A 2018 comment exchange with Bill Mitchell explaining why the Job Guarantee is a core, non-optional component of MMT."
-
 ---
 
 Every few years someone discovers Modern Monetary Theory, likes the description of how money works, and decides they can keep that part while dropping the Job Guarantee. This exchange, from the comments under a March 2018 Bill Mitchell blog post, explains why that doesn't work — in the words of Bill Mitchell, André, and Neil Wilson.

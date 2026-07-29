@@ -3,7 +3,6 @@ title: "Onward to 100 Nmol/L: Spring Update"
 date: 2021-05-08T03:48:39+01:00
 summary: "Vitamin D personal experiment - update after the winter"
 tags: [covid19, personal]
-
 ---
 
 [Back in August]({{< relref "onward-to-100-nmol" >}}) I

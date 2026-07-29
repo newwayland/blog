@@ -2,8 +2,7 @@
 title: "How Russian Gas Is Paid For"
 date: 2022-04-04T08:54:05+01:00
 summary: "How the new payment process for gas in Russia will work, including how it is settled at the Moscow Exchange, all of which leads to some interesting observations"
-tags: [mmt, russia, central bank, exports, imports, external sector, NCC]
-
+tags: [mmt, russia, central-bank, exports, imports, external-sector, ncc]
 ---
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazprom_HQ_1.jpg" alt="Gazprom HQ 1">}}
 

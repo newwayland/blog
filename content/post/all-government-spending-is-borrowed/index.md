@@ -3,7 +3,6 @@ title: "All Government Spending Is Borrowed, Every Day"
 date: 2022-10-03T07:07:30+01:00
 summary: "When the HM Government buys anything, all the money to pay for it is automatically borrowed from the Bank of England, interest free and without limit"
 tags: [mmt, funding, spending]
-
 ---
 
 How much money is government borrowing? The perennial ‘angels on a pinhead’

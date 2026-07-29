@@ -3,7 +3,6 @@ title: "Gilt issues considered harmful"
 date: 2022-10-28T06:25:19+01:00
 summary: "The public debt markets add less value to national prosperity than their opportunity costs. A proper cost-benefit analysis would conclude that the market should be terminated."
 tags: [bonds, mmt, central-bank]
-
 ---
 
 The title of this blog is a riff on the

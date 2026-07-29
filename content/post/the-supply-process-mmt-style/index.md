@@ -3,7 +3,6 @@ title: "The Supply Process: MMT Version"
 date: 2021-11-10T08:17:40Z
 summary: "An overview of the way MMT sees the government procurement process"
 tags: [procurement, overview, mmt]
-
 ---
 
 {{<figure src="supply-estimate.png" alt="Supply Estimate Cover">}}

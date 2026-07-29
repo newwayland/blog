@@ -3,7 +3,6 @@ title: "How Much Is Government Borrowing? A Critique"
 date: 2022-10-04T12:22:47+01:00
 summary: "My favourite BBC article has been rewritten again and more inaccuracies added. Let's go through them."
 tags: [mmt, warner-watch]
-
 ---
 [My favourite BBC article][1] has been rewritten again for the current
 era and has introduced a new set of material inaccuracies. Let’s go

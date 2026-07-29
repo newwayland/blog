@@ -3,7 +3,6 @@ title: "A Tale of Two Nations"
 date: 2022-03-19T05:55:22Z
 summary: "How two nations trade to the benefit of all — allegedly"
 tags: [mmt, export, import, parables, archive]
-
 ---
 
 {{<figure src="two-nations-flags.png" alt="The flags of Importia and Exportia">}}

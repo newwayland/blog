@@ -3,7 +3,6 @@ title: "The Art of the Impossible"
 date: 2022-01-13T06:27:21Z
 summary: "Let's do a couple of impossible things with the UK monetary system. All without requiring a single change to the legislation"
 tags: [mmt, uk-accounting-study]
-
 ---
 
 {{<figure src="matrix.jpg" alt="The Matrix">}}

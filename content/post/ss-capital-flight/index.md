@@ -2,8 +2,7 @@
 title: 'Sophistry or Shibboleth? - "Capital Flight"'
 date: 2023-07-18T07:50:03+01:00
 summary: "Time for another exercise in mythbusting. It turns out it is very difficult for something that cannot move to fly. Who knew?"
-tags: [mmt, sophistry-or-shibboleth, capital-flight, bonds, FX]
-
+tags: [mmt, sophistry-or-shibboleth, capital-flight, bonds, fx]
 ---
 Framing tricks and controlling the narrative are the base tools of neoliberal economics.
 One character that pops up regularly is the Fickle, Flighty Foreigner.

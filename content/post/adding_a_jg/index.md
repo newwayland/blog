@@ -4,7 +4,6 @@ title: "Adding a JG to the Baseline Model"
 date: 2020-08-28T09:33:39+01:00
 summary: "Algorithm changes required to the Baseline Model to support a Job Guarantee"
 tags: [mmt, jg, models]
-
 ---
 
 I've added a branch to the [Baseline Model][3] code to support the Job

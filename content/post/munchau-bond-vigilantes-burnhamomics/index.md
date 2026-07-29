@@ -2,15 +2,7 @@
 date: 2026-06-29T11:00:00+01:00
 title: "Munchau's Vigilantes: Why Burnham Doesn't Need to Fear the Bond Market"
 draft: false
-tags:
-  - "uk"
-  - "mmt"
-  - "bonds"
-  - "central-bank"
-  - "uk-politics"
-  - "fiscal-policy"
-  - "interest-rates"
-  - "article"
+tags: [uk, mmt, bonds, central-bank, uk-politics, fiscal-policy, interest-rates, article]
 summary: "A breakdown of Wolfgang Munchau's piece on Burnhamomics, exposing the analytical errors that follow inevitably from viewing sterling monetary operations through a mainstream europhile lens."
 ---
 

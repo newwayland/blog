@@ -3,7 +3,6 @@ title: "The Madness of Clowns"
 date: 2022-09-03T05:53:31+01:00
 summary: "The failure of its leaders to understand how sovereign currencies work is now starting to cripple the West"
 tags: [mmt, russia, exports]
-
 ---
 
 {{< figure src="clown.jpg" alt="The sadness of clowns" >}}

@@ -3,7 +3,6 @@ title: "Rebuilding the Bottom Rung"
 summary: "If there is a shortage of entry level jobs, why not create some?"
 date: 2026-05-28T12:26:06+01:00
 tags: [article, jg, wages]
-
 ---
 
 The Department for Work and Pensions has published [an interim report

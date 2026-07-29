@@ -2,7 +2,7 @@
 title: "The Reserve Requirements Fad: A Solution in Search of a Problem"
 date: 2025-01-19T10:47:47Z
 summary: "Reserve requirements are the latest economic fad, but do they actually solve anything? Let's break down the myths and explains why the UK banking system is (slowly) returning to what worked for centuries."
-
+tags: []
 ---
 ### The Latest Epicycle in Interest Rate Mythology
 

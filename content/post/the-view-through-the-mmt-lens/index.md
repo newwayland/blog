@@ -4,7 +4,6 @@ title: "The View Through the MMT Lens"
 date: 2020-07-26T11:04:43+01:00
 summary: "Hierarchical structure of banking as described by Modern Money Theory"
 tags: [mmt, banking]
-
 ---
 
 MMT is a way of looking at the financial part of the economy from a different point of view. It is often described as a Lens you can look through to see things that hither too have not been made clear.

@@ -3,8 +3,7 @@
 title: "This is how You Abolish Tuition Fees"
 summary: "Student debt is another set of debt that isn't really a debt. So just cancel it all"
 date: 2016-07-16T17:54:43+01:00
-tags: [archive, mmt, tuition fees]
-
+tags: [archive, mmt, tuition-fees]
 ---
 
 {{<figure src="tuition-fees.jpg" alt="Tuition Fees">}}

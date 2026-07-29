@@ -2,7 +2,7 @@
 title: "An Advisory Notice on Fiscal Misinformation"
 date: 2026-07-28T13:03:21+01:00
 summary: "Discovered on the TransPennine Express out of Manchester Airport. If genuine, it changes rather a lot. If not, someone has entirely too much time on their hands."
-tags: ["mmt", "uk-politics"]
+tags: [mmt, uk-politics]
 ---
 
 While admiring the quaint paper reservation slips on the TransPennine

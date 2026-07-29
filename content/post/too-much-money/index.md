@@ -3,7 +3,6 @@ title: "The 'Too Much Money Chasing Too Few Goods' Myth"
 date: 2021-05-11T14:23:52+01:00
 summary: "Nothing shows up the bankruptcy of mainstream economic education more than its soundbites"
 tags: [money, mmt]
-
 ---
 
 The Inflationistas are revolting. Their ratio beliefs have been violated and in paroxysms of anguish they bring forth their incantations:

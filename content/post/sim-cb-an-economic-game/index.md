@@ -3,7 +3,6 @@ title: "Sim CB - An Economic Game"
 date: 2022-06-18T06:55:10+01:00
 summary: "Sim CB is a new economic simulation game, with some interesting MMT outcomes"
 tags: [mmt, models]
-
 ---
 
 {{<figure src="simcb.png" alt="Sim CB screenshot">}}

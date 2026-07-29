@@ -1,10 +1,7 @@
 ---
 title: "It's a Wonderful Life"
 date: 2024-12-23T13:51:19Z
-summary: "George Bailey saves Bedford Falls—again! This blog reimagines
-the bank run with a deeper dive into the monetary system,
-as George uses his newfound financial savvy to outwit Mr. Potter, keep
-the town afloat, and still make it to his honeymoon."
+summary: "George Bailey saves Bedford Falls—again! This blog reimagines the bank run with a deeper dive into the monetary system, as George uses his newfound financial savvy to outwit Mr. Potter, keep the town afloat, and still make it to his honeymoon."
 tags: [mmt, article]
 ---
 

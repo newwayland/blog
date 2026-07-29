@@ -2,18 +2,7 @@
 title: "Sophistry or Shibboleth? - \"Currency Collapse\""
 date: 2026-02-15T07:11:47+00:00
 summary: "Currency Collapse is Codswallop. Why the Currency Crisis Crew have it backwards, yet again."
-tags:
-  - mmt
-  - currency
-  - bonds
-  - uk
-  - interest rates
-  - imports
-  - mainstream
-  - sophistry-or-shibboleth
-  - taxation
-  - politics
-  - FX
+tags: [mmt, currency, bonds, uk, interest-rates, imports, mainstream, sophistry-or-shibboleth, taxation, politics, fx]
 draft: false
 ---
 

@@ -2,11 +2,11 @@
 title: "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law"
 date: 2025-10-02T16:16:38+01:00
 summary: "Under English law, legal tender is a fading procedural defence, not a debt-discharge mandate, as settlements hinge on electronic bank money"
-tags: [ "MMT", "Legal tender", "Monetary law", "Tax obligations", "Payment systems" ]
+tags: [mmt, legal-tender, monetary-law, tax-obligations, payment-systems]
 params:
   citation:
     title: "Legal Tender, Debt, and the Institutional Settlement of Monetary Obligations in English Law"
-    author: [ "Wilson, Neil", "Tye, Richard", "Berkeley, Andrew" ]
+    author: ["Wilson, Neil", "Tye, Richard", "Berkeley, Andrew"]
     publication_date: "2025/09/18"
     journal: "Modern Money Matters"
     volume: "2025"

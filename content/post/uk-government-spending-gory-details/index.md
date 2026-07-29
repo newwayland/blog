@@ -3,7 +3,6 @@ title: "UK Government Spending - The Gory Details"
 summary: "Precisely how Parliamentary authority to spend ends up as a payment in somebody's bank account, including the banking transactions that occur across the Government Banking Service to make that happen."
 date: 2021-02-21T09:57:11Z
 tags: [mmt, payments]
-
 ---
 
 {{<figure src="drawing-on-supply.png" alt="Drawing on Supply">}}

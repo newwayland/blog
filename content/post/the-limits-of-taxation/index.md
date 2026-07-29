@@ -3,7 +3,6 @@ title: "The Limits of Taxation"
 date: 2025-01-05T09:56:17Z
 summary: "Understanding the Physical and Social Constraints of the Public Sector"
 tags: [article]
-
 ---
 Taxation rarely fails to stir debate, particularly in the UK. At its core,
 taxation orchestrates the movement of real-world resources. [By framing

@@ -2,8 +2,7 @@
 title: "GDP Has It Backwards: Why Importing Stuff Isn't 'Shrinking'"
 date: 2025-04-30T14:14:39+01:00
 summary: "The US economy shrank because it bought more things from abroad? That's not shrinkage, that's success measured incorrectly."
-tags: [article, us, exports, ]
-
+tags: [article, us, exports]
 ---
 The [latest figures reported by the US Commerce Department][1] have the
 commentators furrowing their brows.  The American economy apparently

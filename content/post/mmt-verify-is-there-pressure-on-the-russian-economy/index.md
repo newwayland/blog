@@ -2,8 +2,7 @@
 title: "MMT Verify: is there pressure on the Russian Economy?"
 date: 2023-08-14T15:45:46+01:00
 summary: "We've had mostly floating exchange rates for fifty years. You'd think by now people would report using the correct currency"
-tags: [verify, FX, russia, exports]
-
+tags: [verify, fx, russia, exports]
 ---
 With barely suppressed glee, [the BBC reports][3] upon the rouble/US dollar exchange rate:
 

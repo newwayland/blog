@@ -2,7 +2,7 @@
 title: "The Confidence Issue"
 date: 2026-02-11T11:53:52Z
 summary: "Why I think that Starmer is going to be staying exactly where he is for the foreseeable future"
-tags: ["UK", "Law", "Politics"]
+tags: [uk, law, politics]
 draft: false
 ---
 

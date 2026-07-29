@@ -2,8 +2,7 @@
 title: "The Hidden Power of Sovereign Wealth Funds"
 summary: "Sovereign wealth funds let states quietly wield currency power—disguised as prudent investment"
 date: 2025-03-25T10:43:14Z
-tags: [article, FX, "external sector", exports]
-
+tags: [article, fx, external-sector, exports]
 ---
 
 A recent UnHerd article warns of [a "crypto time bomb,"][1] suggesting that

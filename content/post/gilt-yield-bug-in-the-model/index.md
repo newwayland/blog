@@ -1,7 +1,7 @@
 ---
 title: "The 9.6 per cent gilt yield is a bug in the model"
 date: 2026-07-11T07:56:37+01:00
-tags: ["MMT", "OBR", "uk", "bonds", "DMO", "yields", "crowding-out"]
+tags: [mmt, obr, uk, bonds, dmo, yields, crowding-out]
 summary: "The OBR's 9.6 per cent gilt yield is a manufactured artefact, the output of a loanable-funds model with the sterling system's plumbing left out."
 ---
 

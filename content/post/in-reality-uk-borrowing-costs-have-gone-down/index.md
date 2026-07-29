@@ -2,14 +2,7 @@
 title: "In Reality, UK Borrowing Costs Have Gone Down"
 date: 2026-02-16T11:39:59+00:00
 summary: "A 'bond crisis' is upon us, apparently. Break the usual framing and the opposite emerges: borrowing costs have fallen, and the 'crisis' is seen for what it is - manufactured panic serving particular interests."
-tags:
-  - bonds
-  - borrowing
-  - fiscal-policy
-  - interest-rates
-  - mmt
-  - uk
-  - uk-politics
+tags: [bonds, borrowing, fiscal-policy, interest-rates, mmt, uk, uk-politics]
 ---
 For the past fortnight, sections of the British press have staged a
 familiar drama. The script runs as follows: a government in disarray,

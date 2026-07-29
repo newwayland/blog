@@ -1,7 +1,7 @@
 ---
 title: "The Coin's Deposit Problem"
 date: 2021-10-16T08:15:38+01:00
-tags: ['mmt', 'us', 'trillion dollar coin']
+tags: [mmt, us, trillion-dollar-coin]
 summary: "Minting The Coin is one thing; Depositing The Coin entirely another"
 ---
 

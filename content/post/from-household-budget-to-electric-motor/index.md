@@ -1,9 +1,8 @@
 ---
 title: "A Modern Metaphor for the Economy: From Household Budget to Electric Motor"
 date: 2025-11-21T18:05:33+00:00
-tags: ["mmt", "article", "jg", "taxes", "spending"]
+tags: [mmt, article, jg, taxes, spending]
 summary: "Big government or small? Physics doesn't care. Why the economy is an electric motor, and why \"balancing the books\" is the wrong way to drive."
-
 ---
 
 There is a profound confusion at the heart of modern economic debate. We

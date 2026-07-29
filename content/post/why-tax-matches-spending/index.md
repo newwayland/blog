@@ -3,7 +3,6 @@ title: "Why Tax Matches Spending"
 summary: "A bit of multiplier maths so you can impress the neoliberals"
 date: 2021-07-04T08:05:46+01:00
 tags: [mmt, maths, mmt-basics]
-
 ---
 
 We are currently in an environment where people are going around repeating the mantra "more government spending means taxes must go up". 

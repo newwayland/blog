@@ -3,7 +3,6 @@ title: "Halligan's Martian Economics"
 summary: "Another day, another 1976 warning"
 date: 2026-05-17T15:41:27+01:00
 tags: [article, mmt, bonds, politics]
-
 ---
 Much like *Life on Mars*, [Liam Halligan’s writing][1] seems trapped in  
 economic limbo, endlessly replaying the same “Remember 1976”

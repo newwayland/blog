@@ -2,8 +2,7 @@
 title: "Capital Flight: A Misconception"
 summary: "Why Money Doesn't 'Leave' an Economy, It Just Changes Hands"
 date: 2025-04-16T14:13:12+01:00
-tags: ['imports', 'exports', 'tariffs', 'capital-flight']
-
+tags: [imports, exports, tariffs, capital-flight]
 ---
 
 Recent commentary has expressed concern that investors are "taking

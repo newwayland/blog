@@ -2,8 +2,7 @@
 title: "Time for a Change"
 date: 2025-03-02T12:41:13Z
 summary: "After 30 years, a long-planned milestone has arrived"
-tags: [MMT, personal]
-
+tags: [mmt, personal]
 ---
 
 It's finally March 2025, and I can hardly believe that a date I've had in the diary for such a long time has finally arrived. It means, at long last, I can call time on a 30-year contracting career and retire from full-time work.[^1]

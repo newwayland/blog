@@ -1,9 +1,8 @@
 ---
 title: "The Accursed Tariffs"
 date: 2025-04-08T14:53:14+01:00
-summary: "Trump’s tariffs may seem like a blunt economic tool, but their impact is deeply intertwined with currency movements and financial flows." 
-tags: ["tariffs", "trade policy", "Trump", "currency", "us", "imports", "exports"]
-
+summary: "Trump’s tariffs may seem like a blunt economic tool, but their impact is deeply intertwined with currency movements and financial flows."
+tags: [tariffs, trade-policy, trump, currency, us, imports, exports]
 ---
 
 I've been under the weather this week with a bad cold, so I'm a little

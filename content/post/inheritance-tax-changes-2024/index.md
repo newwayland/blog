@@ -3,7 +3,6 @@ title: "Inheritance Tax Reform: The Hidden Costs of the 2024 Budget"
 date: 2024-11-24T10:57:29Z
 summary: "New changes to inheritance tax deepen disparities, benefiting the wealthy and professional advisers while leaving vulnerable farmers and rural communities to bear the burden of rising land values"
 tags: [article]
-
 ---
 
 Inheritance tax (IHT) has long been dismissed as an “optional tax.”

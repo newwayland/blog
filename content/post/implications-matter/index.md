@@ -2,8 +2,7 @@
 title: "Implications Matter"
 date: 2024-11-13T09:17:54Z
 summary: "Is the BBC following the recommendations from the Blastland and Dilnot report? Let's use a bit of AI magic and find out"
-tags: [mmt, bonds, inflation, interest rates]
-
+tags: [mmt, bonds, inflation, interest-rates]
 ---
 In 2022 the BBC commissioned Michael Blastland and Andrew Dilnot to write a report: “Review of the impartiality of BBC coverage of taxation, public spending, government borrowing and debt.” [^1]
 

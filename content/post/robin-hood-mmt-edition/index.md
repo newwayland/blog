@@ -3,7 +3,6 @@ title: "Robin Hood: MMT Edition"
 date: 2020-07-03T09:15:21+01:00
 summary: "Updated Robin Hood Script for an Modern Money Theory World"
 tags: [mmt]
-
 ---
 
 This came to me the other day, when I realised that, in any Robin Hood

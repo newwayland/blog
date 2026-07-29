@@ -4,7 +4,6 @@ title: "Labour Hours and Labour Services"
 date: 2017-01-29T14:54:10Z
 summary: "Employment is about buying the former and generating the latter. How does that relate to the Job Guarantee?"
 tags: [archive, mmt, jg]
-
 ---
 
 {{<figure src="8-hours.jpeg" alt="8 Hours">}}

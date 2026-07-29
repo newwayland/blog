@@ -2,7 +2,7 @@
 title: "It's Time to Nuke the Bond Market"
 date: 2025-11-17T19:30:26Z
 summary: "Why sovereign democracies must dismantle the mythology of 'bond vigilantes' to restore political agency"
-tags: ["article", "mmt", "uk", "Interest Rates", "inflation", "borrowing"]
+tags: [article, mmt, uk, interest-rates, inflation, borrowing]
 ---
 
 

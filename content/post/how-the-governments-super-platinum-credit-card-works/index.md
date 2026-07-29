@@ -3,7 +3,6 @@ title: "How the Government's Super-Platinum Credit Card Works"
 date: 2022-01-16T07:07:40Z
 summary: "A government can get the best credit card deal in the world. Here's how it works and how they could use it."
 tags: [mmt, mmt-basics]
-
 ---
 
 {{<figure src="credit-card.jpg" alt="Credit Card by Michelle Meiklejohn">}}

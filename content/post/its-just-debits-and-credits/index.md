@@ -3,7 +3,6 @@ title: "It's Just Debits and Credits"
 date: 2021-01-02T14:00:01Z
 summary: "When using bookkeeping tools to do stock/flow analysis, it’s important to remember that we are just doing debits and credits and summing them up into stocks of debits and credits. We are using the tools of journals and balance sheets to do economic analysis."
 tags: [mmt, stock-flow]
-
 ---
 
 {{<figure src="ledger.jpg" alt="ledger">}}

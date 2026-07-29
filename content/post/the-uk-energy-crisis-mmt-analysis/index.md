@@ -3,7 +3,6 @@ title: "The UK Energy Crisis: an MMT Analysis"
 date: 2022-08-18T07:33:44+01:00
 summary: "Listening to politicians talk about the UK energy crisis is like watching bald men fighting over a comb. None of them get to the root cause - a shortage of natural gas. When you take an MMT view, that's where you start."
 tags: [mmt, uk, energy]
-
 ---
 
 {{<figure src="power-stations.jpeg" alt="Cloud powered power stations">}}

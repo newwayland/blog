@@ -4,7 +4,6 @@ title: "Onward To 100 Nmol/L: Update"
 date: 2020-10-20T06:46:09+01:00
 summary: "Vitamin D personal experiment - update after initial 8 week supplementation"
 tags: [covid19, personal]
-
 ---
 
 [Back in August]({{< relref "onward-to-100-nmol" >}}) I mentioned I was doing an experiment to see what effect taking Vitamin D supplements would have on my serum Vitamin D levels.

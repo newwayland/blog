@@ -2,7 +2,7 @@
 title: "Zero Interest Rate Policy (ZIRP) Primer"
 summary: "Here's an executive summary for a potential primer on ZIRP. I invite you to share any thoughts or suggestions on Discord if there are areas that need further detail or clarification"
 date: 2025-02-23T10:37:37Z
-
+tags: [mmt, mmt-basics, uk]
 ---
 (Here's an executive summary for a potential primer on ZIRP. I invite
 you to share any thoughts or suggestions on Discord if there are areas

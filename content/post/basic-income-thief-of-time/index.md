@@ -4,7 +4,6 @@ title: "Basic Income: Thief of Time"
 summary: "Basic income is a desire to be paid twice - once self consuming your own hours and once consuming the output of somebody else's hours"
 date: 2016-12-06T18:40:18Z
 tags: [mmt, jg, archive]
-
 ---
 
 {{<figure src="thief.jpeg" alt="Thief of Time">}}

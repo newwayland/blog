@@ -3,7 +3,6 @@ title: "MMT Money Story - Print and Shred Edition"
 date: 2023-09-18T08:19:46+01:00
 summary: "For every Printing Press, there is a Shredding Machine. You can't have one without the other."
 tags: [mmt-basics, money-story]
-
 ---
 
 Here's the MMT Money Story

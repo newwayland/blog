@@ -2,7 +2,7 @@
 title: "The Phantom Trade Deficit"
 date: 2025-06-23T12:29:06+01:00
 summary: "We abandoned the gold standard. So why do we still treate trade as though we haven't?"
-
+tags: []
 ---
 
 A "trade deficit" sounds like a national failure, a worrying shortfall

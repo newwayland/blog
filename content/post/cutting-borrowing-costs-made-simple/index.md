@@ -2,8 +2,7 @@
 title: "Cutting Borrowing Costs Made Simple: End Interest Payments"
 date: 2023-08-05T07:36:25+01:00
 summary: "Two titans of UK politics face off over government interest payments, while completely missing the obvious answer: stop giving rich people free money"
-tags: [mmt, interest rates, politics]
-
+tags: [mmt, interest-rates, politics]
 ---
 
 This week [gave us][3] a titanic intellectual battle between Labour Shadow Chancellor Rachel Reeves and Tory Treasury Minister Andrew Griffiths.

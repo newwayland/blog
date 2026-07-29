@@ -4,7 +4,6 @@ title: "From Furlough to Full Employment"
 date: 2020-07-10T08:41:58+01:00
 summary: "Overview of a UK Job Guarantee"
 tags: [mmt, jg]
-
 ---
 
 [Sunak is frustrating](https://www.theguardian.com/uk-news/2020/jul/08/rishi-sunak-unveils-stamp-duty-holiday-and-hospitality-vat-cut-furloughed-coronavirus). We could move from Furlough to Full Employment tomorrow and solve the whole problem in one shot. 

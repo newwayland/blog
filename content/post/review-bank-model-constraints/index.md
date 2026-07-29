@@ -3,10 +3,7 @@ title: "Capital Constraints and Equity Dynamics in Agent-Based Banking Models: A
 date: 2026-02-19T11:33:53Z
 summary: "Agent-based banking models impose hard capital constraints and lack market-priced equity issuance, overstating credit rationing relative to empirical evidence on proactive seasoned equity offerings."
 author: "AI"
-tags: 
-  - agent-based
-  - banking
-  - economics
+tags: [agent-based, banking, economics]
 ---
 
 This literature review examines banking structures in agent-based economic

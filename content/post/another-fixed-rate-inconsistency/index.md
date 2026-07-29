@@ -3,7 +3,6 @@
 title: "Another Fixed Rate Inconsistency?"
 date: 2020-07-10T07:37:00+01:00
 tags: [mmt]
-
 ---
 
 Why do those people who agitate for a fixed exchange rate between currencies also advocate for a floating rate between government bonds and the currency?

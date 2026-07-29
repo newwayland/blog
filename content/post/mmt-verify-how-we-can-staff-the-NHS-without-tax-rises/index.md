@@ -3,7 +3,6 @@ title: "MMT Verify: How We Can Staff the NHS Without Tax Rises"
 date: 2023-07-25T10:40:42+01:00
 summary: "Spending only happens if there was something to buy. If that spending is then deficit spending it has a lower inflationary impact than spending that is tax-matched."
 tags: [mmt, verify, deficit-spending, inflation, funding]
-
 ---
 Even though we have had a book called [The Deficit Myth][1] for years, the myth persists.
 One such myth propagator is Jonathan Portes[^1], who declared in a recent exchange with Warren Mosler:

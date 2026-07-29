@@ -2,8 +2,8 @@
 title: "Fairness on the Frontline"
 summary: "Outdated NHS pay rules are failing resident doctors"
 date: 2025-08-01T12:18:24+01:00
-tags: ["NHS", "resident doctors", "equal pay"]
-
+tags: [nhs, resident-doctors, equal-pay]
+draft: true
 ---
 
 ### Why Outdated NHS Pay Rules Are Failing Resident Doctors

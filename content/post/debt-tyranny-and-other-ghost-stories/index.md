@@ -2,7 +2,7 @@
 title: "Debt Tyranny and Other Ghost Stories"
 date: 2026-06-24T07:27:57+01:00
 summary: "The emperor has no clothes, and the only thing keeping him warm is our collective refusal to look down."
-tags: [mmt, article, bonds, borrowing, imf, "uk politics", uk]
+tags: [mmt, article, bonds, borrowing, imf, uk-politics, uk]
 ---
 
 John Rapley opens [his *UnHerd* piece on Andy Burnham][1] with a vivid

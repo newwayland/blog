@@ -3,7 +3,6 @@ title: "The Tyranny Of The Myths"
 date: 2024-12-15T09:57:51Z
 tags: [article]
 summary: "Uncover the myths holding back our economy and explore a bold vision: jobs for all, zero interest rates, and a system designed to serve the many—not the few"
-
 ---
 Economics is often described as the dismal science, but it's more apt to
 call it the mystical science. For generations, the field has been ruled by

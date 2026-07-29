@@ -1,8 +1,8 @@
 ---
 title: "Rouble Gas Payments are probably a False Flag"
 date: 2022-03-28T22:10:14+01:00
-summary: "In all international transactions they consumer pays with the currency they have and the producer gets the currency they want to hold. So why the big fuss over Russia's requirement to receive Roubles?" 
-tags: [mmt, fx, russia, rouble, central bank, export, import, external sector]
+summary: "In all international transactions they consumer pays with the currency they have and the producer gets the currency they want to hold. So why the big fuss over Russia's requirement to receive Roubles?"
+tags: [mmt, fx, russia, rouble, central-bank, export, import, external-sector]
 ---
 
 {{<figure src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazprom_HQ_1.jpg" alt="Gazprom HQ 1">}}

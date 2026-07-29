@@ -1,11 +1,8 @@
 ---
 title: "A Framework for a Basic Bank"
 date: 2025-01-26T08:35:16Z
-summary: "In analysis, it's helpful to simplify and focus on the core elements of a
-system. Today, we will identify the essential processes and structures
-required to create a functional bank, accompanied by diagrams to
-illustrate these key processes."
-
+summary: "In analysis, it's helpful to simplify and focus on the core elements of a system. Today, we will identify the essential processes and structures required to create a functional bank, accompanied by diagrams to illustrate these key processes."
+tags: []
 ---
 
 In analysis, it's helpful to simplify and focus on the core elements of a

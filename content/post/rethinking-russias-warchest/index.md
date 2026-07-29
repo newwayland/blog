@@ -3,7 +3,6 @@ title: "Rethinking Russia's War Chest"
 date: 2025-05-30T13:07:37+01:00
 summary: "Are we missing the real story of Russia's war funding? The inconvenient truth about roubles and global power."
 tags: [article, russia, imports, exports]
-
 ---
 
 

@@ -1,15 +1,7 @@
 ---
 title: "The State and the Casino - Why the Pension Crisis is Manufactured"
 draft: false
-tags:
-  - article
-  - pensions
-  - uk
-  - taxation
-  - spending
-  - money
-  - policy
-  - economics
+tags: [article, pensions, uk, taxation, spending, money, policy, economics]
 summary: "The pension debate is misframed as a funding problem when it is actually a question of how current production is allocated and distributed between workers and retirees."
 date: 2026-07-06T18:03:48+01:00
 ---

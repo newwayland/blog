@@ -3,7 +3,6 @@ title: "Why the Russian Oil Price Cap Won't Work"
 date: 2022-12-06T05:45:43Z
 summary: "The 2020s appear to be a never-ending parade of global groupthink. The Russian Oil Price Cap is yet another stupid and self-destructive idea that should have been suffocated at birth. It cannot possibly achieve what its supporters claim, and it represents emotional value signalling from the Big Hug Club rather than any semblance of rational thought."
 tags: [central-bank, exports, imports, russia, sanctions]
-
 ---
 The 2020s appear to be a never-ending parade of global groupthink. The
 Russian Oil Price Cap is yet another stupid and self-destructive idea

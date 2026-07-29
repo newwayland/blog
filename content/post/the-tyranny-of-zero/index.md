@@ -2,7 +2,7 @@
 title: "The Tyranny of Zero: How Nothing Controls Everything"
 date: 2025-02-16T09:19:03Z
 summary: "How a simple numerical concept exerts outsized influence over institutional operations and economic thought."
-
+tags: []
 ---
 This week, I've been playing with the latest 'AI' models and teaching
 them the vagaries of the UK Exchequer institutional arrangements. With

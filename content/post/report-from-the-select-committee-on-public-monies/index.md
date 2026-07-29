@@ -3,7 +3,6 @@ title: "Report From the Select Committee on Public Monies - 18 Aug 1857"
 date: 2021-11-15T09:28:37Z
 summary: "This is a transcript of the 1857 report that lead to the Exchequer and Audit Department Act of 1866, the law by which government payments are both regulated and permitted to this day. Although only five pages long it revolutionised the accounting, audit and payment systems in the United Kingdom."
 tags: [mmt, archive, references]
-
 ---
 
 {{<figure src="report-on-public-monies.png" alt="Report on Public Monies">}}

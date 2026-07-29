@@ -3,7 +3,6 @@ title: "Some Uncomfortable Truths About Banking"
 date: 2025-03-18T08:54:01Z
 summary: "Understanding deposits, reserves, and capital reveals some uncomfortable truths"
 tags: [mmt, banking]
-
 ---
 
 

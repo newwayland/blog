@@ -3,7 +3,6 @@ title: "Eliminating the cost of the Asset Purchase Indemnity"
 date: 2022-12-27T08:32:30Z
 tags: [mmt, policy, paper, banks, bonds, central-bank]
 summary: 'The Asset Purchase Facility has landed HM Treasury with a ~£90 billion bill over the next two year. This paper lays out an approach that requires no further vote funding from Parliament, no additional debt interest payments, and restores "postive cash flow" from the APF for the remainder of this Parliament.'
-
 ---
 
 ## Summary

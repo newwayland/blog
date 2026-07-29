@@ -2,7 +2,7 @@
 title: "Time to Talk Tariffs"
 date: 2025-02-02T11:15:40+00:00
 summary: "Trump’s tariffs are decried as protectionist madness, but the EU’s own tariffs escape scrutiny. As Brexit hits its five-year mark, it’s time to expose the double standards in trade policy—and ask who really pays the price."
-tags: [tariffs, trade policy, Trump, EU, Brexit, economics]
+tags: [tariffs, trade-policy, trump, eu, brexit, economics]
 ---
 
 It's an exciting time for those of us who watch economic
