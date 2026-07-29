@@ -3,7 +3,7 @@
 title: "The MMT Approach in a Nutshell"
 date: 2020-07-20T08:46:41+01:00
 summary: "An overview of the Modern Money Theory viewpoint"
-tags: [mmt, overview]
+tags: [mmt, mmt-basics]
 ---
 
 MMT takes the view that monetary policy is largely useless as a stabilisation device, and what is known as the horizontal circuit ("bank money") should be left to operate as a market rather than being manipulated all the time. Therefore you leave the base rate at the natural rate of 0% and stop artificially trying to hold it above that, particularly stop moving it around.

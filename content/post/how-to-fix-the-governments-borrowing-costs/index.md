@@ -2,7 +2,7 @@
 title: "How to fix the government's borrowing costs"
 date: 2022-10-23T08:12:50+01:00
 summary: "The government borrows at a price of its choosing. Here’s how."
-tags: [mmt, easy, borrowing, bonds]
+tags: [mmt, borrowing, bonds, mmt-basics]
 ---
 The government borrows at a price of its choosing. Here’s how.
  
