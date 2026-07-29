@@ -2,7 +2,7 @@
 title: "Not Only Can We Ignore the Bond Market, We Must"
 summary: "The gilt market is mendicant, not master. Why we must stop our devotion to an empty throne and remove this phantom veto on democracy."
 date: 2026-02-01T11:28:55Z
-tags: [bonds, bank-of-england, mmt, uk, uk-politics, fiscal-policy, interest-rates, central-bank]
+tags: [bonds, bank-of-england, mmt, uk, uk-politics, fiscal-policy, interest-rates, central-bank, sophistry-or-shibboleth]
 ---
 
 In British politics, the bond market has acquired near-mythic status. As
