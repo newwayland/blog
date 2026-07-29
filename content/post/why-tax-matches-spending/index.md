@@ -2,7 +2,7 @@
 title: "Why Tax Matches Spending"
 summary: "A bit of multiplier maths so you can impress the neoliberals"
 date: 2021-07-04T08:05:46+01:00
-tags: [mmt, maths]
+tags: [mmt, maths, mmt-basics]
 
 ---
 
