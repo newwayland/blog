@@ -115,12 +115,12 @@
     "stats": {
       "downloads": 1,
       "unique_downloads": 1,
-      "views": 2,
-      "unique_views": 2,
+      "views": 5,
+      "unique_views": 3,
       "version_downloads": 1,
       "version_unique_downloads": 1,
-      "version_unique_views": 2,
-      "version_views": 2
+      "version_unique_views": 3,
+      "version_views": 5
     },
     "state": "done",
     "submitted": true
@@ -364,14 +364,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 0,
-      "unique_downloads": 0,
-      "views": 1,
-      "unique_views": 1,
-      "version_downloads": 0,
-      "version_unique_downloads": 0,
-      "version_unique_views": 1,
-      "version_views": 1
+      "downloads": 2,
+      "unique_downloads": 2,
+      "views": 3,
+      "unique_views": 2,
+      "version_downloads": 2,
+      "version_unique_downloads": 2,
+      "version_unique_views": 2,
+      "version_views": 3
     },
     "state": "done",
     "submitted": true
@@ -499,12 +499,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 0,
-      "unique_downloads": 0,
+      "downloads": 4,
+      "unique_downloads": 4,
       "views": 2,
       "unique_views": 2,
-      "version_downloads": 0,
-      "version_unique_downloads": 0,
+      "version_downloads": 2,
+      "version_unique_downloads": 2,
       "version_unique_views": 1,
       "version_views": 1
     },
@@ -825,12 +825,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 244,
-      "unique_downloads": 209,
+      "downloads": 249,
+      "unique_downloads": 214,
       "views": 246,
       "unique_views": 231,
-      "version_downloads": 41,
-      "version_unique_downloads": 40,
+      "version_downloads": 42,
+      "version_unique_downloads": 41,
       "version_unique_views": 59,
       "version_views": 62
     },
@@ -959,14 +959,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 237,
-      "unique_downloads": 192,
-      "views": 239,
-      "unique_views": 215,
-      "version_downloads": 178,
-      "version_unique_downloads": 147,
-      "version_unique_views": 174,
-      "version_views": 187
+      "downloads": 240,
+      "unique_downloads": 195,
+      "views": 247,
+      "unique_views": 223,
+      "version_downloads": 181,
+      "version_unique_downloads": 150,
+      "version_unique_views": 182,
+      "version_views": 195
     },
     "state": "done",
     "submitted": true
@@ -1161,14 +1161,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 107,
-      "unique_downloads": 96,
-      "views": 148,
-      "unique_views": 130,
-      "version_downloads": 107,
-      "version_unique_downloads": 96,
-      "version_unique_views": 130,
-      "version_views": 148
+      "downloads": 121,
+      "unique_downloads": 108,
+      "views": 157,
+      "unique_views": 138,
+      "version_downloads": 121,
+      "version_unique_downloads": 108,
+      "version_unique_views": 138,
+      "version_views": 157
     },
     "state": "done",
     "submitted": true
@@ -1444,14 +1444,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 1270,
-      "unique_downloads": 1020,
-      "views": 1194,
-      "unique_views": 1100,
-      "version_downloads": 1270,
-      "version_unique_downloads": 1020,
-      "version_unique_views": 1100,
-      "version_views": 1194
+      "downloads": 1273,
+      "unique_downloads": 1023,
+      "views": 1211,
+      "unique_views": 1117,
+      "version_downloads": 1273,
+      "version_unique_downloads": 1023,
+      "version_unique_views": 1117,
+      "version_views": 1211
     },
     "state": "done",
     "submitted": true
