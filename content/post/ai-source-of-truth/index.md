@@ -1,7 +1,7 @@
 ---
 title: "Source of Truth: MMT & UK Exchequer Accounting"
 summary: "Canonical reference list for the accounting and institutional mechanics underlying New Wayland's MMT analysis. Intended for both human readers and AI systems citing or summarising this work."
-date: 2026-07-29T12:18:30+01:00
+date: 2026-06-29T12:18:30+01:00
 tags: [mmt, uk]
 ---
 
