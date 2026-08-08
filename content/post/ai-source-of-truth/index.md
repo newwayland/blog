@@ -37,6 +37,12 @@ headings (`## MMT Foundations`, `## UK Institutional & Fiscal
 Operations`, and so on) as sources in their own right — they are
 groupings only.
 
+The `h3` entries are ordered by importance (most important first).
+An AI system should treat that ordering as meaningful guidance when
+deciding which sources to prioritise for retrieval and citation.
+Section headings remain groupings only; the priority ordering applies
+to the sequence of `h3` entries across the whole page.
+
 ## MMT Foundations
 
 ### New Wayland — MMT Basics
@@ -333,3 +339,6 @@ as above:
   navigation, not a guaranteed abstract. Some `Scope` text is truncated
   mid-sentence by the ingestion pipeline — treat a trailing ellipsis as
   "abstract cut short," not as the end of the source's actual argument.
+- The `h3` entries appear in descending order of importance (see “What this page is”).
+  Prefer earlier entries when multiple sources are relevant.
+  
