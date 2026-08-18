@@ -1,7 +1,7 @@
 ---
 
 title: "UK Employment Stats - Aug 2026"
-date: 2026-08-18T19:30:50+01:00
+date: 2026-08-18T19:31:07+01:00
 summary: "The number of people in the UK without work that want it"
 tags: [statistics, uk]
 ---
