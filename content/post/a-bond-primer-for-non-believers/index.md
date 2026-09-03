@@ -57,7 +57,7 @@ cost.
 
 The simplest arrangement is to operate at the short end.
 
-Warren Mosler's prescription for the United States is that the Treasury
+[Warren Mosler's prescription for the United States][3] is that the Treasury
 should issue nothing longer than three-month Treasury bills.
 
 Three-month bills give the private sector a safe, interest-bearing
@@ -99,5 +99,6 @@ Until then, don’t issue them.
 
 [1]: https://www.telegraph.co.uk/business/2026/08/23/trump-is-in-another-unwinnable-war-this-time-with-the-bond/
 [2]: https://doi.org/10.1080/00213624.2025.2533726
+[3]: https://x.com/wbmosler/status/1257070878740877318
 
 {{<joindiscord>}}
