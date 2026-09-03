@@ -21,7 +21,7 @@ government becomes the supplicant.
 
 Emotions elevated, vibes enthused, reason defenestrated.
 
-The reality is simple, prosaic and dull.
+[The reality is simple, prosaic and dull.][2]
 
 Start with government spending. The government instructs its central
 bank to credit bank accounts. That creates a government liability to
@@ -97,9 +97,7 @@ bills.
 
 Until then, don’t issue them.
 
-[1]:
-https://www.telegraph.co.uk/business/2026/08/23/trump-is-in-another-unwinnable-war-this-time-with-the-bond/
+[1]: https://www.telegraph.co.uk/business/2026/08/23/trump-is-in-another-unwinnable-war-this-time-with-the-bond/
+[2]: https://doi.org/10.1080/00213624.2025.2533726
 
 {{<joindiscord>}}
-
-
