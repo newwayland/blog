@@ -74,7 +74,7 @@ bills, buy back the bonds and replace them with bills. Where the
 market demands a high yield for longer-term duration, stop supplying
 that duration.
 
-It is the logic behind Bessent's current buyback programme, whether he
+It is the logic behind Bessent's attempt at a buyback programme, whether he
 understands that or not.
 
 Make it normal practice.
