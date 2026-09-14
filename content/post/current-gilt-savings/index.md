@@ -1,6 +1,6 @@
 ---
 title: "Switch and Save: HM Treasury Edition"
-date: 2026-09-14T10:09:43Z
+date: 2026-09-14T10:15:26Z
 draft: false
 summary: "Rolling every qualifying conventional gilt into 3-month bills would save the UK an estimated £4.03bn of interest over the next year."
 tags: [debt management, gilts, treasury bills]
@@ -8,7 +8,7 @@ tags: [debt management, gilts, treasury bills]
 
 With Bank Rate at 3.75% and the latest 3-month Treasury bill tender
 clearing at 3.97%, refinancing all 26 qualifying gilt issues onto rolling
-3-month bills would save an estimated
+[3-month bills][1] would save an estimated
 
 ## £4.03bn
 
@@ -60,3 +60,5 @@ The ten biggest prizes below account for **£2.19bn** of that.
 - Every qualifying issue is assumed to pay a full year of coupons.
 
 {{<joindiscord>}}
+
+[1]: {{<relref a-bond-primer-for-non-believers>}}
