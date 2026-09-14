@@ -1,6 +1,6 @@
 ---
 title: "Switch and Save: HM Treasury Edition"
-date: 2026-09-14T10:15:26Z
+date: 2026-09-14T11:33:26+01:00
 draft: false
 summary: "Rolling every qualifying conventional gilt into 3-month bills would save the UK an estimated £4.03bn of interest over the next year."
 tags: [debt management, gilts, treasury bills]
