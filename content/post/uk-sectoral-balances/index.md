@@ -1,7 +1,7 @@
 ---
 
-title: "UK Sectoral Balances - Aug 2026"
-date: 2026-08-13T16:20:48+01:00
+title: "UK Sectoral Balances - Oct 2026"
+date: 2026-10-20T10:39:58+01:00
 summary: "Sectoral Financial Balances for the UK as a % of GDP, smoothed over a year"
 tags: [statistics, uk]
 ---
