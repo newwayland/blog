@@ -4,6 +4,7 @@ date: 2026-09-26T07:21:28+0100
 draft: false
 summary: "Rolling every qualifying conventional gilt into 3-month bills would save the UK an estimated £4.51bn of interest over the next year."
 tags: [debt management, gilts, treasury bills]
+draft: true
 ---
 
 With Bank Rate at 3.75% and the latest 3-month Treasury bill tender
