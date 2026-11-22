@@ -16,7 +16,7 @@ For every borrower, there is a corresponding saver. People choosing to save rath
  
 - It could offer a £100 treasury gilt at the Debt Management Office [with a fixed interest rate and a fixed term][4].
  
-Note how the last two items are the same, showing that there is no need for the Debt Management Office. [National Savings could do it all]({{<relref "the-only-bonds-we-need-are-granny-bonds">}}).
+Note how the last two items are the same, showing that there is no need for the Debt Management Office. National Savings could do it all.
  
 If pension funds had used National Savings rather than gilts, they wouldn't have had a problem.
 

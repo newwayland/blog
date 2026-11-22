@@ -60,7 +60,7 @@ Change the focus of parliamentary scrutiny from the Finance Bills to the Supply 
 
 Announce that the Monetary Policy Committee will be disbanded and the Bank Rate will be locked permanently at 0% once supporting banking system reforms are in place. No need to pay unelected wonks to get things completely and utterly wrong. We already pay MPs to do that. The difference is we can sack the latter. 
 
-Announce that the Debt Management Office will be dissolved and any remaining Gilt sale and purchase operations returned to National Savings. Government savings operations will then be [offered only to UK individuals or their trustees][5]. At the very least, eliminate the 'full funding' remit of the DMO, which serves no purpose in a world of excess reserves. 
+Announce that the Debt Management Office will be dissolved and any remaining Gilt sale and purchase operations returned to National Savings. Government savings operations will then be offered only to UK individuals or their trustees. At the very least, eliminate the 'full funding' remit of the DMO, which serves no purpose in a world of excess reserves. 
 
 Require that the Office of Budget Responsibility operates on a functional basis, with a remit to ensure that the entire physical resources of the United Kingdom are fully engaged at all times and in the most productive manner. Look after the unemployment and let the numbers look after themselves. If they are unable or unwilling to do that, then the OBR should be disbanded.
 
@@ -77,4 +77,3 @@ Both fiscal and monetary dominance have failed us. Time for a Functional Revolut
 [2]: https://www.gov.uk/government/publications/supplementary-estimates-2020-21
 [3]: https://bills.parliament.uk/bills/2760
 [4]: https://guidetoprocedure.parliament.uk/articles/s718SrCb/supply-and-appropriation-bills
-[5]: {{< relref "the-only-bonds-we-need-are-granny-bonds" >}}
