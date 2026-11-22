@@ -2,7 +2,6 @@
 title: "Interest Rates on Government Debt Are Capped"
 date: 2026-11-22T08:01:29Z
 summary: "Yes, even in the Eurozone"
-draft: true
 tags: ['mmt', 'interest-rates', 'bonds', 'borrowing', 'deficit-spending', 'monetary policy', 'national debt', 'yields']
 ---
 
