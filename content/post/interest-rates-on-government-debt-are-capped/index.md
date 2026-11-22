@@ -33,7 +33,7 @@ US federal government itself due to the infamous "debt ceiling". In
 contrast, the UK central government has no explicit limitations.
 
 What's interesting about the Eurosystem is that many member states have no
-entrenched legislative restrictions on issuing government debt. They have
+entrenched legislative restrictions on issuing government debt either. They have
 a treaty restriction on direct central bank financing, which has broadly
 the same effect as the Federal Reserve's inability to lend directly to
 the US federal government. France, for example, is a sovereign state but
