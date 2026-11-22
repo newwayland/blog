@@ -113,4 +113,4 @@ rebellion. It is an act of democratic hygiene.
 
 {{<joindiscord>}}
 
-[1]: {{< relref "euthanise-the-bond-market" >}}
+[1]: {{< relref gilt-issues-considered-harmful >}}

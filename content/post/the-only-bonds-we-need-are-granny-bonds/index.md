@@ -1,6 +1,7 @@
 ---
 title: "The Only Bonds We Need Are Granny Bonds"
 date: 2021-02-23T17:51:06Z
+draft: true
 summary: "There is no justification for paying public funds on government securities. Welfare payments should be democratically targetted, not market purchasable."
 tags: [mmt, bonds]
 ---
